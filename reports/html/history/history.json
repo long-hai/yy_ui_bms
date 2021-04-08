@@ -1,0 +1,795 @@
+{
+  "280c93a9230393d76aa45858e39f5cc4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "eb3bd7a924114a3f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617809933331,
+        "stop" : 1617809937179,
+        "duration" : 3848
+      }
+    } ]
+  },
+  "3d3a1546956e7625c160701653d6a4fe" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c08c4c6cdde914d0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617810145695,
+        "stop" : 1617810147751,
+        "duration" : 2056
+      }
+    } ]
+  },
+  "1e34bc094a8a5fd444cd97f16f040513" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "380999735528e82b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617809929517,
+        "stop" : 1617809933327,
+        "duration" : 3810
+      }
+    } ]
+  },
+  "396fc4e4b7b3c91b2e28446b2e200e6f" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "54ccb6f57c653b17",
+      "status" : "failed",
+      "statusDetails" : "AssertionError",
+      "time" : {
+        "start" : 1617810212287,
+        "stop" : 1617810213987,
+        "duration" : 1700
+      }
+    } ]
+  },
+  "55ecf3c7e241255c7b7d6adab5aba672" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e5609c88fc9f7ddb",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.TimeoutException: Message: //*[@id='out-table']/div[4]/div[2]/table/tbody/tr[1]/td[7]/div/button[1]定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式",
+      "time" : {
+        "start" : 1617809958571,
+        "stop" : 1617809968887,
+        "duration" : 10316
+      }
+    } ]
+  },
+  "a33d0babaa28f1a86e39659300ae8379" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d4f1223cc3629472",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617809937190,
+        "stop" : 1617809939051,
+        "duration" : 1861
+      }
+    } ]
+  },
+  "d2c43cebe0d491d533be7acd0dadda43" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "935bf27b8bdcc18f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617809925665,
+        "stop" : 1617809929510,
+        "duration" : 3845
+      }
+    } ]
+  },
+  "f46112ee6a03b0861029988e3068cd9d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "337e3f470230c4b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617810007535,
+        "stop" : 1617810032737,
+        "duration" : 25202
+      }
+    } ]
+  },
+  "c3cae37ea9696576aee0838260f5f33b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "85b0493c9c9b01f7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617810039754,
+        "stop" : 1617810044610,
+        "duration" : 4856
+      }
+    } ]
+  },
+  "27734c52d4eb9de66fa8fb7c2a2b641e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "44b3954b4683fcb3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617810032747,
+        "stop" : 1617810039745,
+        "duration" : 6998
+      }
+    } ]
+  },
+  "865c06842603679ab512762ebcb848ed" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "82239390100ad284",
+      "status" : "failed",
+      "statusDetails" : "AssertionError",
+      "time" : {
+        "start" : 1617809948313,
+        "stop" : 1617809958388,
+        "duration" : 10075
+      }
+    } ]
+  },
+  "2978fc629ca42aceefa125fc12a4ec94" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8608a8e0a37a9cfc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617810002522,
+        "stop" : 1617810007533,
+        "duration" : 5011
+      }
+    } ]
+  },
+  "d3b2564dce7169a81b10ed3cdfa3110a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a491588e78b33de1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617809996871,
+        "stop" : 1617809999146,
+        "duration" : 2275
+      }
+    } ]
+  },
+  "294388ab20a179f90276df3c525230b9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "398196fb3f73f3a8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617810186457,
+        "stop" : 1617810191504,
+        "duration" : 5047
+      }
+    } ]
+  },
+  "d6ff4f78ca5290b1815b3a447be10817" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9d96fd007024ea51",
+      "status" : "failed",
+      "statusDetails" : "AssertionError",
+      "time" : {
+        "start" : 1617810210562,
+        "stop" : 1617810212252,
+        "duration" : 1690
+      }
+    } ]
+  },
+  "83d547ce0370fa98da01046b6d73bf18" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5a3426ba84767edb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617809982890,
+        "stop" : 1617809996867,
+        "duration" : 13977
+      }
+    } ]
+  },
+  "fe5ac92162ce27a2a25850b208d6c8cf" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "16b62c2515a1d34f",
+      "status" : "broken",
+      "statusDetails" : "autoit.autoit.AutoItError: timeout on wait for window exists",
+      "time" : {
+        "start" : 1617810114554,
+        "stop" : 1617810130406,
+        "duration" : 15852
+      }
+    } ]
+  },
+  "f701add6ca742632c20bf1b1633ff1e5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6b529f29e660df22",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617810110103,
+        "stop" : 1617810114544,
+        "duration" : 4441
+      }
+    } ]
+  },
+  "fb475dbb54b796bf4be247879625d34d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6ff1d6f3be77b543",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617809922978,
+        "stop" : 1617809925654,
+        "duration" : 2676
+      }
+    } ]
+  },
+  "1bd5f1fcd13ba499e8b40e73efbb7c09" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ef85828c0a93d6e3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617809979326,
+        "stop" : 1617809982879,
+        "duration" : 3553
+      }
+    } ]
+  },
+  "64887805b858264d9bf81e56c94f7351" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e0fbcb956612def1",
+      "status" : "failed",
+      "statusDetails" : "AssertionError",
+      "time" : {
+        "start" : 1617810207118,
+        "stop" : 1617810208827,
+        "duration" : 1709
+      }
+    } ]
+  },
+  "d9482e0fbb9dea606e77c1bf67013b02" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7bf09480ef4a878b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617810180791,
+        "stop" : 1617810186456,
+        "duration" : 5665
+      }
+    } ]
+  },
+  "e11f7ad11a73938548d3335e78f978d3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3760c5f92bd4f131",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617809946433,
+        "stop" : 1617809948303,
+        "duration" : 1870
+      }
+    } ]
+  },
+  "e89bd77413f78f22147e7209f783dbe2" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "916ef4d98d04364d",
+      "status" : "failed",
+      "statusDetails" : "AssertionError",
+      "time" : {
+        "start" : 1617810208877,
+        "stop" : 1617810210529,
+        "duration" : 1652
+      }
+    } ]
+  },
+  "69c1e55b8fa114c7db509233f5791e2e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "35eba80b2b3214ea",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617810151059,
+        "stop" : 1617810156512,
+        "duration" : 5453
+      }
+    } ]
+  },
+  "689841563ca6e0720010094badddbe8c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "38de2fa832ea2609",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.TimeoutException: Message: (//i[@class='el-icon-view'])[2]/..定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式",
+      "time" : {
+        "start" : 1617810097380,
+        "stop" : 1617810109978,
+        "duration" : 12598
+      }
+    } ]
+  },
+  "99a83f05721efff5ff1be5ddf70aec0c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "86b44e102300c600",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617810079661,
+        "stop" : 1617810084620,
+        "duration" : 4959
+      }
+    } ]
+  },
+  "362cdc5a1429b5cb39d11c47f2958940" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "91d87396ba66cc7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617809999155,
+        "stop" : 1617810002512,
+        "duration" : 3357
+      }
+    } ]
+  },
+  "7c66e6ca514f9d42102e194bee958803" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7648d0198823254",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.TimeoutException: Message: //button[@class='el-button icon_padding el-button--primary is-plain']定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式",
+      "time" : {
+        "start" : 1617809969004,
+        "stop" : 1617809979210,
+        "duration" : 10206
+      }
+    } ]
+  },
+  "c1f54a23f17e8d8d44f30433c692604f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "73a5a7d103f67776",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617809899566,
+        "stop" : 1617809922971,
+        "duration" : 23405
+      }
+    } ]
+  },
+  "68e17bd91075b817d109a9e692f2ee9f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bca89c249420c86f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617810076396,
+        "stop" : 1617810079651,
+        "duration" : 3255
+      }
+    } ]
+  },
+  "e48790763fb911002c5136f2bca00328" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "24d62c71ffed2f87",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.TimeoutException: Message: (//i[@class='el-icon-edit'])[2]/..定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式",
+      "time" : {
+        "start" : 1617810084630,
+        "stop" : 1617810097273,
+        "duration" : 12643
+      }
+    } ]
+  },
+  "fa7789612bb76aa2f4ea724f9cae451d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ced8204a23247c9e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617810147761,
+        "stop" : 1617810151049,
+        "duration" : 3288
+      }
+    } ]
+  },
+  "1bd1f7150d847b20ce5f2da8aff2277d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9106493007ad5ab",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617809939055,
+        "stop" : 1617809946430,
+        "duration" : 7375
+      }
+    } ]
+  },
+  "4fcd7ffe38a88f3a277e22994d0b5613" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4eb740e1a8140c5e",
+      "status" : "failed",
+      "statusDetails" : "AssertionError",
+      "time" : {
+        "start" : 1617810130496,
+        "stop" : 1617810145674,
+        "duration" : 15178
+      }
+    } ]
+  },
+  "2cf4f7281cd043e3b0c5934454a1a7b6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "67de3d7de819d866",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617810060684,
+        "stop" : 1617810074284,
+        "duration" : 13600
+      }
+    } ]
+  },
+  "022ef07e0deaa3a54037a64d78e74a71" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a94048d48668921a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617810074287,
+        "stop" : 1617810076385,
+        "duration" : 2098
+      }
+    } ]
+  },
+  "947793b62936a60f6eb6e138bc58993a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "905974af19127200",
+      "status" : "broken",
+      "statusDetails" : "autoit.autoit.AutoItError: timeout on wait for window exists",
+      "time" : {
+        "start" : 1617810191505,
+        "stop" : 1617810207008,
+        "duration" : 15503
+      }
+    } ]
+  },
+  "b5c906b6045895af8bc179720d5a9c97" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fb145cd62453a845",
+      "status" : "broken",
+      "statusDetails" : "autoit.autoit.AutoItError: timeout on wait for window exists",
+      "time" : {
+        "start" : 1617810044625,
+        "stop" : 1617810060580,
+        "duration" : 15955
+      }
+    } ]
+  },
+  "0cf74dde853beb47365e825ddf688f59" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "eb5b512e3b2600e5",
+      "status" : "failed",
+      "statusDetails" : "AssertionError",
+      "time" : {
+        "start" : 1617810214023,
+        "stop" : 1617810215667,
+        "duration" : 1644
+      }
+    } ]
+  },
+  "4d88129325f2523f8ddb55fdf81056e1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "24901c05fd449de5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617810156514,
+        "stop" : 1617810180783,
+        "duration" : 24269
+      }
+    } ]
+  }
+}

@@ -1,0 +1,147 @@
+INFO     tools.report.log_tool:log_tool.py:36 -------测试开始，启动headless浏览器成功-------
+INFO     tools.report.log_tool:log_tool.py:36 打开网址： https://customer-uat.transtalent.cn/#/login 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 //input[@placeholder='用户名'] 
+INFO     tools.report.log_tool:log_tool.py:36 <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="9052d843-e57c-48cd-a280-5c70331cb9fc")> 中输入： RT_LEAFQD 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 //input[@placeholder='密码'] 
+INFO     tools.report.log_tool:log_tool.py:36 <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="079eaf49-da9e-481c-bfc2-97b121a0ab00")> 中输入： q123456 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 //button 
+INFO     tools.report.log_tool:log_tool.py:36 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="7e840984-23f3-4958-9722-7c7b09beee5a")> 
+INFO     tools.report.log_tool:log_tool.py:36 获取当前页面的url https://customer-uat.transtalent.cn/#/channel 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 (//li[@class='el-menu-item']//i)[1] 
+INFO     tools.report.log_tool:log_tool.py:36 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="60069890-1123-43ff-9bcc-6e9c0680544b")>  属性:  class  的值为:  icon iconfont icon-qudao 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 (//li[@class='el-menu-item']//i)[2] 
+INFO     tools.report.log_tool:log_tool.py:36 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="c9d8aa8d-65af-4973-ba63-7de18441f31b")>  属性:  class  的值为:  icon iconfont icon-kehu 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 (//li[@class='el-menu-item']//i)[3] 
+INFO     tools.report.log_tool:log_tool.py:36 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="e6eea191-e317-4454-be5b-2c9d5018116a")>  属性:  class  的值为:  icon iconfont icon-dingdan 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 (//li[@class='el-menu-item']//i)[4] 
+INFO     tools.report.log_tool:log_tool.py:36 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="a8b5e413-15a4-41ae-a650-e31a3151ee73")>  属性:  class  的值为:  icon iconfont icon-xueyuan 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 (//li[@class='el-menu-item']//i)[5] 
+INFO     tools.report.log_tool:log_tool.py:36 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="dee2d8a2-1c59-4da7-aebe-86853675f144")>  属性:  class  的值为:  icon iconfont icon-jindu 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 (//li[@class='el-menu-item']//i)[6] 
+INFO     tools.report.log_tool:log_tool.py:36 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="9a75fa23-8cb3-46e1-a3f0-651b87c1860a")>  属性:  class  的值为:  icon iconfont icon-baogao 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 (//li[@class='el-menu-item']//i)[7] 
+INFO     tools.report.log_tool:log_tool.py:36 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="67e85a38-98a4-4b32-a827-c6206bde424d")>  属性:  class  的值为:  icon iconfont icon-cleanstudy 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 (//li[@class='el-menu-item']//i)[8] 
+INFO     tools.report.log_tool:log_tool.py:36 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="3620b52c-f652-49a8-bfe8-e5a520d6ecd5")>  属性:  class  的值为:  icon iconfont icon-mima 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 //span[@class='el-dropdown-link el-dropdown-selfdefine'] 
+INFO     tools.report.log_tool:log_tool.py:36 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="387744de-1568-406a-bc65-0b7fd7dd0817")>  的展示文本为:  LEAF渠道负责人 RT_LEAFQD 
+INFO     tools.report.log_tool:log_tool.py:36 获取当前页面的url https://customer-uat.transtalent.cn/#/channel 
+INFO     tools.report.log_tool:log_tool.py:36 打开网址： https://customer-uat.transtalent.cn/#/login 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 //input[@placeholder='用户名'] 
+INFO     tools.report.log_tool:log_tool.py:36 <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="5ee855d2-3c34-4b39-a846-f81dcd1bdd76")> 中输入： RT_QD 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 //input[@placeholder='密码'] 
+INFO     tools.report.log_tool:log_tool.py:36 <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="8d5af637-ce29-4c46-8bf3-9767af47f2a5")> 中输入： q123456 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 //button 
+INFO     tools.report.log_tool:log_tool.py:36 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="bf811eef-16f9-4f99-a66f-17ede7af976e")> 
+INFO     tools.report.log_tool:log_tool.py:36 获取当前页面的url https://customer-uat.transtalent.cn/#/channel 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 (//li[@class='el-menu-item']//i)[1] 
+INFO     tools.report.log_tool:log_tool.py:36 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="830ea245-0140-4075-a5ac-1c995c2c53b0")>  属性:  class  的值为:  icon iconfont icon-qudao 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 (//li[@class='el-menu-item']//i)[2] 
+INFO     tools.report.log_tool:log_tool.py:36 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="8caa6a2a-4da0-46a9-be07-bfeb043ead62")>  属性:  class  的值为:  icon iconfont icon-kehu 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 (//li[@class='el-menu-item']//i)[3] 
+INFO     tools.report.log_tool:log_tool.py:36 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="b0fb19c8-421e-4aa7-b65f-d49516463fcb")>  属性:  class  的值为:  icon iconfont icon-dingdan 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 (//li[@class='el-menu-item']//i)[4] 
+INFO     tools.report.log_tool:log_tool.py:36 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="945a3f80-3a71-4f25-afe4-0caa81d13900")>  属性:  class  的值为:  icon iconfont icon-xueyuan 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 (//li[@class='el-menu-item']//i)[5] 
+INFO     tools.report.log_tool:log_tool.py:36 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="7af654b8-becc-4e85-9b19-071013e79140")>  属性:  class  的值为:  icon iconfont icon-jindu 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 (//li[@class='el-menu-item']//i)[6] 
+INFO     tools.report.log_tool:log_tool.py:36 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="27582c47-45b3-40d0-9b71-ee8c25470a2d")>  属性:  class  的值为:  icon iconfont icon-baogao 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 (//li[@class='el-menu-item']//i)[7] 
+INFO     tools.report.log_tool:log_tool.py:36 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="9f306d93-5c5d-4041-99be-a5a3caa62a2c")>  属性:  class  的值为:  icon iconfont icon-cleanstudy 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 (//li[@class='el-menu-item']//i)[8] 
+INFO     tools.report.log_tool:log_tool.py:36 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="a47a70ba-34e9-47ed-8e76-061b553ccdcd")>  属性:  class  的值为:  icon iconfont icon-mima 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 //span[@class='el-dropdown-link el-dropdown-selfdefine'] 
+INFO     tools.report.log_tool:log_tool.py:36 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="cc543582-2ad3-4745-8f8f-8aaaf67b25de")>  的展示文本为:  渠道负责人 RT_QD 
+INFO     tools.report.log_tool:log_tool.py:36 获取当前页面的url https://customer-uat.transtalent.cn/#/channel 
+INFO     tools.report.log_tool:log_tool.py:36 打开网址： https://customer-uat.transtalent.cn/#/login 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 //input[@placeholder='用户名'] 
+INFO     tools.report.log_tool:log_tool.py:36 <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="5debb97e-9eca-4f6c-9291-08990601cdf0")> 中输入： RT_XMJL 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 //input[@placeholder='密码'] 
+INFO     tools.report.log_tool:log_tool.py:36 <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="04d75916-d7bb-41f0-badb-1c7907551fd7")> 中输入： q123456 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 //button 
+INFO     tools.report.log_tool:log_tool.py:36 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="3abe5d46-8c9f-4798-9f2f-3552890c07d4")> 
+INFO     tools.report.log_tool:log_tool.py:36 获取当前页面的url https://customer-uat.transtalent.cn/#/customer 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 (//li[@class='el-menu-item']//i)[1] 
+INFO     tools.report.log_tool:log_tool.py:36 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="6b1a3d92-456a-437c-83bc-b56dbff1885c")>  属性:  class  的值为:  icon iconfont icon-kehu 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 (//li[@class='el-menu-item']//i)[2] 
+INFO     tools.report.log_tool:log_tool.py:36 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="64e71e01-a1ca-4bcc-b820-7353b517992d")>  属性:  class  的值为:  icon iconfont icon-dingdan 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 (//li[@class='el-menu-item']//i)[3] 
+INFO     tools.report.log_tool:log_tool.py:36 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="125b1f2b-82c9-43cd-bfb1-7cec032e5c56")>  属性:  class  的值为:  icon iconfont icon-xueyuan 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 (//li[@class='el-menu-item']//i)[4] 
+INFO     tools.report.log_tool:log_tool.py:36 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="8e3d17bd-52e8-4dde-982f-bebe5e399f3e")>  属性:  class  的值为:  icon iconfont icon-jindu 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 (//li[@class='el-menu-item']//i)[5] 
+INFO     tools.report.log_tool:log_tool.py:36 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="f73cab34-dfe3-4e7a-a692-3a7546a26af0")>  属性:  class  的值为:  icon iconfont icon-baogao 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 (//li[@class='el-menu-item']//i)[6] 
+INFO     tools.report.log_tool:log_tool.py:36 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="04fc5139-4ffc-40c9-8559-ce26f15c346d")>  属性:  class  的值为:  icon iconfont icon-cleanstudy 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 (//li[@class='el-menu-item']//i)[7] 
+INFO     tools.report.log_tool:log_tool.py:36 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="02485598-d807-4f80-a73a-f04fa0c2669c")>  属性:  class  的值为:  icon iconfont icon-mima 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 //span[@class='el-dropdown-link el-dropdown-selfdefine'] 
+INFO     tools.report.log_tool:log_tool.py:36 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="fed134fb-e7bf-4461-bb8d-3ce98b7c5ba4")>  的展示文本为:  项目经理 RT_XMJL 
+INFO     tools.report.log_tool:log_tool.py:36 获取当前页面的url https://customer-uat.transtalent.cn/#/customer 
+INFO     tools.report.log_tool:log_tool.py:36 打开网址： https://customer-uat.transtalent.cn/#/login 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 //input[@placeholder='用户名'] 
+INFO     tools.report.log_tool:log_tool.py:36 <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="085b79cd-f5aa-4dba-b655-a668f326a970")> 中输入： RT_GKK 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 //input[@placeholder='密码'] 
+INFO     tools.report.log_tool:log_tool.py:36 <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="1997298e-9684-4f51-80b2-1063a4af99f2")> 中输入： q123456 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 //button 
+INFO     tools.report.log_tool:log_tool.py:36 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="de5a49e5-2381-4bb2-9116-b1bbeff9e62f")> 
+INFO     tools.report.log_tool:log_tool.py:36 获取当前页面的url https://customer-uat.transtalent.cn/#/studentListNew 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 (//li[@class='el-menu-item']//i)[1] 
+INFO     tools.report.log_tool:log_tool.py:36 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="c3fa2044-d049-43ac-894e-9bd5131643d1")>  属性:  class  的值为:  icon iconfont icon-xueyuan 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 (//li[@class='el-menu-item']//i)[2] 
+INFO     tools.report.log_tool:log_tool.py:36 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="c0fa8ac2-d413-43f8-954f-6c036add05c5")>  属性:  class  的值为:  icon iconfont icon-jindu 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 (//li[@class='el-menu-item']//i)[3] 
+INFO     tools.report.log_tool:log_tool.py:36 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="7fbf75fd-8fdf-47a5-b3a3-9a42dca8e1d8")>  属性:  class  的值为:  icon iconfont icon-baogao 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 (//li[@class='el-menu-item']//i)[4] 
+INFO     tools.report.log_tool:log_tool.py:36 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="f6c2fb36-5de0-434f-9bac-34bc58b4cc23")>  属性:  class  的值为:  icon iconfont icon-cleanstudy 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 (//li[@class='el-menu-item']//i)[5] 
+INFO     tools.report.log_tool:log_tool.py:36 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="3b2baec4-8a3e-4046-ba72-243d7cf475b2")>  属性:  class  的值为:  icon iconfont icon-mima 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 //span[@class='el-dropdown-link el-dropdown-selfdefine'] 
+INFO     tools.report.log_tool:log_tool.py:36 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="d9509709-082d-4d32-a54d-1fa81b8bd241")>  的展示文本为:  公开课项目负责人 RT_GKK 
+INFO     tools.report.log_tool:log_tool.py:36 获取当前页面的url https://customer-uat.transtalent.cn/#/studentListNew 
+INFO     tools.report.log_tool:log_tool.py:36 打开网址： https://customer-uat.transtalent.cn/#/login 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 //input[@placeholder='用户名'] 
+INFO     tools.report.log_tool:log_tool.py:36 <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="3beaa5b4-41f4-4714-a846-4d5e5d6d2d26")> 中输入： RT_WBQDYY 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 //input[@placeholder='密码'] 
+INFO     tools.report.log_tool:log_tool.py:36 <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="9c99df0a-4420-4744-8bdf-75334de056e8")> 中输入： q123456 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 //button 
+INFO     tools.report.log_tool:log_tool.py:36 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="8e230975-d372-49c5-a714-fb36517aa26d")> 
+INFO     tools.report.log_tool:log_tool.py:36 获取当前页面的url https://customer-uat.transtalent.cn/#/reportManagement 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 (//li[@class='el-menu-item']//i)[1] 
+INFO     tools.report.log_tool:log_tool.py:36 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="c3d9d920-fa2e-481f-a8d2-77aac2434edc")>  属性:  class  的值为:  icon iconfont icon-baogao 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 (//li[@class='el-menu-item']//i)[2] 
+INFO     tools.report.log_tool:log_tool.py:36 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="46349752-b7b0-4078-973a-3502ec4a805c")>  属性:  class  的值为:  icon iconfont icon-cleanstudy 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 (//li[@class='el-menu-item']//i)[3] 
+INFO     tools.report.log_tool:log_tool.py:36 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="de25ea1a-c956-4f2b-8bef-2e14edc859c6")>  属性:  class  的值为:  icon iconfont icon-mima 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 //span[@class='el-dropdown-link el-dropdown-selfdefine'] 
+INFO     tools.report.log_tool:log_tool.py:36 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="a36f8087-ec09-4ef3-b6be-0a68b1fc4f47")>  的展示文本为:  外部渠道运营 RT_WBQDYY 
+INFO     tools.report.log_tool:log_tool.py:36 获取当前页面的url https://customer-uat.transtalent.cn/#/reportManagement 
+INFO     tools.report.log_tool:log_tool.py:36 打开网址： https://customer-uat.transtalent.cn/#/login 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 //input[@placeholder='用户名'] 
+INFO     tools.report.log_tool:log_tool.py:36 <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="ce129673-06e0-4940-9d2f-369b476ecb91")> 中输入： longhai 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 //input[@placeholder='密码'] 
+INFO     tools.report.log_tool:log_tool.py:36 <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="a89a5ce3-0851-4e77-bd67-708f4dcd79dc")> 中输入： q123456 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 //button 
+INFO     tools.report.log_tool:log_tool.py:36 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="00bcdb2a-08e8-49b9-9b82-dffc5c413cb4")> 
+INFO     tools.report.log_tool:log_tool.py:36 获取当前页面的url https://customer-uat.transtalent.cn/#/channel 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 (//li[@class='el-menu-item']//i)[1] 
+INFO     tools.report.log_tool:log_tool.py:36 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="3ca4e1b6-9279-4e32-8b53-8c4620b74bdc")>  属性:  class  的值为:  icon iconfont icon-qudao 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 (//li[@class='el-menu-item']//i)[2] 
+INFO     tools.report.log_tool:log_tool.py:36 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="518d304a-1dab-4cbf-9363-5e916ff13e84")>  属性:  class  的值为:  icon iconfont icon-kehu 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 (//li[@class='el-menu-item']//i)[3] 
+INFO     tools.report.log_tool:log_tool.py:36 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="27e2a2bb-f47f-4c16-b30e-83b4199b0a0e")>  属性:  class  的值为:  icon iconfont icon-dingdan 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 (//li[@class='el-menu-item']//i)[4] 
+INFO     tools.report.log_tool:log_tool.py:36 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="5d66493f-54a5-46db-a3b6-9571b29b64da")>  属性:  class  的值为:  icon iconfont icon-xueyuan 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 (//li[@class='el-menu-item']//i)[5] 
+INFO     tools.report.log_tool:log_tool.py:36 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="1cbc8ed8-022a-4a2e-8910-6d40b734d3da")>  属性:  class  的值为:  icon iconfont icon-jindu 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 (//li[@class='el-menu-item']//i)[6] 
+INFO     tools.report.log_tool:log_tool.py:36 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="e1aa96a3-40d2-43ee-82b6-2d2a4360ed07")>  属性:  class  的值为:  icon iconfont icon-baogao 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 (//li[@class='el-menu-item']//i)[7] 
+INFO     tools.report.log_tool:log_tool.py:36 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="c06c9b23-d982-4dff-a0db-032e46b94382")>  属性:  class  的值为:  icon iconfont icon-yonghu 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 (//li[@class='el-menu-item']//i)[8] 
+INFO     tools.report.log_tool:log_tool.py:36 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="7d5ad203-2b29-4057-97b5-0bacc28a9d10")>  属性:  class  的值为:  icon iconfont icon-cleanstudy 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 (//li[@class='el-menu-item']//i)[9] 
+INFO     tools.report.log_tool:log_tool.py:36 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="c6fe101b-3a87-487a-b8ca-a6bc3bf01c60")>  属性:  class  的值为:  icon iconfont icon-mima 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 //span[@class='el-dropdown-link el-dropdown-selfdefine'] 
+INFO     tools.report.log_tool:log_tool.py:36 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="6e91bca1-d5d1-4a3a-b17f-53c34193cb50")>  的展示文本为:  管理员 longhai 
+INFO     tools.report.log_tool:log_tool.py:36 获取当前页面的url https://customer-uat.transtalent.cn/#/channel

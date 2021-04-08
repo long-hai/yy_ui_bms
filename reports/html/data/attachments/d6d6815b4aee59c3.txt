@@ -1,0 +1,4 @@
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 //*[@id='out-table']/div[3]/table/tbody/tr/td[4]/div 
+INFO     tools.report.log_tool:log_tool.py:36 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="c63f2d86-160c-4b1a-8d60-c9da59a10180")>  的展示文本为:  AT82 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 (//input[@placeholder='根据姓名/手机号/账号搜索学员'])[1] 
+INFO     tools.report.log_tool:log_tool.py:36 <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="6d2e0f07-edfd-4a9e-bdff-1feedd6cad47")> 中输入： AT82

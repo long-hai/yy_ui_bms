@@ -1,0 +1,21 @@
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 //button[@class='el-button el-button--primary'] 
+INFO     tools.report.log_tool:log_tool.py:36 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="d6a3104a-2013-4837-b335-5d6dc3a3c950")> 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 //div[@class='title'] 
+INFO     tools.report.log_tool:log_tool.py:36 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="037ae546-941e-44fd-873d-c98d0b24414c")>  的展示文本为:  新增客户 
+INFO     tools.report.log_tool:log_tool.py:36 获取当前页面的url https://customer-uat.transtalent.cn/#/NewCustomer 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 //textarea[@placeholder='请输入公司名称'] 
+INFO     tools.report.log_tool:log_tool.py:36 <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="67127c8d-5600-4148-8d43-e1ca9b0703c0")> 中输入： 自动化测试_017 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 //textarea[@placeholder='请输入公司别名'] 
+INFO     tools.report.log_tool:log_tool.py:36 <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="88200f25-9431-420d-bab9-e83386a5100a")> 中输入： 自动化测试_017 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 //textarea[@placeholder='请输入公司缩写'] 
+INFO     tools.report.log_tool:log_tool.py:36 <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="ee3f2e01-2ff2-4851-85e2-631da5a11fb7")> 中输入： auto_017 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 //input[@placeholder='请选择'] 
+INFO     tools.report.log_tool:log_tool.py:36 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="258e1fd3-fea7-4837-8366-86c63d2fe725")> 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 (//li[@class='el-select-dropdown__item'])[1] 
+INFO     tools.report.log_tool:log_tool.py:36 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="dda7e1eb-277e-40b1-84a5-fce6c897bfe1")> 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 //textarea[@placeholder='请输入备注信息'] 
+INFO     tools.report.log_tool:log_tool.py:36 <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="b8a18d67-b56e-4e19-9c23-0368b07afcb9")> 中输入： auto_017自动化测试，请勿修改操作，谢谢。 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 //span[text()='保存'] 
+INFO     tools.report.log_tool:log_tool.py:36 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="a1b7e316-8814-4f98-a701-767f970623fc")> 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 (//tr[@class='el-table__row'])[1] 
+INFO     tools.report.log_tool:log_tool.py:36 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="534a0da6-76ac-424d-bed8-38d83ec7c89f")>  的展示文本为:  ['2881', '自动化测试_017', '自动化测试_017', 'auto_017', '公开课虚拟公司', '项目学习', '有效', 'auto_017自动化测试，请勿修改操作，谢谢。', '2021-04-07', '23:39:05']

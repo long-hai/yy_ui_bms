@@ -1,0 +1,212 @@
+{
+  "uid" : "24901c05fd449de5",
+  "name" : "5-编辑学员",
+  "fullName" : "Test_Customer.Test_M05_Student.Test_M05_Student.TestStudent#test_ty_edit",
+  "historyId" : "4d88129325f2523f8ddb55fdf81056e1",
+  "time" : {
+    "start" : 1617810156514,
+    "stop" : 1617810180783,
+    "duration" : 24269
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "driver",
+    "time" : {
+      "start" : 1617809897238,
+      "stop" : 1617809899566,
+      "duration" : 2328
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "步骤1：搜索学员",
+      "time" : {
+        "start" : 1617810156514,
+        "stop" : 1617810158837,
+        "duration" : 2323
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "步骤2：点击编辑学员",
+      "time" : {
+        "start" : 1617810158837,
+        "stop" : 1617810159520,
+        "duration" : 683
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "步骤3：修改学员关闭时间",
+      "time" : {
+        "start" : 1617810159520,
+        "stop" : 1617810174285,
+        "duration" : 14765
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "步骤4：点击保存",
+      "time" : {
+        "start" : 1617810174285,
+        "stop" : 1617810176046,
+        "duration" : 1761
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "步骤5：选择激活的学员",
+      "time" : {
+        "start" : 1617810176046,
+        "stop" : 1617810177805,
+        "duration" : 1759
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "步骤6：点击学员菜单",
+      "time" : {
+        "start" : 1617810177805,
+        "stop" : 1617810178593,
+        "duration" : 788
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "步骤7：点击批量激活",
+      "time" : {
+        "start" : 1617810178593,
+        "stop" : 1617810180783,
+        "duration" : 2190
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "fa808d28e913b8ab",
+      "name" : "log",
+      "source" : "fa808d28e913b8ab.txt",
+      "type" : "text/plain",
+      "size" : 9289
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 7,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "driver::0",
+    "time" : {
+      "start" : 1617810215699,
+      "stop" : 1617810215699,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "学员管理-体验课"
+  }, {
+    "name" : "feature",
+    "value" : "M5学员管理"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Test_Customer.Test_M05_Student"
+  }, {
+    "name" : "suite",
+    "value" : "Test_M05_Student"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestStudent"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-823MG95"
+  }, {
+    "name" : "thread",
+    "value" : "9528-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Test_Customer.Test_M05_Student.Test_M05_Student"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "24901c05fd449de5.json",
+  "parameterValues" : [ ]
+}

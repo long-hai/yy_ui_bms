@@ -1,0 +1,205 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "AssertionError",
+      "children" : [ {
+        "name" : "test_order_add",
+        "uid" : "82239390100ad284",
+        "parentUid" : "a0017ad855102fea08b8682d27fec4ca",
+        "status" : "failed",
+        "time" : {
+          "start" : 1617809948313,
+          "stop" : 1617809958388,
+          "duration" : 10075
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "1-新增学员",
+        "uid" : "4eb740e1a8140c5e",
+        "parentUid" : "a0017ad855102fea08b8682d27fec4ca",
+        "status" : "failed",
+        "time" : {
+          "start" : 1617810130496,
+          "stop" : 1617810145674,
+          "duration" : 15178
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_study_home",
+        "uid" : "e0fbcb956612def1",
+        "parentUid" : "a0017ad855102fea08b8682d27fec4ca",
+        "status" : "failed",
+        "time" : {
+          "start" : 1617810207118,
+          "stop" : 1617810208827,
+          "duration" : 1709
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_report_home",
+        "uid" : "916ef4d98d04364d",
+        "parentUid" : "a0017ad855102fea08b8682d27fec4ca",
+        "status" : "failed",
+        "time" : {
+          "start" : 1617810208877,
+          "stop" : 1617810210529,
+          "duration" : 1652
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_user_home",
+        "uid" : "9d96fd007024ea51",
+        "parentUid" : "a0017ad855102fea08b8682d27fec4ca",
+        "status" : "failed",
+        "time" : {
+          "start" : 1617810210562,
+          "stop" : 1617810212252,
+          "duration" : 1690
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_clear_home",
+        "uid" : "54ccb6f57c653b17",
+        "parentUid" : "a0017ad855102fea08b8682d27fec4ca",
+        "status" : "failed",
+        "time" : {
+          "start" : 1617810212287,
+          "stop" : 1617810213987,
+          "duration" : 1700
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_password_home",
+        "uid" : "eb5b512e3b2600e5",
+        "parentUid" : "a0017ad855102fea08b8682d27fec4ca",
+        "status" : "failed",
+        "time" : {
+          "start" : 1617810214023,
+          "stop" : 1617810215667,
+          "duration" : 1644
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a0017ad855102fea08b8682d27fec4ca"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  }, {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "selenium.common.exceptions.TimeoutException: Message: //*[@id='out-table']/div[4]/div[2]/table/tbody/tr[1]/td[7]/div/button[1]定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式",
+      "children" : [ {
+        "name" : "test_order_preview",
+        "uid" : "e5609c88fc9f7ddb",
+        "parentUid" : "2bc87e8f6bdc2a3c7a2faf8d4090aa7a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1617809958571,
+          "stop" : 1617809968887,
+          "duration" : 10316
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2bc87e8f6bdc2a3c7a2faf8d4090aa7a"
+    }, {
+      "name" : "selenium.common.exceptions.TimeoutException: Message: //button[@class='el-button icon_padding el-button--primary is-plain']定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式",
+      "children" : [ {
+        "name" : "test_order_edit",
+        "uid" : "7648d0198823254",
+        "parentUid" : "28fd44fc5653c09b9ec2f724c262553d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1617809969004,
+          "stop" : 1617809979210,
+          "duration" : 10206
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "28fd44fc5653c09b9ec2f724c262553d"
+    }, {
+      "name" : "autoit.autoit.AutoItError: timeout on wait for window exists",
+      "children" : [ {
+        "name" : "8-导入学员",
+        "uid" : "fb145cd62453a845",
+        "parentUid" : "33bfd32b2b0b0cf4b1bfbbf0b505c40d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1617810044625,
+          "stop" : 1617810060580,
+          "duration" : 15955
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "8-导出学员",
+        "uid" : "16b62c2515a1d34f",
+        "parentUid" : "33bfd32b2b0b0cf4b1bfbbf0b505c40d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1617810114554,
+          "stop" : 1617810130406,
+          "duration" : 15852
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "8-导出学员",
+        "uid" : "905974af19127200",
+        "parentUid" : "33bfd32b2b0b0cf4b1bfbbf0b505c40d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1617810191505,
+          "stop" : 1617810207008,
+          "duration" : 15503
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "33bfd32b2b0b0cf4b1bfbbf0b505c40d"
+    }, {
+      "name" : "selenium.common.exceptions.TimeoutException: Message: (//i[@class='el-icon-edit'])[2]/..定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式",
+      "children" : [ {
+        "name" : "5-编辑学员",
+        "uid" : "24d62c71ffed2f87",
+        "parentUid" : "bf24a1574ada63533a1ae1c2c846cc7d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1617810084630,
+          "stop" : 1617810097273,
+          "duration" : 12643
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "bf24a1574ada63533a1ae1c2c846cc7d"
+    }, {
+      "name" : "selenium.common.exceptions.TimeoutException: Message: (//i[@class='el-icon-view'])[2]/..定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式",
+      "children" : [ {
+        "name" : "6-预览学员",
+        "uid" : "38de2fa832ea2609",
+        "parentUid" : "6f849ff8af54ff9d083f6fdb7d6e53cf",
+        "status" : "broken",
+        "time" : {
+          "start" : 1617810097380,
+          "stop" : 1617810109978,
+          "duration" : 12598
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6f849ff8af54ff9d083f6fdb7d6e53cf"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

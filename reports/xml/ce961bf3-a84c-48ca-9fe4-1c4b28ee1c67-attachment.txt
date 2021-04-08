@@ -1,0 +1,2 @@
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 //button[@class='el-button icon_padding el-button--primary is-plain'] 
+ERROR    tools.report.log_tool:log_tool.py:48 //button[@class='el-button icon_padding el-button--primary is-plain']定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式

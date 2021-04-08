@@ -1,0 +1,37 @@
+INFO     tools.report.log_tool:log_tool.py:36 刷新 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 //div[text()='体验课'] 
+INFO     tools.report.log_tool:log_tool.py:36 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="428c45b0-1658-4ec2-8edf-907315674526")> 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 //input[@placeholder='所有渠道'] 
+INFO     tools.report.log_tool:log_tool.py:36 <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="ac9eda61-fec1-4440-bad8-d6c1f1aa4d08")> 中输入： Auto_测试渠道 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 (//span[text()='新增学员'])[2] 
+INFO     tools.report.log_tool:log_tool.py:36 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="28a535d3-8d2c-4e5c-afe7-a52e91fe9678")> 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 (//label[text()='公司名称']/..//span)[1] 
+INFO     tools.report.log_tool:log_tool.py:36 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="1919cefe-67a9-4e79-ad0a-a484e394b6b8")>  的展示文本为:  AutoT 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 //div[@class='emo_number'] 
+INFO     tools.report.log_tool:log_tool.py:36 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="814a84d9-ce9b-4f95-a479-7c8b245597ad")>  的展示文本为:  AT 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 //textarea[@placeholder='请输入姓名'] 
+INFO     tools.report.log_tool:log_tool.py:36 <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="9113c401-2f98-4aa3-b505-500ea472ddf3")> 中输入： AT_82 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 //textarea[@placeholder='请输入员工号'] 
+INFO     tools.report.log_tool:log_tool.py:36 <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="c14dd455-4d9e-4f54-8d46-47bec91a3978")> 中输入： 82 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 //label[@tabindex='-1'] 
+INFO     tools.report.log_tool:log_tool.py:36 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="b1607a91-54f9-4303-8a16-9d62c2252422")> 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 //input[@placeholder='请输入手机号码'] 
+INFO     tools.report.log_tool:log_tool.py:36 <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="b32c0371-6c37-4018-a79b-6fedbe4d33ac")> 中输入：  
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 //textarea[@placeholder='请输入部门'] 
+INFO     tools.report.log_tool:log_tool.py:36 <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="ab979522-55ca-4ddc-a172-d3721edd2555")> 中输入： 营销部 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 //textarea[@placeholder='请输入职位'] 
+INFO     tools.report.log_tool:log_tool.py:36 <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="0bd7f0c3-4721-41bb-92f9-f1d6f76d6fde")> 中输入： 销售 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 //input[@placeholder='请输入数字（支持小数点后一位）'] 
+INFO     tools.report.log_tool:log_tool.py:36 <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="84bfbb13-b005-433a-ad30-536caca668cd")> 中输入： 2 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 //input[@placeholder='选择日期'] 
+INFO     tools.report.log_tool:log_tool.py:36 <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="e8b58b24-fb3e-4850-82b2-4639625b70b2")> 中输入： 2025-01-01 00:00:00 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 //textarea[@placeholder='请输入备注信息'] 
+INFO     tools.report.log_tool:log_tool.py:36 <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="7074fe9f-feb7-4ef4-972c-9e44330b997e")> 中输入： 自动化测试添加学员，请勿操作，谢谢。 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 (//div[@class='tabs_li']//li)[1] 
+INFO     tools.report.log_tool:log_tool.py:36 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="9f16d0fb-5ba2-4ae8-966e-37f23ed18e22")> 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 //span[text()='全选']/.. 
+INFO     tools.report.log_tool:log_tool.py:36 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="980f2555-4754-45c2-a58f-86681fb9e69a")> 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 //span[text()='保存'] 
+INFO     tools.report.log_tool:log_tool.py:36 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="ad899097-1247-4c8d-9235-0025bb6c0e0d")> 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 (//tr[@class='el-table__row'])[4] 
+INFO     tools.report.log_tool:log_tool.py:36 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="c8259bdb-5b8a-4c75-9283-69b71a903bfc")>  的展示文本为:  ['AT_79', 'AT79', 'AutoT', '技术部', '·', '领导力DNA，辅导，打造高效团队，领导力精要，计划与组织，协作，授权，影响力，决策，领导力启程，驱动变革，达至最佳绩效，目标选材（旧版），解决冲突', '有效', '2021-04-07', '14:23:11', '2030-01-01', '00:00:00', '2021-04-07', '14:22:36', '自动化测试编辑学员，请勿操作，谢谢。']

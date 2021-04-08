@@ -1,0 +1,9 @@
+2021-04-03 14:56:20,642 - tools.report.log_tool - ERROR - (//tr[@class='el-table__row'])[1]定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式
+2021-04-03 21:57:12,315 - tools.report.log_tool - ERROR - //div[@class="el-message el-message--success"]定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式
+2021-04-03 21:58:11,755 - tools.report.log_tool - ERROR - //div[@class="el-message el-message--success"]定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式
+2021-04-03 22:11:45,217 - tools.report.log_tool - ERROR - title定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式
+2021-04-03 22:12:36,337 - tools.report.log_tool - ERROR - title定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式
+2021-04-03 22:13:39,777 - tools.report.log_tool - ERROR - el-input__inner定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式
+2021-04-03 22:14:50,687 - tools.report.log_tool - ERROR - el-breadcrumb__inner is-link定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式
+2021-04-03 22:15:21,557 - tools.report.log_tool - ERROR - el-breadcrumb__inner is-link定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式
+2021-04-03 22:16:26,997 - tools.report.log_tool - ERROR - el-breadcrumb__inner is-link定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式

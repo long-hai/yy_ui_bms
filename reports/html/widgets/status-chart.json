@@ -1,0 +1,411 @@
+[ {
+  "uid" : "5a3426ba84767edb",
+  "name" : "1-新增学员",
+  "time" : {
+    "start" : 1617809982890,
+    "stop" : 1617809996867,
+    "duration" : 13977
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e5609c88fc9f7ddb",
+  "name" : "test_order_preview",
+  "time" : {
+    "start" : 1617809958571,
+    "stop" : 1617809968887,
+    "duration" : 10316
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "380999735528e82b",
+  "name" : "test_channel_edit",
+  "time" : {
+    "start" : 1617809929517,
+    "stop" : 1617809933327,
+    "duration" : 3810
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8608a8e0a37a9cfc",
+  "name" : "4-关闭学员",
+  "time" : {
+    "start" : 1617810002522,
+    "stop" : 1617810007533,
+    "duration" : 5011
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "73a5a7d103f67776",
+  "name" : "test_permission",
+  "time" : {
+    "start" : 1617809899566,
+    "stop" : 1617809922971,
+    "duration" : 23405
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "35eba80b2b3214ea",
+  "name" : "4-关闭学员",
+  "time" : {
+    "start" : 1617810151059,
+    "stop" : 1617810156512,
+    "duration" : 5453
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "54ccb6f57c653b17",
+  "name" : "test_clear_home",
+  "time" : {
+    "start" : 1617810212287,
+    "stop" : 1617810213987,
+    "duration" : 1700
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "4eb740e1a8140c5e",
+  "name" : "1-新增学员",
+  "time" : {
+    "start" : 1617810130496,
+    "stop" : 1617810145674,
+    "duration" : 15178
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "7bf09480ef4a878b",
+  "name" : "6-预览学员",
+  "time" : {
+    "start" : 1617810180791,
+    "stop" : 1617810186456,
+    "duration" : 5665
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "916ef4d98d04364d",
+  "name" : "test_report_home",
+  "time" : {
+    "start" : 1617810208877,
+    "stop" : 1617810210529,
+    "duration" : 1652
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "398196fb3f73f3a8",
+  "name" : "7-导出学员",
+  "time" : {
+    "start" : 1617810186457,
+    "stop" : 1617810191504,
+    "duration" : 5047
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ced8204a23247c9e",
+  "name" : "3-激活学员",
+  "time" : {
+    "start" : 1617810147761,
+    "stop" : 1617810151049,
+    "duration" : 3288
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "24901c05fd449de5",
+  "name" : "5-编辑学员",
+  "time" : {
+    "start" : 1617810156514,
+    "stop" : 1617810180783,
+    "duration" : 24269
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "85b0493c9c9b01f7",
+  "name" : "7-导出学员",
+  "time" : {
+    "start" : 1617810039754,
+    "stop" : 1617810044610,
+    "duration" : 4856
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e0fbcb956612def1",
+  "name" : "test_study_home",
+  "time" : {
+    "start" : 1617810207118,
+    "stop" : 1617810208827,
+    "duration" : 1709
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "7648d0198823254",
+  "name" : "test_order_edit",
+  "time" : {
+    "start" : 1617809969004,
+    "stop" : 1617809979210,
+    "duration" : 10206
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "82239390100ad284",
+  "name" : "test_order_add",
+  "time" : {
+    "start" : 1617809948313,
+    "stop" : 1617809958388,
+    "duration" : 10075
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "ef85828c0a93d6e3",
+  "name" : "学员管理主页",
+  "time" : {
+    "start" : 1617809979326,
+    "stop" : 1617809982879,
+    "duration" : 3553
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a491588e78b33de1",
+  "name" : "2-搜索学员",
+  "time" : {
+    "start" : 1617809996871,
+    "stop" : 1617809999146,
+    "duration" : 2275
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "44b3954b4683fcb3",
+  "name" : "6-预览学员",
+  "time" : {
+    "start" : 1617810032747,
+    "stop" : 1617810039745,
+    "duration" : 6998
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "337e3f470230c4b",
+  "name" : "5-编辑学员",
+  "time" : {
+    "start" : 1617810007535,
+    "stop" : 1617810032737,
+    "duration" : 25202
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "eb5b512e3b2600e5",
+  "name" : "test_password_home",
+  "time" : {
+    "start" : 1617810214023,
+    "stop" : 1617810215667,
+    "duration" : 1644
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "9d96fd007024ea51",
+  "name" : "test_user_home",
+  "time" : {
+    "start" : 1617810210562,
+    "stop" : 1617810212252,
+    "duration" : 1690
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "6ff1d6f3be77b543",
+  "name" : "test_channel_home",
+  "time" : {
+    "start" : 1617809922978,
+    "stop" : 1617809925654,
+    "duration" : 2676
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "38de2fa832ea2609",
+  "name" : "6-预览学员",
+  "time" : {
+    "start" : 1617810097380,
+    "stop" : 1617810109978,
+    "duration" : 12598
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "fb145cd62453a845",
+  "name" : "8-导入学员",
+  "time" : {
+    "start" : 1617810044625,
+    "stop" : 1617810060580,
+    "duration" : 15955
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "9106493007ad5ab",
+  "name" : "test_company_add",
+  "time" : {
+    "start" : 1617809939055,
+    "stop" : 1617809946430,
+    "duration" : 7375
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "24d62c71ffed2f87",
+  "name" : "5-编辑学员",
+  "time" : {
+    "start" : 1617810084630,
+    "stop" : 1617810097273,
+    "duration" : 12643
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "935bf27b8bdcc18f",
+  "name" : "test_channel_add",
+  "time" : {
+    "start" : 1617809925665,
+    "stop" : 1617809929510,
+    "duration" : 3845
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "eb3bd7a924114a3f",
+  "name" : "test_channel_delete",
+  "time" : {
+    "start" : 1617809933331,
+    "stop" : 1617809937179,
+    "duration" : 3848
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a94048d48668921a",
+  "name" : "2-搜索学员",
+  "time" : {
+    "start" : 1617810074287,
+    "stop" : 1617810076385,
+    "duration" : 2098
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "905974af19127200",
+  "name" : "8-导出学员",
+  "time" : {
+    "start" : 1617810191505,
+    "stop" : 1617810207008,
+    "duration" : 15503
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "d4f1223cc3629472",
+  "name" : "test_company_home",
+  "time" : {
+    "start" : 1617809937190,
+    "stop" : 1617809939051,
+    "duration" : 1861
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "91d87396ba66cc7",
+  "name" : "3-激活学员",
+  "time" : {
+    "start" : 1617809999155,
+    "stop" : 1617810002512,
+    "duration" : 3357
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6b529f29e660df22",
+  "name" : "7-导出学员",
+  "time" : {
+    "start" : 1617810110103,
+    "stop" : 1617810114544,
+    "duration" : 4441
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "86b44e102300c600",
+  "name" : "4-关闭学员",
+  "time" : {
+    "start" : 1617810079661,
+    "stop" : 1617810084620,
+    "duration" : 4959
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3760c5f92bd4f131",
+  "name" : "test_order_home",
+  "time" : {
+    "start" : 1617809946433,
+    "stop" : 1617809948303,
+    "duration" : 1870
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "16b62c2515a1d34f",
+  "name" : "8-导出学员",
+  "time" : {
+    "start" : 1617810114554,
+    "stop" : 1617810130406,
+    "duration" : 15852
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "bca89c249420c86f",
+  "name" : "3-激活学员",
+  "time" : {
+    "start" : 1617810076396,
+    "stop" : 1617810079651,
+    "duration" : 3255
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "67de3d7de819d866",
+  "name" : "1-新增学员",
+  "time" : {
+    "start" : 1617810060684,
+    "stop" : 1617810074284,
+    "duration" : 13600
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c08c4c6cdde914d0",
+  "name" : "2-搜索学员",
+  "time" : {
+    "start" : 1617810145695,
+    "stop" : 1617810147751,
+    "duration" : 2056
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

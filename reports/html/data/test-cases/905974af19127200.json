@@ -1,0 +1,147 @@
+{
+  "uid" : "905974af19127200",
+  "name" : "8-导出学员",
+  "fullName" : "Test_Customer.Test_M05_Student.Test_M05_Student.TestStudent#test_ty_import",
+  "historyId" : "947793b62936a60f6eb6e138bc58993a",
+  "time" : {
+    "start" : 1617810191505,
+    "stop" : 1617810207008,
+    "duration" : 15503
+  },
+  "status" : "broken",
+  "statusMessage" : "autoit.autoit.AutoItError: timeout on wait for window exists",
+  "statusTrace" : "self = <Test_Customer.Test_M05_Student.Test_M05_Student.TestStudent object at 0x000001A0C893F080>\ndriver = <tools.ui.base_ui.BaseUI object at 0x000001A0C870F390>\n\n    @allure.story(\"学员管理-体验课\")\n    @allure.title(\"8-导出学员\")\n    def test_ty_import(self, driver):\n>       B_stu.student_import(driver)\n\nTest_Customer\\Test_M05_Student\\Test_M05_Student.py:154: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\nbusiness\\business_student.py:228: in student_import\n    driver.file_upload(self.L_stu.stu_upload, os_tool.abs_path(\"./data/data_stu_template/学员导出模板.xls\"))  # 上传文件\ntools\\ui\\base_ui.py:508: in file_upload\n    autoit.win_wait(\"打开\", 10)\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\nargs = ('打开', 10), kwargs = {}, ret = 0, flags = [2]\n\n    @wraps(fn)\n    def wrapper(*args, **kwargs):\n        ret = fn(*args, **kwargs)\n    \n        flags = reduce(\n            self._parser, [dict(num=mark, flags=[]), 2, 1])[\"flags\"]\n    \n        if 1 in flags:\n            if self._has_error():\n                raise AutoItError(err_msg)\n    \n        if 2 in flags:\n            if self._has_unexpected_ret(ret, unexpected_ret):\n>               raise AutoItError(err_msg)\nE               autoit.autoit.AutoItError: timeout on wait for window exists\n\nvenv\\lib\\site-packages\\autoit\\autoit.py:84: AutoItError",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "driver",
+    "time" : {
+      "start" : 1617809897238,
+      "stop" : 1617809899566,
+      "duration" : 2328
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "autoit.autoit.AutoItError: timeout on wait for window exists",
+    "statusTrace" : "self = <Test_Customer.Test_M05_Student.Test_M05_Student.TestStudent object at 0x000001A0C893F080>\ndriver = <tools.ui.base_ui.BaseUI object at 0x000001A0C870F390>\n\n    @allure.story(\"学员管理-体验课\")\n    @allure.title(\"8-导出学员\")\n    def test_ty_import(self, driver):\n>       B_stu.student_import(driver)\n\nTest_Customer\\Test_M05_Student\\Test_M05_Student.py:154: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\nbusiness\\business_student.py:228: in student_import\n    driver.file_upload(self.L_stu.stu_upload, os_tool.abs_path(\"./data/data_stu_template/学员导出模板.xls\"))  # 上传文件\ntools\\ui\\base_ui.py:508: in file_upload\n    autoit.win_wait(\"打开\", 10)\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\nargs = ('打开', 10), kwargs = {}, ret = 0, flags = [2]\n\n    @wraps(fn)\n    def wrapper(*args, **kwargs):\n        ret = fn(*args, **kwargs)\n    \n        flags = reduce(\n            self._parser, [dict(num=mark, flags=[]), 2, 1])[\"flags\"]\n    \n        if 1 in flags:\n            if self._has_error():\n                raise AutoItError(err_msg)\n    \n        if 2 in flags:\n            if self._has_unexpected_ret(ret, unexpected_ret):\n>               raise AutoItError(err_msg)\nE               autoit.autoit.AutoItError: timeout on wait for window exists\n\nvenv\\lib\\site-packages\\autoit\\autoit.py:84: AutoItError",
+    "steps" : [ {
+      "name" : "步骤1：搜索学员",
+      "time" : {
+        "start" : 1617810191505,
+        "stop" : 1617810193674,
+        "duration" : 2169
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "步骤2：导入学员",
+      "time" : {
+        "start" : 1617810194862,
+        "stop" : 1617810207008,
+        "duration" : 12146
+      },
+      "status" : "broken",
+      "statusMessage" : "autoit.autoit.AutoItError: timeout on wait for window exists\n",
+      "statusTrace" : "  File \"D:\\myproject\\yy_ui_bms\\business\\business_student.py\", line 228, in student_import\n    driver.file_upload(self.L_stu.stu_upload, os_tool.abs_path(\"./data/data_stu_template/学员导出模板.xls\"))  # 上传文件\n  File \"D:\\myproject\\yy_ui_bms\\tools\\ui\\base_ui.py\", line 508, in file_upload\n    autoit.win_wait(\"打开\", 10)\n  File \"D:\\myproject\\yy_ui_bms\\venv\\lib\\site-packages\\autoit\\autoit.py\", line 84, in wrapper\n    raise AutoItError(err_msg)\n",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : true,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ {
+      "uid" : "9074717ec142bd64",
+      "name" : "log",
+      "source" : "9074717ec142bd64.txt",
+      "type" : "text/plain",
+      "size" : 1928
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : true,
+    "attachmentsCount" : 1,
+    "stepsCount" : 2,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "driver::0",
+    "time" : {
+      "start" : 1617810215699,
+      "stop" : 1617810215699,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "学员管理-体验课"
+  }, {
+    "name" : "feature",
+    "value" : "M5学员管理"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Test_Customer.Test_M05_Student"
+  }, {
+    "name" : "suite",
+    "value" : "Test_M05_Student"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestStudent"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-823MG95"
+  }, {
+    "name" : "thread",
+    "value" : "9528-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Test_Customer.Test_M05_Student.Test_M05_Student"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "905974af19127200.json",
+  "parameterValues" : [ ]
+}

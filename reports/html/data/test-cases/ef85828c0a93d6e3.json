@@ -1,0 +1,125 @@
+{
+  "uid" : "ef85828c0a93d6e3",
+  "name" : "学员管理主页",
+  "fullName" : "Test_Customer.Test_M05_Student.Test_M05_Student.TestStudent#test_stu_home",
+  "historyId" : "1bd5f1fcd13ba499e8b40e73efbb7c09",
+  "time" : {
+    "start" : 1617809979326,
+    "stop" : 1617809982879,
+    "duration" : 3553
+  },
+  "description" : "登录后运营后台，进入首页，点击学员管理，查看是否正常跳转。",
+  "descriptionHtml" : "<p>登录后运营后台，进入首页，点击学员管理，查看是否正常跳转。</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "driver",
+    "time" : {
+      "start" : 1617809897238,
+      "stop" : 1617809899566,
+      "duration" : 2328
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "登录后运营后台，进入首页，点击学员管理，查看是否正常跳转。",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "步骤1：点击学员管理",
+      "time" : {
+        "start" : 1617809979326,
+        "stop" : 1617809982879,
+        "duration" : 3553
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "8fc1e225d464e0de",
+      "name" : "log",
+      "source" : "8fc1e225d464e0de.txt",
+      "type" : "text/plain",
+      "size" : 433
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 1,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "driver::0",
+    "time" : {
+      "start" : 1617810215699,
+      "stop" : 1617810215699,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "M5学员管理"
+  }, {
+    "name" : "story",
+    "value" : "学员管理主页"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Test_Customer.Test_M05_Student"
+  }, {
+    "name" : "suite",
+    "value" : "Test_M05_Student"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestStudent"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-823MG95"
+  }, {
+    "name" : "thread",
+    "value" : "9528-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Test_Customer.Test_M05_Student.Test_M05_Student"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ef85828c0a93d6e3.json",
+  "parameterValues" : [ ]
+}

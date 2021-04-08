@@ -1,0 +1,114 @@
+{
+  "total" : 10,
+  "items" : [ {
+    "uid" : "0da093599b2f1f1c811b42ba4e42512b",
+    "name" : "Test_Customer.Test_M05_Student",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 5,
+      "skipped" : 0,
+      "passed" : 19,
+      "unknown" : 0,
+      "total" : 25
+    }
+  }, {
+    "uid" : "cdd039dece66a0ae498b85db0d43c4c5",
+    "name" : "Test_Customer.Test_M04_Order",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 2,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 4
+    }
+  }, {
+    "uid" : "c1029dfbfe0fa27d90742bd1c463ecc7",
+    "name" : "Test_Customer.Test_M06_Study",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "149fd1fffa7048d487dd13667188759f",
+    "name" : "Test_Customer.Test_M07_Report",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "f899fdef50bb9298655bffa1a573c21e",
+    "name" : "Test_Customer.Test_M08_User",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "65c66f69311cc15e8b6b2c591860f5c6",
+    "name" : "Test_Customer.Test_M09_Clear",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "0082316dba5a6212b47e3ef6e99bce44",
+    "name" : "Test_Customer.Test_M10_Password",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "c77a40decf3407c4571eea127fc1b67e",
+    "name" : "Test_Customer.Test_M02_Channel",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 4
+    }
+  }, {
+    "uid" : "a36dc042a49212f2d68f7d0961bca1bf",
+    "name" : "Test_Customer.Test_M03_Company",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "ab1562fbb9a8941ad1269ad2be2b77e8",
+    "name" : "Test_Customer.Test_M01_Login",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  } ]
+}

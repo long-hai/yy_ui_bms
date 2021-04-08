@@ -1,0 +1,1349 @@
+2021-04-02 12:47:41,923 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2021-04-02 12:47:41,923 - tools.report.log_tool - INFO - 定位元素 (//tr[@class="el-table__row"])[1] 
+2021-04-02 12:47:41,985 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="f3b14b12bd4f92ba83256c1b6dea94f4", element="9d7731eb-f561-4aed-8dd2-2fc3eab83b75")>  的展示文本为:  189
+Test
+平台型渠道
+2021-03-26
+17:04:56 
+2021-04-02 12:48:50,519 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2021-04-02 12:48:50,519 - tools.report.log_tool - INFO - 定位元素 (//tr[@class="el-table__row"])[1] 
+2021-04-02 12:48:50,573 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="dcf0efa2c64adc57913a266ee2d4be0e", element="9d7731eb-f561-4aed-8dd2-2fc3eab83b75")>  的展示文本为:  189
+Test
+平台型渠道
+2021-03-26
+17:04:56 
+2021-04-02 12:50:00,541 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2021-04-02 12:50:00,541 - tools.report.log_tool - INFO - 定位元素 (//tr[@class="el-table__row"])[1] 
+2021-04-02 12:50:00,594 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="aad12dd73eba6bbf2cf12ac758d88387", element="9d7731eb-f561-4aed-8dd2-2fc3eab83b75")>  的展示文本为:  189
+Test
+平台型渠道
+2021-03-26
+17:04:56 
+2021-04-02 12:50:18,236 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2021-04-02 12:50:18,236 - tools.report.log_tool - INFO - 定位元素 (//tr[@class="el-table__row"])[1] 
+2021-04-02 12:50:18,283 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="95f19579871f191ca1b7b4e12f978122", element="9d7731eb-f561-4aed-8dd2-2fc3eab83b75")>  的展示文本为:  189
+Test
+平台型渠道
+2021-03-26
+17:04:56 
+2021-04-02 12:50:26,323 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2021-04-02 12:50:26,323 - tools.report.log_tool - INFO - 定位元素 (//tr[@class="el-table__row"])[1] 
+2021-04-02 12:50:26,370 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="a18b2bd4e5404027d8e72aa65db1a1b1", element="9d7731eb-f561-4aed-8dd2-2fc3eab83b75")>  的展示文本为:  189
+Test
+平台型渠道
+2021-03-26
+17:04:56 
+2021-04-02 12:52:11,641 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2021-04-02 12:52:11,641 - tools.report.log_tool - INFO - 定位元素 (//tr[@class="el-table__row"])[1] 
+2021-04-02 12:52:11,710 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="963c41f1234901765f1c067b09e4dec0", element="9d7731eb-f561-4aed-8dd2-2fc3eab83b75")>  的展示文本为:  189
+Test
+平台型渠道
+2021-03-26
+17:04:56 
+2021-04-02 12:52:46,690 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2021-04-02 12:52:46,697 - tools.report.log_tool - INFO - 定位元素 (//tr[@class="el-table__row"])[2] 
+2021-04-02 12:52:46,728 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="1a9e4e5698abebe0fd44efd3cd84667d", element="37c92d82-2b37-42fa-be4c-9325634529d9")>  的展示文本为:  172
+test111
+2021-03-24
+17:00:38 
+2021-04-02 12:53:43,707 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2021-04-02 12:53:43,707 - tools.report.log_tool - INFO - 定位元素 //button[@class="el-button el-button--primary"] 
+2021-04-02 12:53:43,738 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="6dc94b91f9ac5dcc756245a8fbfe6611", element="8dab3ac1-2b84-48d9-a4e3-51cd0b72b222")> 
+2021-04-02 12:53:44,332 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder="请输入渠道名称"] 
+2021-04-02 12:53:44,494 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="6dc94b91f9ac5dcc756245a8fbfe6611", element="6e3fa1d3-5a82-4d80-bd4c-44785b17d7b1")> 中输入： AUTO自动化测试渠道 
+2021-04-02 12:53:44,899 - tools.report.log_tool - INFO - 定位元素 //li[text()='测试1'] 
+2021-04-02 12:53:44,917 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="6dc94b91f9ac5dcc756245a8fbfe6611", element="012c3f3d-5465-4fa9-ad1a-592b409e65f3")> 
+2021-04-02 12:53:45,489 - tools.report.log_tool - INFO - 定位元素 //button[@class="el-button el-button--primary"] 
+2021-04-02 12:53:45,509 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="6dc94b91f9ac5dcc756245a8fbfe6611", element="3ea4117f-1214-4dc3-aff4-edf4228fa5df")> 
+2021-04-02 12:53:46,089 - tools.report.log_tool - INFO - 定位元素 (//tr[@class="el-table__row"])[1] 
+2021-04-02 12:53:46,358 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="6dc94b91f9ac5dcc756245a8fbfe6611", element="771f9279-7ab2-4313-a53a-9eb3ce606c9b")>  的展示文本为:  224
+AUTO自动化测试渠道
+测试1
+2021-04-02
+12:53:45 
+2021-04-02 12:58:50,631 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2021-04-02 12:58:50,632 - tools.report.log_tool - INFO - 定位元素 //button[@class="el-button el-button--primary"] 
+2021-04-02 12:58:50,669 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="2c28a5da7a16de01b2873ca579e16278", element="ef492827-2e72-46fb-b9d9-40de0a2d76e3")> 
+2021-04-02 12:58:51,306 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder="请输入渠道名称"] 
+2021-04-02 12:58:51,413 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="2c28a5da7a16de01b2873ca579e16278", element="6e3731b4-7e4a-4faa-b61f-ea0ce9b464cc")> 中输入： 自动化测试渠道 
+2021-04-02 12:58:51,798 - tools.report.log_tool - INFO - 定位元素 //li[text()='自动化'] 
+2021-04-02 12:58:51,831 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="2c28a5da7a16de01b2873ca579e16278", element="9c1e5d08-ab51-49fb-a15e-fe66623588b2")> 
+2021-04-02 12:58:52,360 - tools.report.log_tool - INFO - 定位元素 //button[@class="el-button el-button--primary"] 
+2021-04-02 12:58:52,385 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="2c28a5da7a16de01b2873ca579e16278", element="2b12c3ac-541f-4300-af0a-06df283efd87")> 
+2021-04-02 12:58:52,913 - tools.report.log_tool - INFO - 定位元素 (//tr[@class="el-table__row"])[1] 
+2021-04-02 12:58:53,267 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="2c28a5da7a16de01b2873ca579e16278", element="a101ee25-17bf-43cf-ba27-13beebce30d1")>  的展示文本为:  226
+自动化测试渠道
+自动化
+2021-04-02
+12:58:52 
+2021-04-02 12:59:26,179 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2021-04-02 12:59:26,181 - tools.report.log_tool - INFO - 定位元素 (//tr[@class="el-table__row"])[2] 
+2021-04-02 12:59:26,245 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="4b718711161e278905528627103e85e6", element="d7b5eae8-34e7-44cc-99b9-829e0159d164")>  的展示文本为:  AN_105
+AN105
+AutoN
+技术部
+A
+领导力DNA，辅导，打造高效团队，计划与组织，协作，授权，影响力，决策，领导力启程，驱动变革，达至最佳绩效，解决冲突，目标选才，领导力精要
+有效
+2021-04-02
+12:38:27
+2030-01-01
+00:00:00
+2021-04-02
+12:37:56
+自动化测试编辑学员，请勿操作，谢谢。 
+2021-04-02 13:00:38,720 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2021-04-02 13:00:38,722 - tools.report.log_tool - INFO - 定位元素 (//tr[@class="el-table__row"])[1] 
+2021-04-02 13:00:38,783 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="59e480d0d1658df712e6168c7e08993a", element="daf1c926-de57-4cab-9211-8bfce7bb9ce5")>  的展示文本为:  AN_106
+AN106
+AutoN
+无效
+2021-12-31
+00:00:00
+2021-04-02
+12:38:45 
+2021-04-02 13:00:57,045 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2021-04-02 13:00:57,046 - tools.report.log_tool - INFO - 定位元素 (//tr[@class="el-table__row"])[1] 
+2021-04-02 13:00:57,109 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="beb55df427a4ad919e91ef669c4235d0", element="daf1c926-de57-4cab-9211-8bfce7bb9ce5")>  的展示文本为:  AN_106
+AN106
+AutoN
+无效
+2021-12-31
+00:00:00
+2021-04-02
+12:38:45 
+2021-04-02 13:01:22,810 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2021-04-02 13:01:22,810 - tools.report.log_tool - INFO - 定位元素 (//tr[@class="el-table__row"])[1] 
+2021-04-02 13:01:22,930 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="421473b094abbb55e5a322c27bc861a9", element="daf1c926-de57-4cab-9211-8bfce7bb9ce5")>  的展示文本为:  AN_106
+AN106
+AutoN
+无效
+2021-12-31
+00:00:00
+2021-04-02
+12:38:45 
+2021-04-02 13:01:50,219 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2021-04-02 13:01:50,221 - tools.report.log_tool - INFO - 定位元素 (//tr[@class="el-table__row"])[1] 
+2021-04-02 13:01:50,282 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="588cc9d560acc46d6ca283f8094df405", element="daf1c926-de57-4cab-9211-8bfce7bb9ce5")>  的展示文本为:  AN_106
+AN106
+AutoN
+无效
+2021-12-31
+00:00:00
+2021-04-02
+12:38:45 
+2021-04-02 13:02:38,423 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2021-04-02 13:02:38,424 - tools.report.log_tool - INFO - 定位元素 (//tr[@class="el-table__row"])[1] 
+2021-04-02 13:02:38,485 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="e51c4ef124c88d62eed2bfc7ec452a47", element="daf1c926-de57-4cab-9211-8bfce7bb9ce5")>  的展示文本为:  AN_106
+AN106
+AutoN
+无效
+2021-12-31
+00:00:00
+2021-04-02
+12:38:45 
+2021-04-02 13:03:06,787 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2021-04-02 13:03:06,788 - tools.report.log_tool - INFO - 定位元素 (//tr[@class="el-table__row"])[1] 
+2021-04-02 13:03:06,864 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="958bb1a22eaf5beee6c65552a8e995e1", element="daf1c926-de57-4cab-9211-8bfce7bb9ce5")>  的展示文本为:  陈秋霞
+13758241492
+杭州老板电器股份有限公司
+辅导，打造高效团队，领导力精要，计划与组织，协作，授权，影响力，决策
+有效
+2019-02-20
+16:23:53
+2019-02-20
+02:23:53 
+2021-04-02 13:07:01,439 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2021-04-02 13:07:01,439 - tools.report.log_tool - INFO - 定位元素 (//tr[@class="el-table__row"])[1]//td 
+2021-04-02 13:07:01,486 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="ff81d009c307db83dad13c94c95ed20e", element="008f19b5-a61f-4599-925a-0344bfaaef8f")>  的展示文本为:   
+2021-04-02 13:07:15,703 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2021-04-02 13:07:15,703 - tools.report.log_tool - INFO - 定位元素 (//tr[@class="el-table__row"])[1]//td 
+2021-04-02 13:07:15,750 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="de3ef4a6ab08c6b44d4799ba4e92b885", element="008f19b5-a61f-4599-925a-0344bfaaef8f")>  的展示文本为:   
+2021-04-02 13:07:38,148 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2021-04-02 13:07:38,149 - tools.report.log_tool - INFO - 定位元素 (//tr[@class="el-table__row"])[1]//td[1] 
+2021-04-02 13:07:38,192 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="c4d60f5346980d93b29cf0236a460b91", element="008f19b5-a61f-4599-925a-0344bfaaef8f")>  的展示文本为:   
+2021-04-02 13:07:44,759 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2021-04-02 13:07:44,759 - tools.report.log_tool - INFO - 定位元素 (//tr[@class="el-table__row"])[1]//td[2] 
+2021-04-02 13:07:44,806 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="90f3b933dd9f44f876e6fc13a0e0130c", element="ed941726-6686-4da9-8127-03d37ac89d34")>  的展示文本为:  陈秋霞 
+2021-04-02 13:10:25,811 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2021-04-02 13:10:25,811 - tools.report.log_tool - INFO - 定位元素 (//tr[@class="el-table__row"])[1]//td[2] 
+2021-04-02 13:10:25,896 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="68c94e3da9b06f1e7e4822074f6f83df", element="ed941726-6686-4da9-8127-03d37ac89d34")>  的展示文本为:  陈秋霞 
+2021-04-02 13:10:25,896 - tools.report.log_tool - INFO - 定位元素 (//tr[@class="el-table__row"])[1]//td[5] 
+2021-04-02 13:10:25,933 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="68c94e3da9b06f1e7e4822074f6f83df", element="ba399e7f-6bd3-4bbe-b384-80fbaeb0b290")>  的展示文本为:  杭州老板电器股份有限公司 
+2021-04-02 13:10:25,933 - tools.report.log_tool - INFO - 定位元素 (//tr[@class="el-table__row"])[1]//td[8] 
+2021-04-02 13:10:25,965 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="68c94e3da9b06f1e7e4822074f6f83df", element="44eeb9bc-2aa7-40e9-b189-3d1357eff9c2")>  的展示文本为:  辅导，打造高效团队，领导力精要，计划与组织，协作，授权，影响力，决策 
+2021-04-02 13:10:52,084 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2021-04-02 13:10:52,084 - tools.report.log_tool - INFO - 定位元素 (//tr[@class="el-table__row"])[1]//td[2] 
+2021-04-02 13:10:52,131 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="a52a0ab5237c3dd7e5b1b9dcf875dfb9", element="ed941726-6686-4da9-8127-03d37ac89d34")>  的展示文本为:  陈秋霞 
+2021-04-02 13:10:52,131 - tools.report.log_tool - INFO - 定位元素 (//tr[@class="el-table__row"])[1]//td[5] 
+2021-04-02 13:10:52,169 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="a52a0ab5237c3dd7e5b1b9dcf875dfb9", element="ba399e7f-6bd3-4bbe-b384-80fbaeb0b290")>  的展示文本为:  杭州老板电器股份有限公司 
+2021-04-02 13:10:52,169 - tools.report.log_tool - INFO - 定位元素 (//tr[@class="el-table__row"])[1]//td[8] 
+2021-04-02 13:10:52,200 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="a52a0ab5237c3dd7e5b1b9dcf875dfb9", element="44eeb9bc-2aa7-40e9-b189-3d1357eff9c2")>  的展示文本为:  辅导，打造高效团队，领导力精要，计划与组织，协作，授权，影响力，决策 
+2021-04-02 13:16:22,881 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2021-04-02 13:16:22,883 - tools.report.log_tool - INFO - 定位元素 //div[text()="内训课"] 
+2021-04-02 13:16:22,961 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="ca3c1c83b3f1eddd61553e8b40395d25", element="aa51bc7c-9ffb-466b-8f72-3d1ca10379b4")> 
+2021-04-02 13:16:24,694 - tools.report.log_tool - INFO - 定位元素 //input[@placeholder="所有公司"] 
+2021-04-02 13:16:24,732 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="ca3c1c83b3f1eddd61553e8b40395d25", element="4be78119-8999-4541-a23e-fab708609630")> 中输入： AutoN 
+2021-04-02 13:16:25,326 - tools.report.log_tool - INFO - 定位元素 (//span[text()="新增学员"])[1] 
+2021-04-02 13:16:25,357 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="ca3c1c83b3f1eddd61553e8b40395d25", element="8a49a00f-b255-4dd2-a7a3-ef1065d81c6f")> 
+2021-04-02 13:16:26,570 - tools.report.log_tool - INFO - 定位元素 (//label[text()="公司名称"]/..//span)[1] 
+2021-04-02 13:16:26,623 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="ca3c1c83b3f1eddd61553e8b40395d25", element="10fef64e-2e0e-4a5d-8881-eb46425b31e2")>  的展示文本为:  AutoN 
+2021-04-02 13:16:26,623 - tools.report.log_tool - INFO - 定位元素 //div[@class="emo_number"] 
+2021-04-02 13:16:26,654 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="ca3c1c83b3f1eddd61553e8b40395d25", element="3983b746-af84-4e41-b669-5006d64a8ee5")>  的展示文本为:  AN 
+2021-04-02 13:16:26,654 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder="请输入姓名"] 
+2021-04-02 13:16:26,686 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="ca3c1c83b3f1eddd61553e8b40395d25", element="c427addc-8686-41e1-82ee-e8b839b23071")> 中输入： AN_107 
+2021-04-02 13:16:27,056 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder="请输入员工号"] 
+2021-04-02 13:16:27,076 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="ca3c1c83b3f1eddd61553e8b40395d25", element="bbce32aa-30e7-49c9-8e92-fc638fd49d34")> 中输入： 107 
+2021-04-02 13:16:27,416 - tools.report.log_tool - INFO - 定位元素 //label[@tabindex="-1"] 
+2021-04-02 13:16:27,437 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="ca3c1c83b3f1eddd61553e8b40395d25", element="1fce9e40-dae6-49f3-8ad2-aced4b40cfc8")> 
+2021-04-02 13:16:27,992 - tools.report.log_tool - INFO - 定位元素 //input[@placeholder="请输入手机号码"] 
+2021-04-02 13:16:28,045 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="ca3c1c83b3f1eddd61553e8b40395d25", element="6791fa8c-9ffb-43fd-8e27-22f0693666c1")> 中输入：  
+2021-04-02 13:16:28,384 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder="请输入部门"] 
+2021-04-02 13:16:28,403 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="ca3c1c83b3f1eddd61553e8b40395d25", element="b2c44f28-5f02-4567-b5d4-12b3e1f6d6c0")> 中输入： 营销部 
+2021-04-02 13:16:28,748 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder="请输入职位"] 
+2021-04-02 13:16:28,766 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="ca3c1c83b3f1eddd61553e8b40395d25", element="fb1bcbf7-5164-4913-b462-bd5c0a9b9e47")> 中输入： 销售 
+2021-04-02 13:16:29,084 - tools.report.log_tool - INFO - 定位元素 //input[@placeholder="请输入数字（支持小数点后一位）"] 
+2021-04-02 13:16:29,105 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="ca3c1c83b3f1eddd61553e8b40395d25", element="a3e32198-7c2c-4163-ba0c-c19c19aab514")> 中输入： 2 
+2021-04-02 13:16:29,426 - tools.report.log_tool - INFO - 定位元素 //input[@placeholder="选择日期"] 
+2021-04-02 13:16:29,446 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="ca3c1c83b3f1eddd61553e8b40395d25", element="345817a6-162e-4e5f-84d3-af8fd155984c")> 中输入： 2025-01-01 00:00:00 
+2021-04-02 13:16:29,844 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder="请输入备注信息"] 
+2021-04-02 13:16:29,867 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="ca3c1c83b3f1eddd61553e8b40395d25", element="d9985fac-af36-443a-98c7-6972f7fe7145")> 中输入： 自动化测试添加学员，请勿操作，谢谢。 
+2021-04-02 13:16:30,406 - tools.report.log_tool - INFO - 定位元素 (//div[@class="tabs_li"]//li)[1] 
+2021-04-02 13:16:30,429 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="ca3c1c83b3f1eddd61553e8b40395d25", element="af633ed0-7221-4b00-adda-9dff939f79d2")> 
+2021-04-02 13:16:31,035 - tools.report.log_tool - INFO - 定位元素 //span[text()="全选"]/.. 
+2021-04-02 13:16:31,062 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="ca3c1c83b3f1eddd61553e8b40395d25", element="f07dca0c-d2c9-4c64-ae85-1c68741c5387")> 
+2021-04-02 13:16:31,654 - tools.report.log_tool - INFO - 定位元素 //span[text()='保存'] 
+2021-04-02 13:16:31,686 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="ca3c1c83b3f1eddd61553e8b40395d25", element="e423077b-f2f3-4059-ae4f-46b1dacee1a3")> 
+2021-04-02 13:16:33,298 - tools.report.log_tool - INFO - 定位元素 //*[@id="out-table"]/div[3]/table/tbody/tr/td[4]/div 
+2021-04-02 13:16:33,458 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="ca3c1c83b3f1eddd61553e8b40395d25", element="b34b9cc2-d457-4936-bb51-28f4ce3c47a1")>  的展示文本为:  AN107 
+2021-04-02 13:16:33,458 - tools.report.log_tool - INFO - 定位元素 (//tr[@class="el-table__row"])[1]//td[2] 
+2021-04-02 13:16:33,577 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="ca3c1c83b3f1eddd61553e8b40395d25", element="589245ea-04a0-42c5-bdeb-be0480d38574")>  的展示文本为:  AN_107 
+2021-04-02 13:16:33,578 - tools.report.log_tool - INFO - 定位元素 (//tr[@class="el-table__row"])[1]//td[5] 
+2021-04-02 13:16:33,654 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="ca3c1c83b3f1eddd61553e8b40395d25", element="a4d2c9f2-f499-457d-a110-bb582772ac99")>  的展示文本为:  AutoN 
+2021-04-02 13:16:33,654 - tools.report.log_tool - INFO - 定位元素 (//tr[@class="el-table__row"])[1]//td[8] 
+2021-04-02 13:16:33,698 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="ca3c1c83b3f1eddd61553e8b40395d25", element="e9fd9103-c887-4cdc-884b-c9be456a52d3")>  的展示文本为:  领导力DNA，辅导，打造高效团队，计划与组织，协作，授权，影响力，决策，领导力启程，驱动变革，达至最佳绩效，解决冲突，目标选才，领导力精要 
+2021-04-02 13:18:00,152 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2021-04-02 13:18:00,153 - tools.report.log_tool - INFO - 定位元素 //div[text()="内训课"] 
+2021-04-02 13:18:00,209 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="685ea619cda83869af377e3ee64b69b0", element="bfc1ed1c-f720-4161-973e-80ea5bb79630")> 
+2021-04-02 13:18:01,794 - tools.report.log_tool - INFO - 定位元素 //input[@placeholder="所有公司"] 
+2021-04-02 13:18:01,809 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="685ea619cda83869af377e3ee64b69b0", element="63e25151-2a6f-4a96-9cb9-ce6800e1bddb")> 中输入： AutoN 
+2021-04-02 13:18:02,467 - tools.report.log_tool - INFO - 定位元素 (//span[text()="新增学员"])[1] 
+2021-04-02 13:18:02,497 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="685ea619cda83869af377e3ee64b69b0", element="5fdc96a1-e55e-45f1-b679-c7efbd63c54d")> 
+2021-04-02 13:18:03,672 - tools.report.log_tool - INFO - 定位元素 (//label[text()="公司名称"]/..//span)[1] 
+2021-04-02 13:18:03,739 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="685ea619cda83869af377e3ee64b69b0", element="3acad256-ecb3-4f34-91b8-48ad4ad8c747")>  的展示文本为:  AutoN 
+2021-04-02 13:18:03,739 - tools.report.log_tool - INFO - 定位元素 //div[@class="emo_number"] 
+2021-04-02 13:18:03,772 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="685ea619cda83869af377e3ee64b69b0", element="b0485c68-fc0a-4c96-b3d8-e230adb1220a")>  的展示文本为:  AN 
+2021-04-02 13:18:03,772 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder="请输入姓名"] 
+2021-04-02 13:18:03,804 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="685ea619cda83869af377e3ee64b69b0", element="0c896fa8-0b4a-4d57-a7ea-c13ec28ba10a")> 中输入： AN_108 
+2021-04-02 13:18:04,197 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder="请输入员工号"] 
+2021-04-02 13:18:04,216 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="685ea619cda83869af377e3ee64b69b0", element="1c206fc8-2d6a-4cfe-9c16-5fbb4e6e18eb")> 中输入： 108 
+2021-04-02 13:18:04,622 - tools.report.log_tool - INFO - 定位元素 //label[@tabindex="-1"] 
+2021-04-02 13:18:04,642 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="685ea619cda83869af377e3ee64b69b0", element="4e101d37-1cb7-410c-8239-c1963adc42df")> 
+2021-04-02 13:18:05,182 - tools.report.log_tool - INFO - 定位元素 //input[@placeholder="请输入手机号码"] 
+2021-04-02 13:18:05,204 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="685ea619cda83869af377e3ee64b69b0", element="64099ee5-7f60-4522-ade9-b7fd94b14ed6")> 中输入：  
+2021-04-02 13:18:05,537 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder="请输入部门"] 
+2021-04-02 13:18:05,556 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="685ea619cda83869af377e3ee64b69b0", element="613cbde0-0a9a-4767-ad48-adea55aaf94e")> 中输入： 营销部 
+2021-04-02 13:18:05,899 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder="请输入职位"] 
+2021-04-02 13:18:05,918 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="685ea619cda83869af377e3ee64b69b0", element="9db2d644-a413-423c-816f-2dd112a3ae96")> 中输入： 销售 
+2021-04-02 13:18:06,304 - tools.report.log_tool - INFO - 定位元素 //input[@placeholder="请输入数字（支持小数点后一位）"] 
+2021-04-02 13:18:06,324 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="685ea619cda83869af377e3ee64b69b0", element="4c966993-a320-4538-995f-727f140202ef")> 中输入： 2 
+2021-04-02 13:18:06,670 - tools.report.log_tool - INFO - 定位元素 //input[@placeholder="选择日期"] 
+2021-04-02 13:18:06,690 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="685ea619cda83869af377e3ee64b69b0", element="adad9204-22ce-478b-9a11-4632f1270003")> 中输入： 2025-01-01 00:00:00 
+2021-04-02 13:18:07,092 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder="请输入备注信息"] 
+2021-04-02 13:18:07,112 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="685ea619cda83869af377e3ee64b69b0", element="053447ce-7c60-4ad2-b642-212c06e65c1b")> 中输入： 自动化测试添加学员，请勿操作，谢谢。 
+2021-04-02 13:18:07,647 - tools.report.log_tool - INFO - 定位元素 (//div[@class="tabs_li"]//li)[1] 
+2021-04-02 13:18:07,667 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="685ea619cda83869af377e3ee64b69b0", element="b4cefef7-77c6-4306-93d9-a73eafec419b")> 
+2021-04-02 13:18:08,276 - tools.report.log_tool - INFO - 定位元素 //span[text()="全选"]/.. 
+2021-04-02 13:18:08,297 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="685ea619cda83869af377e3ee64b69b0", element="76516a63-a534-428a-b2da-75f742b453ff")> 
+2021-04-02 13:18:08,909 - tools.report.log_tool - INFO - 定位元素 //span[text()='保存'] 
+2021-04-02 13:18:08,931 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="685ea619cda83869af377e3ee64b69b0", element="0738d600-b478-4e80-8188-b76f06d80c35")> 
+2021-04-02 13:18:10,510 - tools.report.log_tool - INFO - 定位元素 //*[@id="out-table"]/div[3]/table/tbody/tr/td[4]/div 
+2021-04-02 13:18:10,563 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="685ea619cda83869af377e3ee64b69b0", element="62f7f9a1-14c8-42ec-8138-5a79c79dad19")>  的展示文本为:  AN108 
+2021-04-02 13:18:10,563 - tools.report.log_tool - INFO - 定位元素 (//tr[@class="el-table__row"])[1]//td[2] 
+2021-04-02 13:18:10,615 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="685ea619cda83869af377e3ee64b69b0", element="1e64fe72-2ec8-44c1-be66-4cc9ccd3a431")>  的展示文本为:  AN_108 
+2021-04-02 13:18:10,615 - tools.report.log_tool - INFO - 定位元素 (//tr[@class="el-table__row"])[1]//td[5] 
+2021-04-02 13:18:10,667 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="685ea619cda83869af377e3ee64b69b0", element="108b9b29-5f05-4252-b834-9fd6ff6afdc8")>  的展示文本为:  AutoN 
+2021-04-02 13:18:10,667 - tools.report.log_tool - INFO - 定位元素 (//tr[@class="el-table__row"])[1]//td[8] 
+2021-04-02 13:18:10,766 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="685ea619cda83869af377e3ee64b69b0", element="503fa7ca-7584-4b0b-87a8-8d88d9f2cbcb")>  的展示文本为:  领导力DNA，辅导，打造高效团队，计划与组织，协作，授权，影响力，决策，领导力启程，驱动变革，达至最佳绩效，解决冲突，目标选才，领导力精要 
+2021-04-02 13:18:40,209 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2021-04-02 13:18:40,209 - tools.report.log_tool - INFO - 定位元素 //div[text()="内训课"] 
+2021-04-02 13:18:40,240 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="02fbd8aab7172a00154a61e393e6e3f1", element="56048939-398d-4f4a-995e-050f1b7e13bc")> 
+2021-04-02 13:18:41,829 - tools.report.log_tool - INFO - 定位元素 //input[@placeholder="所有公司"] 
+2021-04-02 13:18:41,845 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="02fbd8aab7172a00154a61e393e6e3f1", element="48b071a5-64a8-4589-b5f2-71de95652650")> 中输入： AutoN 
+2021-04-02 13:18:42,472 - tools.report.log_tool - INFO - 定位元素 (//span[text()="新增学员"])[1] 
+2021-04-02 13:18:42,502 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="02fbd8aab7172a00154a61e393e6e3f1", element="477902db-7e32-4a74-bf37-9089245998ad")> 
+2021-04-02 13:18:43,637 - tools.report.log_tool - INFO - 定位元素 (//label[text()="公司名称"]/..//span)[1] 
+2021-04-02 13:18:43,670 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="02fbd8aab7172a00154a61e393e6e3f1", element="3e07e370-13cc-40a0-89e9-353a384d6334")>  的展示文本为:  AutoN 
+2021-04-02 13:18:43,670 - tools.report.log_tool - INFO - 定位元素 //div[@class="emo_number"] 
+2021-04-02 13:18:43,690 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="02fbd8aab7172a00154a61e393e6e3f1", element="63fe2e26-701c-4a86-be8a-490d765d631c")>  的展示文本为:  AN 
+2021-04-02 13:18:43,706 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder="请输入姓名"] 
+2021-04-02 13:18:43,721 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="02fbd8aab7172a00154a61e393e6e3f1", element="9b27ee24-5c9b-4549-b95e-c9522aecfcb7")> 中输入： AN_109 
+2021-04-02 13:18:44,120 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder="请输入员工号"] 
+2021-04-02 13:18:44,140 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="02fbd8aab7172a00154a61e393e6e3f1", element="6500903a-7c8f-4b31-8614-7c9fb307ef8b")> 中输入： 109 
+2021-04-02 13:18:44,584 - tools.report.log_tool - INFO - 定位元素 //label[@tabindex="-1"] 
+2021-04-02 13:18:44,603 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="02fbd8aab7172a00154a61e393e6e3f1", element="55fa1931-5a12-449e-9204-c0737096093a")> 
+2021-04-02 13:18:45,191 - tools.report.log_tool - INFO - 定位元素 //input[@placeholder="请输入手机号码"] 
+2021-04-02 13:18:45,218 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="02fbd8aab7172a00154a61e393e6e3f1", element="4903f7b8-31e7-49f4-b493-e9c277e5ffd5")> 中输入：  
+2021-04-02 13:18:45,565 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder="请输入部门"] 
+2021-04-02 13:18:45,584 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="02fbd8aab7172a00154a61e393e6e3f1", element="a79d335e-3839-48de-b6c6-2a916fdfb4fd")> 中输入： 营销部 
+2021-04-02 13:18:45,969 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder="请输入职位"] 
+2021-04-02 13:18:45,987 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="02fbd8aab7172a00154a61e393e6e3f1", element="091b352a-d4d0-43e4-a0e4-55f3fc6d58b2")> 中输入： 销售 
+2021-04-02 13:18:46,331 - tools.report.log_tool - INFO - 定位元素 //input[@placeholder="请输入数字（支持小数点后一位）"] 
+2021-04-02 13:18:46,350 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="02fbd8aab7172a00154a61e393e6e3f1", element="5ac9fb18-52d4-47d0-b1d1-c1df51522d39")> 中输入： 2 
+2021-04-02 13:18:46,704 - tools.report.log_tool - INFO - 定位元素 //input[@placeholder="选择日期"] 
+2021-04-02 13:18:46,725 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="02fbd8aab7172a00154a61e393e6e3f1", element="b6ecb7a3-f5b3-4184-b757-cddf8db7ffed")> 中输入： 2025-01-01 00:00:00 
+2021-04-02 13:18:47,147 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder="请输入备注信息"] 
+2021-04-02 13:18:47,168 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="02fbd8aab7172a00154a61e393e6e3f1", element="f7210c60-5de6-45a7-a2f7-99b8fdf0fe14")> 中输入： 自动化测试添加学员，请勿操作，谢谢。 
+2021-04-02 13:18:47,730 - tools.report.log_tool - INFO - 定位元素 (//div[@class="tabs_li"]//li)[1] 
+2021-04-02 13:18:47,750 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="02fbd8aab7172a00154a61e393e6e3f1", element="0e1eebef-72b5-4799-986e-a7f37e9f76a6")> 
+2021-04-02 13:18:48,339 - tools.report.log_tool - INFO - 定位元素 //span[text()="全选"]/.. 
+2021-04-02 13:18:48,363 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="02fbd8aab7172a00154a61e393e6e3f1", element="7a7e4cab-b892-430c-a903-44465a8bec57")> 
+2021-04-02 13:18:48,961 - tools.report.log_tool - INFO - 定位元素 //span[text()='保存'] 
+2021-04-02 13:18:48,986 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="02fbd8aab7172a00154a61e393e6e3f1", element="be7fae73-2395-438b-9040-b9e36e200a69")> 
+2021-04-02 13:18:50,560 - tools.report.log_tool - INFO - 定位元素 //*[@id="out-table"]/div[3]/table/tbody/tr/td[4]/div 
+2021-04-02 13:18:50,600 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="02fbd8aab7172a00154a61e393e6e3f1", element="715947bc-e60c-409a-a35a-5131f2379052")>  的展示文本为:  AN109 
+2021-04-02 13:18:50,601 - tools.report.log_tool - INFO - 定位元素 (//tr[@class="el-table__row"])[1]//td[2] 
+2021-04-02 13:18:50,659 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="02fbd8aab7172a00154a61e393e6e3f1", element="8e63b49c-8b35-4904-bf91-8576a20b7836")>  的展示文本为:  AN_109 
+2021-04-02 13:18:50,659 - tools.report.log_tool - INFO - 定位元素 (//tr[@class="el-table__row"])[1]//td[5] 
+2021-04-02 13:18:50,707 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="02fbd8aab7172a00154a61e393e6e3f1", element="08e5abe9-7c9a-40dc-a601-3e038ca6fa13")>  的展示文本为:  AutoN 
+2021-04-02 13:18:50,708 - tools.report.log_tool - INFO - 定位元素 (//tr[@class="el-table__row"])[1]//td[8] 
+2021-04-02 13:18:50,828 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="02fbd8aab7172a00154a61e393e6e3f1", element="8c39e01a-c45d-4c2a-a4d6-7d4bbe746640")>  的展示文本为:  领导力DNA，辅导，打造高效团队，计划与组织，协作，授权，影响力，决策，领导力启程，驱动变革，达至最佳绩效，解决冲突，目标选才，领导力精要 
+2021-04-03 12:12:57,985 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2021-04-03 12:12:57,985 - tools.report.log_tool - INFO - 定位元素 //i[@class='icon iconfont icon-qudao']/.. 
+2021-04-03 12:12:58,016 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="b5eb425a8cf5006a5783fc233f22d7d3", element="6a26bbdf-aeaa-4cbb-bd4c-9bcf223b5a9f")> 
+2021-04-03 12:12:59,635 - tools.report.log_tool - INFO - 获取当前页面的url https://customer-uat.transtalent.cn/#/channel 
+2021-04-03 12:13:00,646 - tools.report.log_tool - INFO - 定位元素 //button[@class='el-button el-button--primary'] 
+2021-04-03 12:13:00,719 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="b5eb425a8cf5006a5783fc233f22d7d3", element="e6f87134-4119-4c72-b105-d3489f5427c6")> 
+2021-04-03 12:13:01,335 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入渠道名称'] 
+2021-04-03 12:13:01,441 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="b5eb425a8cf5006a5783fc233f22d7d3", element="698f6558-60f8-40f3-be05-d75873f8c8cb")> 中输入： 自动化测试渠道 
+2021-04-03 12:13:01,809 - tools.report.log_tool - INFO - 定位元素 //li[text()='自动化'] 
+2021-04-03 12:13:01,830 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="b5eb425a8cf5006a5783fc233f22d7d3", element="5161456c-4166-44cf-b2dc-c815ec663162")> 
+2021-04-03 12:13:02,408 - tools.report.log_tool - INFO - 定位元素 //button[@class='el-button el-button--primary'] 
+2021-04-03 12:13:02,442 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="b5eb425a8cf5006a5783fc233f22d7d3", element="e2f6e68f-254c-4988-a41e-19f43521c2cf")> 
+2021-04-03 12:13:02,992 - tools.report.log_tool - INFO - 定位元素 (//tr[@class='el-table__row'])[1] 
+2021-04-03 12:13:03,373 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="b5eb425a8cf5006a5783fc233f22d7d3", element="d9982ad2-52f7-40db-a446-6b3b562b6d26")>  的展示文本为:  233
+自动化测试渠道
+自动化
+2021-04-03
+12:13:02 
+2021-04-03 12:13:03,373 - tools.report.log_tool - INFO - 定位元素 //*[@id='out-table']/div[4]/div[2]/table/tbody/tr[1]/td[5]/div/button[1] 
+2021-04-03 12:13:03,396 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="b5eb425a8cf5006a5783fc233f22d7d3", element="2a3a4edf-b675-4169-af48-29022556d45d")> 
+2021-04-03 12:13:03,991 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入渠道名称'] 
+2021-04-03 12:13:04,072 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="b5eb425a8cf5006a5783fc233f22d7d3", element="6cf189e9-03a6-45ef-99b7-bcd71f5d2980")> 中输入： AUTO自动化测试渠道_UPDATE 
+2021-04-03 12:13:04,495 - tools.report.log_tool - INFO - 定位元素 (//div[@class='close el-icon-close'])[1] 
+2021-04-03 12:13:04,518 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="b5eb425a8cf5006a5783fc233f22d7d3", element="5df014b2-69d6-4599-899f-9fd79c2b8919")> 
+2021-04-03 12:13:05,087 - tools.report.log_tool - INFO - 定位元素 //button[@class='el-button el-button--primary'] 
+2021-04-03 12:13:05,134 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="b5eb425a8cf5006a5783fc233f22d7d3", element="264736da-acfc-4925-b95e-4a37e8e7d845")> 
+2021-04-03 12:13:05,738 - tools.report.log_tool - INFO - 定位元素 (//tr[@class='el-table__row'])[1] 
+2021-04-03 12:13:06,076 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="b5eb425a8cf5006a5783fc233f22d7d3", element="f83897d3-41a6-44e7-9b45-ce55b650697a")>  的展示文本为:  233
+AUTO自动化测试渠道_UPDATE
+2021-04-03
+12:13:02 
+2021-04-03 12:13:06,076 - tools.report.log_tool - INFO - 定位元素 //*[@id='out-table']/div[4]/div[2]/table/tbody/tr[1]/td[5]/div/button[2] 
+2021-04-03 12:13:06,102 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="b5eb425a8cf5006a5783fc233f22d7d3", element="48fb3ba8-9799-4308-aa93-503c4d450bc1")> 
+2021-04-03 12:13:06,723 - tools.report.log_tool - INFO - 定位元素 //button[@class='el-button el-button--default el-button--small el-button--primary '] 
+2021-04-03 12:13:06,768 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="b5eb425a8cf5006a5783fc233f22d7d3", element="fd6b3ec2-7230-41aa-a57c-2f42ef7c53e5")> 
+2021-04-03 12:13:08,426 - tools.report.log_tool - INFO - 获取当前页面的url https://customer-uat.transtalent.cn/#/channel 
+2021-04-03 12:13:09,456 - tools.report.log_tool - INFO - 本条测试用例结束时间：2021-04-03 12:13:09
+2021-04-03 12:15:09,185 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2021-04-03 12:15:09,188 - tools.report.log_tool - INFO - 打开网址： https://customer-uat.transtalent.cn/#/login 
+2021-04-03 12:15:09,260 - tools.report.log_tool - INFO - 定位元素 //input[@placeholder='用户名'] 
+2021-04-03 12:15:09,288 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="7beb67f62ecba92038c92df683e2ee4c", element="2499c092-0071-46ff-b829-5ae269346ef3")> 中输入： longhai 
+2021-04-03 12:15:09,624 - tools.report.log_tool - INFO - 定位元素 //input[@placeholder='密码'] 
+2021-04-03 12:15:09,645 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="7beb67f62ecba92038c92df683e2ee4c", element="badd7485-971a-4f77-b099-f75e050d5dfa")> 中输入： q123456 
+2021-04-03 12:15:09,992 - tools.report.log_tool - INFO - 定位元素 //button 
+2021-04-03 12:15:10,016 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="7beb67f62ecba92038c92df683e2ee4c", element="b09a3fa2-e7cb-4261-bf66-1add8705d9e0")> 
+2021-04-03 12:15:11,567 - tools.report.log_tool - INFO - 打开网址： https://customer-uat.transtalent.cn/#/login 
+2021-04-03 12:15:11,635 - tools.report.log_tool - INFO - 定位元素 //input[@placeholder='用户名'] 
+2021-04-03 12:15:11,666 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="7beb67f62ecba92038c92df683e2ee4c", element="76b29960-fd43-4e5a-b250-5804262059b9")> 中输入： longhai 
+2021-04-03 12:15:12,000 - tools.report.log_tool - INFO - 定位元素 //input[@placeholder='密码'] 
+2021-04-03 12:15:12,018 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="7beb67f62ecba92038c92df683e2ee4c", element="dfbcaf64-c6a4-44bb-aaa7-9c095263770c")> 中输入： q123456 
+2021-04-03 12:15:12,391 - tools.report.log_tool - INFO - 定位元素 //button 
+2021-04-03 12:15:12,408 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="7beb67f62ecba92038c92df683e2ee4c", element="7088de12-c3a4-4841-a64c-a4fa634487df")> 
+2021-04-03 12:15:13,966 - tools.report.log_tool - INFO - 定位元素 (//li[@class='el-menu-item']//i)[1] 
+2021-04-03 12:15:14,076 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="7beb67f62ecba92038c92df683e2ee4c", element="6eb92fc5-ca9c-404a-992a-8e1ebc71b917")>  属性:  class  的值为:  icon iconfont icon-qudao 
+2021-04-03 12:15:14,076 - tools.report.log_tool - INFO - 定位元素 (//li[@class='el-menu-item']//i)[2] 
+2021-04-03 12:15:14,166 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="7beb67f62ecba92038c92df683e2ee4c", element="40435fae-ffbb-44cb-ad2a-0e8f5ff64269")>  属性:  class  的值为:  icon iconfont icon-kehu 
+2021-04-03 12:15:14,166 - tools.report.log_tool - INFO - 定位元素 (//li[@class='el-menu-item']//i)[3] 
+2021-04-03 12:15:14,266 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="7beb67f62ecba92038c92df683e2ee4c", element="8c937680-86df-4f97-a8e2-105f349b60bf")>  属性:  class  的值为:  icon iconfont icon-dingdan 
+2021-04-03 12:15:14,266 - tools.report.log_tool - INFO - 定位元素 (//li[@class='el-menu-item']//i)[4] 
+2021-04-03 12:15:14,326 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="7beb67f62ecba92038c92df683e2ee4c", element="4525fc27-4693-49cb-b0ed-25f857dca100")>  属性:  class  的值为:  icon iconfont icon-xueyuan 
+2021-04-03 12:15:14,326 - tools.report.log_tool - INFO - 定位元素 (//li[@class='el-menu-item']//i)[5] 
+2021-04-03 12:15:14,366 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="7beb67f62ecba92038c92df683e2ee4c", element="74a63981-fded-4233-ae38-5e21080a26d4")>  属性:  class  的值为:  icon iconfont icon-jindu 
+2021-04-03 12:15:14,376 - tools.report.log_tool - INFO - 定位元素 (//li[@class='el-menu-item']//i)[6] 
+2021-04-03 12:15:14,418 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="7beb67f62ecba92038c92df683e2ee4c", element="689c91b4-6e37-47a1-8ea4-4eac516e4a1a")>  属性:  class  的值为:  icon iconfont icon-baogao 
+2021-04-03 12:15:14,418 - tools.report.log_tool - INFO - 定位元素 (//li[@class='el-menu-item']//i)[7] 
+2021-04-03 12:15:14,466 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="7beb67f62ecba92038c92df683e2ee4c", element="d5dede43-ca36-4171-8c17-1e7d3f06c310")>  属性:  class  的值为:  icon iconfont icon-yonghu 
+2021-04-03 12:15:14,466 - tools.report.log_tool - INFO - 定位元素 (//li[@class='el-menu-item']//i)[8] 
+2021-04-03 12:15:14,496 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="7beb67f62ecba92038c92df683e2ee4c", element="07a150f3-087f-409b-b519-9ca2fefdcd7e")>  属性:  class  的值为:  icon iconfont icon-cleanstudy 
+2021-04-03 12:15:14,496 - tools.report.log_tool - INFO - 定位元素 (//li[@class='el-menu-item']//i)[9] 
+2021-04-03 12:15:14,526 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="7beb67f62ecba92038c92df683e2ee4c", element="6704ca1a-9ad3-40c4-8a72-c7f30a65a8b0")>  属性:  class  的值为:  icon iconfont icon-mima 
+2021-04-03 12:15:14,526 - tools.report.log_tool - INFO - 定位元素 //span[@class='el-dropdown-link el-dropdown-selfdefine'] 
+2021-04-03 12:15:14,556 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="7beb67f62ecba92038c92df683e2ee4c", element="68d6dac6-48d6-40be-95ae-2a20b2dab420")>  的展示文本为:  管理员 longhai 
+2021-04-03 12:15:14,556 - tools.report.log_tool - INFO - 获取当前页面的url https://customer-uat.transtalent.cn/#/channel 
+2021-04-03 12:15:14,576 - tools.report.log_tool - INFO - 定位元素 //i[@class='icon iconfont icon-qudao']/.. 
+2021-04-03 12:15:14,606 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="7beb67f62ecba92038c92df683e2ee4c", element="6e07bdea-d294-487f-bdf1-1d1d0dec0314")> 
+2021-04-03 12:15:16,186 - tools.report.log_tool - INFO - 获取当前页面的url https://customer-uat.transtalent.cn/#/channel 
+2021-04-03 12:15:17,217 - tools.report.log_tool - INFO - 定位元素 //button[@class='el-button el-button--primary'] 
+2021-04-03 12:15:17,266 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="7beb67f62ecba92038c92df683e2ee4c", element="1da68670-24ce-4a6d-b3cc-0f1eaac9159c")> 
+2021-04-03 12:15:17,878 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入渠道名称'] 
+2021-04-03 12:15:17,957 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="7beb67f62ecba92038c92df683e2ee4c", element="e0845531-c025-458e-8d7f-f624ec99054c")> 中输入： 自动化测试渠道 
+2021-04-03 12:15:18,312 - tools.report.log_tool - INFO - 定位元素 //li[text()='自动化'] 
+2021-04-03 12:15:18,332 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="7beb67f62ecba92038c92df683e2ee4c", element="a8de4757-1e58-484c-8d17-47de25962ae0")> 
+2021-04-03 12:15:18,912 - tools.report.log_tool - INFO - 定位元素 //button[@class='el-button el-button--primary'] 
+2021-04-03 12:15:18,946 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="7beb67f62ecba92038c92df683e2ee4c", element="773ef139-e4c0-4a64-b7d5-8b98d6267081")> 
+2021-04-03 12:15:19,526 - tools.report.log_tool - INFO - 定位元素 (//tr[@class='el-table__row'])[1] 
+2021-04-03 12:15:19,880 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="7beb67f62ecba92038c92df683e2ee4c", element="788b2cf9-c444-407d-8ddd-dab938b90895")>  的展示文本为:  234
+自动化测试渠道
+自动化
+2021-04-03
+12:15:19 
+2021-04-03 12:15:19,881 - tools.report.log_tool - INFO - 定位元素 //*[@id='out-table']/div[4]/div[2]/table/tbody/tr[1]/td[5]/div/button[1] 
+2021-04-03 12:15:19,905 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="7beb67f62ecba92038c92df683e2ee4c", element="36abb44f-e6ae-4aa2-bb3f-fb03b7155c28")> 
+2021-04-03 12:15:20,500 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入渠道名称'] 
+2021-04-03 12:15:20,577 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="7beb67f62ecba92038c92df683e2ee4c", element="6b3db57e-f961-4ead-ad02-8e702cabf035")> 中输入： AUTO自动化测试渠道_UPDATE 
+2021-04-03 12:15:21,009 - tools.report.log_tool - INFO - 定位元素 (//div[@class='close el-icon-close'])[1] 
+2021-04-03 12:15:21,029 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="7beb67f62ecba92038c92df683e2ee4c", element="0483561b-04d3-4129-bfcb-afa2d2619c65")> 
+2021-04-03 12:15:21,578 - tools.report.log_tool - INFO - 定位元素 //button[@class='el-button el-button--primary'] 
+2021-04-03 12:15:21,596 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="7beb67f62ecba92038c92df683e2ee4c", element="8048ef63-4e89-4675-ac5e-f4fdc4f82b73")> 
+2021-04-03 12:15:22,176 - tools.report.log_tool - INFO - 定位元素 (//tr[@class='el-table__row'])[1] 
+2021-04-03 12:15:22,553 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="7beb67f62ecba92038c92df683e2ee4c", element="56b5dfac-374f-4d08-ae4e-53afa47c62e1")>  的展示文本为:  234
+AUTO自动化测试渠道_UPDATE
+2021-04-03
+12:15:19 
+2021-04-03 12:15:22,554 - tools.report.log_tool - INFO - 定位元素 //*[@id='out-table']/div[4]/div[2]/table/tbody/tr[1]/td[5]/div/button[2] 
+2021-04-03 12:15:22,577 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="7beb67f62ecba92038c92df683e2ee4c", element="4b18b240-b5a4-432b-aaf2-9aa81d04bb8c")> 
+2021-04-03 12:15:23,192 - tools.report.log_tool - INFO - 定位元素 //button[@class='el-button el-button--default el-button--small el-button--primary '] 
+2021-04-03 12:15:23,250 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="7beb67f62ecba92038c92df683e2ee4c", element="fd6b3ec2-7230-41aa-a57c-2f42ef7c53e5")> 
+2021-04-03 12:15:24,906 - tools.report.log_tool - INFO - 获取当前页面的url https://customer-uat.transtalent.cn/#/channel 
+2021-04-03 12:15:25,926 - tools.report.log_tool - INFO - 本条测试用例结束时间：2021-04-03 12:15:25
+2021-04-03 12:24:35,847 - tools.report.log_tool - INFO - 定位元素 //i[@class='icon iconfont icon-qudao']/.. 
+2021-04-03 12:25:43,497 - tools.report.log_tool - INFO - 定位元素 //i[@class='icon iconfont icon-qudao']/.. 
+2021-04-03 12:28:37,928 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2021-04-03 12:29:36,318 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2021-04-03 12:31:24,690 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2021-04-03 12:31:35,619 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2021-04-03 12:31:35,619 - tools.report.log_tool - INFO - 定位元素 //i[@class='icon iconfont icon-qudao']/.. 
+2021-04-03 12:31:35,649 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="2109cc500fb1cbb2c1965a57ec2123fb", element="6e07bdea-d294-487f-bdf1-1d1d0dec0314")> 
+2021-04-03 12:31:37,341 - tools.report.log_tool - INFO - 获取当前页面的url https://customer-uat.transtalent.cn/#/channel 
+2021-04-03 12:31:38,359 - tools.report.log_tool - INFO - 定位元素 //button[@class='el-button el-button--primary'] 
+2021-04-03 12:31:38,428 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="2109cc500fb1cbb2c1965a57ec2123fb", element="4f983270-4541-4d89-a605-99579bcf80f1")> 
+2021-04-03 12:31:39,048 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入渠道名称'] 
+2021-04-03 12:31:39,136 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="2109cc500fb1cbb2c1965a57ec2123fb", element="24490818-f7f4-4e3d-81de-8006836da042")> 中输入： 自动化测试渠道 
+2021-04-03 12:31:39,505 - tools.report.log_tool - INFO - 定位元素 //li[text()='自动化'] 
+2021-04-03 12:31:39,526 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="2109cc500fb1cbb2c1965a57ec2123fb", element="04321d6e-db24-4736-bfec-bfb5982f695a")> 
+2021-04-03 12:31:40,077 - tools.report.log_tool - INFO - 定位元素 //button[@class='el-button el-button--primary'] 
+2021-04-03 12:31:40,117 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="2109cc500fb1cbb2c1965a57ec2123fb", element="37fe4791-cff3-43f7-a260-663fb31892bb")> 
+2021-04-03 12:31:40,708 - tools.report.log_tool - INFO - 定位元素 (//tr[@class='el-table__row'])[1] 
+2021-04-03 12:31:41,080 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="2109cc500fb1cbb2c1965a57ec2123fb", element="eee2d71d-1efe-4143-81b5-dadf930804d2")>  的展示文本为:  235
+自动化测试渠道
+自动化
+2021-04-03
+12:31:40 
+2021-04-03 12:31:41,080 - tools.report.log_tool - INFO - 定位元素 //*[@id='out-table']/div[4]/div[2]/table/tbody/tr[1]/td[5]/div/button[1] 
+2021-04-03 12:31:41,105 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="2109cc500fb1cbb2c1965a57ec2123fb", element="c9aaf26c-6576-4a60-aaa1-dc2b1844b5fc")> 
+2021-04-03 12:31:41,701 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入渠道名称'] 
+2021-04-03 12:31:41,782 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="2109cc500fb1cbb2c1965a57ec2123fb", element="0b1e588c-b1a7-4554-a6a0-b8aa2c104b95")> 中输入： AUTO自动化测试渠道_UPDATE 
+2021-04-03 12:31:42,238 - tools.report.log_tool - INFO - 定位元素 (//div[@class='close el-icon-close'])[1] 
+2021-04-03 12:31:42,257 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="2109cc500fb1cbb2c1965a57ec2123fb", element="b51e0933-72aa-4433-91c8-cc829f9287f6")> 
+2021-04-03 12:31:42,806 - tools.report.log_tool - INFO - 定位元素 //button[@class='el-button el-button--primary'] 
+2021-04-03 12:31:42,822 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="2109cc500fb1cbb2c1965a57ec2123fb", element="5a02a1b3-c1c0-4b58-97a6-3da04b9a4933")> 
+2021-04-03 12:31:43,375 - tools.report.log_tool - INFO - 定位元素 (//tr[@class='el-table__row'])[1] 
+2021-04-03 12:31:43,749 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="2109cc500fb1cbb2c1965a57ec2123fb", element="26ceb06f-5b92-49e5-9ef5-5c856d6ec828")>  的展示文本为:  235
+AUTO自动化测试渠道_UPDATE
+2021-04-03
+12:31:40 
+2021-04-03 12:31:43,750 - tools.report.log_tool - INFO - 定位元素 //*[@id='out-table']/div[4]/div[2]/table/tbody/tr[1]/td[5]/div/button[2] 
+2021-04-03 12:31:43,774 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="2109cc500fb1cbb2c1965a57ec2123fb", element="d769aa61-677f-4ccb-951d-2be8c497343e")> 
+2021-04-03 12:31:44,351 - tools.report.log_tool - INFO - 定位元素 //button[@class='el-button el-button--default el-button--small el-button--primary '] 
+2021-04-03 12:31:44,408 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="2109cc500fb1cbb2c1965a57ec2123fb", element="fd6b3ec2-7230-41aa-a57c-2f42ef7c53e5")> 
+2021-04-03 12:31:46,049 - tools.report.log_tool - INFO - 获取当前页面的url https://customer-uat.transtalent.cn/#/channel 
+2021-04-03 12:31:47,059 - tools.report.log_tool - INFO - 本条测试用例结束时间：2021-04-03 12:31:47
+2021-04-03 14:09:22,153 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2021-04-03 14:09:40,423 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2021-04-03 14:09:59,845 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2021-04-03 14:09:59,845 - tools.report.log_tool - INFO - 定位元素 //i[@class='icon iconfont icon-kehu']/.. 
+2021-04-03 14:09:59,873 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="ca3905d014457b1d32839b3e078edf17", element="1d7a0345-fd15-4867-97ce-23142936d4e4")> 
+2021-04-03 14:10:01,497 - tools.report.log_tool - INFO - 定位元素 //div[@class='title'] 
+2021-04-03 14:10:01,615 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="ca3905d014457b1d32839b3e078edf17", element="c71360a3-db3e-4c22-a3dd-e2946bda4ddf")>  的展示文本为:  客户管理 
+2021-04-03 14:10:01,622 - tools.report.log_tool - INFO - 获取当前页面的url https://customer-uat.transtalent.cn/#/customer 
+2021-04-03 14:10:01,633 - tools.report.log_tool - INFO - 本条测试用例结束时间：2021-04-03 14:10:01
+2021-04-03 14:20:31,249 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2021-04-03 14:20:31,254 - tools.report.log_tool - INFO - 定位元素 //i[@class='icon iconfont icon-qudao']/.. 
+2021-04-03 14:20:31,287 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="1f57a32356c2a00b3161ed3ee6b1e2fe", element="6e07bdea-d294-487f-bdf1-1d1d0dec0314")> 
+2021-04-03 14:20:32,964 - tools.report.log_tool - INFO - 获取当前页面的url https://customer-uat.transtalent.cn/#/channel 
+2021-04-03 14:20:33,975 - tools.report.log_tool - INFO - 定位元素 //button[@class='el-button el-button--primary'] 
+2021-04-03 14:20:34,044 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="1f57a32356c2a00b3161ed3ee6b1e2fe", element="c0295d1a-5122-4ea3-8bcd-cbc628981449")> 
+2021-04-03 14:20:34,702 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入渠道名称'] 
+2021-04-03 14:20:34,788 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="1f57a32356c2a00b3161ed3ee6b1e2fe", element="ca1cea7c-a786-40e2-93fc-f53f17475ef0")> 中输入： 自动化测试渠道 
+2021-04-03 14:20:35,198 - tools.report.log_tool - INFO - 定位元素 //li[text()='自动化'] 
+2021-04-03 14:20:35,219 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="1f57a32356c2a00b3161ed3ee6b1e2fe", element="cda4e13e-cdbd-4c1f-a19c-573ad5478306")> 
+2021-04-03 14:20:35,793 - tools.report.log_tool - INFO - 定位元素 //button[@class='el-button el-button--primary'] 
+2021-04-03 14:20:35,828 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="1f57a32356c2a00b3161ed3ee6b1e2fe", element="218d13a8-b065-4474-8c75-8250d7cecf5c")> 
+2021-04-03 14:20:36,418 - tools.report.log_tool - INFO - 定位元素 (//tr[@class='el-table__row'])[1] 
+2021-04-03 14:20:36,805 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="1f57a32356c2a00b3161ed3ee6b1e2fe", element="a8994f86-0345-4400-a766-b3a7d615fa31")>  的展示文本为:  236
+自动化测试渠道
+自动化
+2021-04-03
+14:20:36 
+2021-04-03 14:20:36,806 - tools.report.log_tool - INFO - 定位元素 //*[@id='out-table']/div[4]/div[2]/table/tbody/tr[1]/td[5]/div/button[1] 
+2021-04-03 14:20:36,829 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="1f57a32356c2a00b3161ed3ee6b1e2fe", element="2b07ebbc-3c68-4302-9176-ec9ef1ae7f3c")> 
+2021-04-03 14:20:37,425 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入渠道名称'] 
+2021-04-03 14:20:37,523 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="1f57a32356c2a00b3161ed3ee6b1e2fe", element="9e8c064e-de09-4fd1-a059-917e3836bf4e")> 中输入： AUTO自动化测试渠道_UPDATE 
+2021-04-03 14:20:38,020 - tools.report.log_tool - INFO - 定位元素 (//div[@class='close el-icon-close'])[1] 
+2021-04-03 14:20:38,044 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="1f57a32356c2a00b3161ed3ee6b1e2fe", element="22ee16f4-c97f-4177-aa12-922263a0e276")> 
+2021-04-03 14:20:38,600 - tools.report.log_tool - INFO - 定位元素 //button[@class='el-button el-button--primary'] 
+2021-04-03 14:20:38,620 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="1f57a32356c2a00b3161ed3ee6b1e2fe", element="5a63da8c-f4e7-4c34-95a1-0152e58c375f")> 
+2021-04-03 14:20:39,151 - tools.report.log_tool - INFO - 定位元素 (//tr[@class='el-table__row'])[1] 
+2021-04-03 14:20:39,535 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="1f57a32356c2a00b3161ed3ee6b1e2fe", element="4e241afc-99a5-4c23-8d31-904258ba21a9")>  的展示文本为:  236
+AUTO自动化测试渠道_UPDATE
+2021-04-03
+14:20:36 
+2021-04-03 14:20:39,535 - tools.report.log_tool - INFO - 定位元素 //*[@id='out-table']/div[4]/div[2]/table/tbody/tr[1]/td[5]/div/button[2] 
+2021-04-03 14:20:39,561 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="1f57a32356c2a00b3161ed3ee6b1e2fe", element="3bb4d751-66cf-4a86-b661-8895d31f5304")> 
+2021-04-03 14:20:40,146 - tools.report.log_tool - INFO - 定位元素 //button[@class='el-button el-button--default el-button--small el-button--primary '] 
+2021-04-03 14:20:40,234 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="1f57a32356c2a00b3161ed3ee6b1e2fe", element="fd6b3ec2-7230-41aa-a57c-2f42ef7c53e5")> 
+2021-04-03 14:20:41,924 - tools.report.log_tool - INFO - 获取当前页面的url https://customer-uat.transtalent.cn/#/channel 
+2021-04-03 14:20:42,945 - tools.report.log_tool - INFO - 本条测试用例结束时间：2021-04-03 14:20:42
+2021-04-03 14:43:24,482 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2021-04-03 14:43:24,484 - tools.report.log_tool - INFO - 定位元素 //i[@class='icon iconfont icon-kehu']/.. 
+2021-04-03 14:43:24,516 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="b7515dc1c63a7bfacb5f98d9411df389", element="1d7a0345-fd15-4867-97ce-23142936d4e4")> 
+2021-04-03 14:43:26,159 - tools.report.log_tool - INFO - 定位元素 //div[@class='title'] 
+2021-04-03 14:43:26,228 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="b7515dc1c63a7bfacb5f98d9411df389", element="47139f59-a2ed-480f-9047-f40ac1100fc1")>  的展示文本为:  客户管理 
+2021-04-03 14:43:26,239 - tools.report.log_tool - INFO - 获取当前页面的url https://customer-uat.transtalent.cn/#/customer 
+2021-04-03 14:43:26,244 - tools.report.log_tool - INFO - 本条测试用例结束时间：2021-04-03 14:43:26
+2021-04-03 14:43:26,244 - tools.report.log_tool - INFO - 定位元素 //button[@class='el-button el-button--primary'] 
+2021-04-03 14:43:26,276 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="b7515dc1c63a7bfacb5f98d9411df389", element="5aa4844b-8b9f-4334-aeca-d91d817b7ca5")> 
+2021-04-03 14:43:26,975 - tools.report.log_tool - INFO - 定位元素 //div[@class='title'] 
+2021-04-03 14:43:27,191 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="b7515dc1c63a7bfacb5f98d9411df389", element="268a8af4-8f25-4359-8d0e-32d46fd0c976")>  的展示文本为:  新增客户 
+2021-04-03 14:43:27,196 - tools.report.log_tool - INFO - 获取当前页面的url https://customer-uat.transtalent.cn/#/NewCustomer 
+2021-04-03 14:45:33,658 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2021-04-03 14:45:33,659 - tools.report.log_tool - INFO - 定位元素 //i[@class='icon iconfont icon-kehu']/.. 
+2021-04-03 14:45:33,689 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="5cb05de1b3847292632e11984ee350a4", element="1d7a0345-fd15-4867-97ce-23142936d4e4")> 
+2021-04-03 14:45:35,262 - tools.report.log_tool - INFO - 定位元素 //div[@class='title'] 
+2021-04-03 14:45:35,321 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="5cb05de1b3847292632e11984ee350a4", element="70234ba7-ab91-46f3-bb9d-114775539f68")>  的展示文本为:  客户管理 
+2021-04-03 14:45:35,327 - tools.report.log_tool - INFO - 获取当前页面的url https://customer-uat.transtalent.cn/#/customer 
+2021-04-03 14:46:13,977 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2021-04-03 14:46:13,979 - tools.report.log_tool - INFO - 定位元素 //i[@class='icon iconfont icon-kehu']/.. 
+2021-04-03 14:46:14,010 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="841119e81a4f15ba98ff64d85441b9f5", element="1d7a0345-fd15-4867-97ce-23142936d4e4")> 
+2021-04-03 14:46:15,601 - tools.report.log_tool - INFO - 定位元素 //div[@class='title'] 
+2021-04-03 14:46:15,645 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="841119e81a4f15ba98ff64d85441b9f5", element="70234ba7-ab91-46f3-bb9d-114775539f68")>  的展示文本为:  客户管理 
+2021-04-03 14:46:15,649 - tools.report.log_tool - INFO - 获取当前页面的url https://customer-uat.transtalent.cn/#/customer 
+2021-04-03 14:46:15,654 - tools.report.log_tool - INFO - 本条测试用例结束时间：2021-04-03 14:46:15
+2021-04-03 14:46:15,654 - tools.report.log_tool - INFO - 定位元素 //button[@class='el-button el-button--primary'] 
+2021-04-03 14:46:15,681 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="841119e81a4f15ba98ff64d85441b9f5", element="76fddbbc-b7c7-45b1-b825-ef0a393f5417")> 
+2021-04-03 14:46:16,351 - tools.report.log_tool - INFO - 定位元素 //div[@class='title'] 
+2021-04-03 14:46:16,543 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="841119e81a4f15ba98ff64d85441b9f5", element="1680d23f-0d8f-4d7d-b2dc-7ae737d0cf43")>  的展示文本为:  新增客户 
+2021-04-03 14:46:16,549 - tools.report.log_tool - INFO - 获取当前页面的url https://customer-uat.transtalent.cn/#/NewCustomer 
+2021-04-03 14:46:16,554 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入公司名称'] 
+2021-04-03 14:46:16,584 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="841119e81a4f15ba98ff64d85441b9f5", element="85e89c66-8bb0-4825-a942-f68b1120b7d9")> 中输入： AUTO_01自动化测试公司 
+2021-04-03 14:46:17,077 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入公司别名'] 
+2021-04-03 14:46:17,102 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="841119e81a4f15ba98ff64d85441b9f5", element="3b59e153-28fc-4d97-bc09-a3bccbf94000")> 中输入： 01自动化测试公司 
+2021-04-03 14:46:17,505 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入公司缩写'] 
+2021-04-03 14:46:17,534 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="841119e81a4f15ba98ff64d85441b9f5", element="afa306c5-eadd-4e86-86ec-ea71d837aa48")> 中输入： AUTO_01 
+2021-04-03 14:46:17,898 - tools.report.log_tool - INFO - 定位元素 //input[@placeholder='请选择'] 
+2021-04-03 14:46:17,927 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="841119e81a4f15ba98ff64d85441b9f5", element="b9771dba-029f-414a-b24c-ee587b4e942a")> 
+2021-04-03 14:46:18,460 - tools.report.log_tool - INFO - 定位元素 (//li[@class='el-select-dropdown__item'])[2] 
+2021-04-03 14:46:19,016 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="841119e81a4f15ba98ff64d85441b9f5", element="155e38bc-2479-4f6b-8d40-b3ac3ab0541d")> 
+2021-04-03 14:46:19,543 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入备注信息'] 
+2021-04-03 14:46:19,573 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="841119e81a4f15ba98ff64d85441b9f5", element="a59bf2d2-8a92-4c13-9e4f-24eeecef438e")> 中输入： AUTO_01自动化测试公司，请勿修改操作，谢谢。 
+2021-04-03 14:46:20,166 - tools.report.log_tool - INFO - 定位元素 (//button[@class='el-button el-button--default'])[1] 
+2021-04-03 14:46:20,192 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="841119e81a4f15ba98ff64d85441b9f5", element="02cdc492-8764-4ff9-b583-3c0216a44af8")> 
+2021-04-03 14:46:20,733 - tools.report.log_tool - INFO - 定位元素 (//tr[@class='el-table__row'])[1] 
+2021-04-03 14:46:21,577 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="841119e81a4f15ba98ff64d85441b9f5", element="5f32796f-d6c1-4249-9cff-2126fc3c8ddc")>  的展示文本为:  2862
+天津科文电子商务有限公司
+电子商务
+TJ
+有限责任公司(法人独资)
+批发和零售业
+客户
+项目学习
+有效
+天津科文电子商务有限公司
+2021-03-30
+16:11:16 
+2021-04-03 14:47:33,020 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2021-04-03 14:47:33,031 - tools.report.log_tool - INFO - 定位元素 //i[@class='icon iconfont icon-kehu']/.. 
+2021-04-03 14:47:33,060 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="83be70533a1160997b44401838d962d4", element="1d7a0345-fd15-4867-97ce-23142936d4e4")> 
+2021-04-03 14:47:34,612 - tools.report.log_tool - INFO - 定位元素 //div[@class='title'] 
+2021-04-03 14:47:34,729 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="83be70533a1160997b44401838d962d4", element="ca1a2f44-4051-46cd-b990-e3115c1c927d")>  的展示文本为:  客户管理 
+2021-04-03 14:47:34,735 - tools.report.log_tool - INFO - 获取当前页面的url https://customer-uat.transtalent.cn/#/customer 
+2021-04-03 14:47:34,741 - tools.report.log_tool - INFO - 本条测试用例结束时间：2021-04-03 14:47:34
+2021-04-03 14:47:34,742 - tools.report.log_tool - INFO - 定位元素 //button[@class='el-button el-button--primary'] 
+2021-04-03 14:47:34,771 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="83be70533a1160997b44401838d962d4", element="bf53701b-db33-4190-aa28-e68606fb78af")> 
+2021-04-03 14:47:35,463 - tools.report.log_tool - INFO - 定位元素 //div[@class='title'] 
+2021-04-03 14:47:35,676 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="83be70533a1160997b44401838d962d4", element="45ba3960-d29c-4167-a845-e72175e5107d")>  的展示文本为:  新增客户 
+2021-04-03 14:47:35,683 - tools.report.log_tool - INFO - 获取当前页面的url https://customer-uat.transtalent.cn/#/NewCustomer 
+2021-04-03 14:47:35,688 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入公司名称'] 
+2021-04-03 14:47:35,726 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="83be70533a1160997b44401838d962d4", element="9926f1ae-028d-4e9f-900b-5c65e4b3791f")> 中输入： AUTO_01自动化测试公司 
+2021-04-03 14:47:36,214 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入公司别名'] 
+2021-04-03 14:47:36,243 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="83be70533a1160997b44401838d962d4", element="cc511f42-f714-4261-aeca-4ea6aa341700")> 中输入： 01自动化测试公司 
+2021-04-03 14:47:36,662 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入公司缩写'] 
+2021-04-03 14:47:36,696 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="83be70533a1160997b44401838d962d4", element="88757432-ac58-4280-8ced-2d618ab3d99c")> 中输入： AUTO_01 
+2021-04-03 14:47:37,066 - tools.report.log_tool - INFO - 定位元素 //input[@placeholder='请选择'] 
+2021-04-03 14:47:37,098 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="83be70533a1160997b44401838d962d4", element="d888afe1-865d-4d9b-a50f-af7308fd0a12")> 
+2021-04-03 14:47:37,650 - tools.report.log_tool - INFO - 定位元素 (//li[@class='el-select-dropdown__item'])[2] 
+2021-04-03 14:47:38,244 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="83be70533a1160997b44401838d962d4", element="9e82de8d-64bb-4780-b444-16496bcadbde")> 
+2021-04-03 14:47:38,782 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入备注信息'] 
+2021-04-03 14:47:38,814 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="83be70533a1160997b44401838d962d4", element="7b6efe69-1bb8-4c98-ac9a-ec52375118d9")> 中输入： AUTO_01自动化测试公司，请勿修改操作，谢谢。 
+2021-04-03 14:47:39,413 - tools.report.log_tool - INFO - 定位元素 (//button[@class='el-button el-button--default'])[1] 
+2021-04-03 14:47:39,443 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="83be70533a1160997b44401838d962d4", element="eaf21d68-4c96-402e-8f64-73cd2ef98c5f")> 
+2021-04-03 14:47:39,985 - tools.report.log_tool - INFO - 定位元素 (//tr[@class='el-table__row'])[1] 
+2021-04-03 14:47:40,842 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="83be70533a1160997b44401838d962d4", element="fa7d8258-5a04-473d-8bae-442e2d06c714")>  的展示文本为:  2862
+天津科文电子商务有限公司
+电子商务
+TJ
+有限责任公司(法人独资)
+批发和零售业
+客户
+项目学习
+有效
+天津科文电子商务有限公司
+2021-03-30
+16:11:16 
+2021-04-03 14:49:25,220 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2021-04-03 14:49:25,220 - tools.report.log_tool - INFO - 定位元素 //i[@class='icon iconfont icon-kehu']/.. 
+2021-04-03 14:49:25,241 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="838a72e928a4ef5eabc36dd240a6d7ef", element="643134f5-84e2-42de-845a-90b71ecb0fb1")> 
+2021-04-03 14:49:26,816 - tools.report.log_tool - INFO - 定位元素 //div[@class='title'] 
+2021-04-03 14:49:26,873 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="838a72e928a4ef5eabc36dd240a6d7ef", element="a9142596-398d-44bf-8631-7f042f270d58")>  的展示文本为:  客户管理 
+2021-04-03 14:49:26,884 - tools.report.log_tool - INFO - 获取当前页面的url https://customer-uat.transtalent.cn/#/customer 
+2021-04-03 14:49:26,889 - tools.report.log_tool - INFO - 本条测试用例结束时间：2021-04-03 14:49:26
+2021-04-03 14:49:26,889 - tools.report.log_tool - INFO - 定位元素 //button[@class='el-button el-button--primary'] 
+2021-04-03 14:49:26,922 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="838a72e928a4ef5eabc36dd240a6d7ef", element="1c43e673-8606-493a-b7ff-52454e303948")> 
+2021-04-03 14:49:27,602 - tools.report.log_tool - INFO - 定位元素 //div[@class='title'] 
+2021-04-03 14:49:27,768 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="838a72e928a4ef5eabc36dd240a6d7ef", element="4bbd3ff0-1d11-48dc-9f61-c484c2da0711")>  的展示文本为:  新增客户 
+2021-04-03 14:49:27,771 - tools.report.log_tool - INFO - 获取当前页面的url https://customer-uat.transtalent.cn/#/NewCustomer 
+2021-04-03 14:49:27,782 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入公司名称'] 
+2021-04-03 14:49:27,814 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="838a72e928a4ef5eabc36dd240a6d7ef", element="4603e8bb-3b3b-4239-a6fa-ee25d61447a7")> 中输入： AUTO_01自动化测试公司 
+2021-04-03 14:49:28,239 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入公司别名'] 
+2021-04-03 14:49:28,268 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="838a72e928a4ef5eabc36dd240a6d7ef", element="3201beb4-d77d-47bf-adc4-97358476f990")> 中输入： 01自动化测试公司 
+2021-04-03 14:49:28,646 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入公司缩写'] 
+2021-04-03 14:49:28,675 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="838a72e928a4ef5eabc36dd240a6d7ef", element="66a2550c-628e-469e-a98e-e05e2811049c")> 中输入： AUTO_01 
+2021-04-03 14:49:29,038 - tools.report.log_tool - INFO - 定位元素 //input[@placeholder='请选择'] 
+2021-04-03 14:49:29,070 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="838a72e928a4ef5eabc36dd240a6d7ef", element="5b24b150-7888-4a93-ab83-02cf4ca2ea4a")> 
+2021-04-03 14:49:29,604 - tools.report.log_tool - INFO - 定位元素 (//li[@class='el-select-dropdown__item'])[1] 
+2021-04-03 14:49:30,165 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="838a72e928a4ef5eabc36dd240a6d7ef", element="0453cbd7-bf10-4c51-bfd8-9d5b5fc8ae12")> 
+2021-04-03 14:49:30,705 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入备注信息'] 
+2021-04-03 14:49:30,768 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="838a72e928a4ef5eabc36dd240a6d7ef", element="7d7970de-d7d4-456e-83f1-a025990153b4")> 中输入： AUTO_01自动化测试公司，请勿修改操作，谢谢。 
+2021-04-03 14:49:31,309 - tools.report.log_tool - INFO - 定位元素 (//button[@class='el-button el-button--default'])[1] 
+2021-04-03 14:49:31,338 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="838a72e928a4ef5eabc36dd240a6d7ef", element="c65b2bdb-0e06-45ea-a281-3f6ff008a995")> 
+2021-04-03 14:49:31,881 - tools.report.log_tool - INFO - 定位元素 (//tr[@class='el-table__row'])[1] 
+2021-04-03 14:49:32,671 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="838a72e928a4ef5eabc36dd240a6d7ef", element="1308c07e-cee4-4792-a381-8e708d7d0a4e")>  的展示文本为:  2862
+天津科文电子商务有限公司
+电子商务
+TJ
+有限责任公司(法人独资)
+批发和零售业
+客户
+项目学习
+有效
+天津科文电子商务有限公司
+2021-03-30
+16:11:16 
+2021-04-03 14:51:20,798 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2021-04-03 14:51:20,801 - tools.report.log_tool - INFO - 定位元素 //i[@class='icon iconfont icon-kehu']/.. 
+2021-04-03 14:51:20,828 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="d59ef20488787574beef07c1bfa36562", element="643134f5-84e2-42de-845a-90b71ecb0fb1")> 
+2021-04-03 14:51:22,442 - tools.report.log_tool - INFO - 定位元素 //div[@class='title'] 
+2021-04-03 14:51:22,551 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="d59ef20488787574beef07c1bfa36562", element="bdd3aaae-5af9-4f0c-b880-0522329f4bc8")>  的展示文本为:  客户管理 
+2021-04-03 14:51:22,561 - tools.report.log_tool - INFO - 获取当前页面的url https://customer-uat.transtalent.cn/#/customer 
+2021-04-03 14:51:22,571 - tools.report.log_tool - INFO - 本条测试用例结束时间：2021-04-03 14:51:22
+2021-04-03 14:51:22,571 - tools.report.log_tool - INFO - 定位元素 //button[@class='el-button el-button--primary'] 
+2021-04-03 14:51:22,591 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="d59ef20488787574beef07c1bfa36562", element="9b5bfcc8-82c8-4317-8f6c-53b897ba9884")> 
+2021-04-03 14:51:23,154 - tools.report.log_tool - INFO - 定位元素 //div[@class='title'] 
+2021-04-03 14:51:23,841 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="d59ef20488787574beef07c1bfa36562", element="13a30093-72c3-4488-a99e-0562e0162706")>  的展示文本为:  新增客户 
+2021-04-03 14:51:23,857 - tools.report.log_tool - INFO - 获取当前页面的url https://customer-uat.transtalent.cn/#/NewCustomer 
+2021-04-03 14:51:23,866 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入公司名称'] 
+2021-04-03 14:51:23,915 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="d59ef20488787574beef07c1bfa36562", element="d2249d31-d59a-42d7-b99f-dd46dc616d41")> 中输入： 自动化测试公司 
+2021-04-03 14:51:24,319 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入公司别名'] 
+2021-04-03 14:51:24,340 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="d59ef20488787574beef07c1bfa36562", element="b56da1b8-acef-4d60-8ab8-79414288f229")> 中输入： 自动化测试公司 
+2021-04-03 14:51:24,768 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入公司缩写'] 
+2021-04-03 14:51:24,795 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="d59ef20488787574beef07c1bfa36562", element="721a39b1-cb36-4037-936f-4c9137dda056")> 中输入： AUTO 
+2021-04-03 14:51:25,153 - tools.report.log_tool - INFO - 定位元素 //input[@placeholder='请选择'] 
+2021-04-03 14:51:25,176 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="d59ef20488787574beef07c1bfa36562", element="c4908c1e-c038-4a12-b4ea-972ccb82886e")> 
+2021-04-03 14:51:25,755 - tools.report.log_tool - INFO - 定位元素 (//li[@class='el-select-dropdown__item'])[1] 
+2021-04-03 14:51:25,790 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="d59ef20488787574beef07c1bfa36562", element="5b9cd9a4-790d-4676-a1d3-850f012775b7")> 
+2021-04-03 14:51:26,382 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入备注信息'] 
+2021-04-03 14:51:26,475 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="d59ef20488787574beef07c1bfa36562", element="7858ba18-c4d1-409a-89df-5e2e9bdcb794")> 中输入： AUTO_01自动化测试公司，请勿修改操作，谢谢。 
+2021-04-03 14:51:27,028 - tools.report.log_tool - INFO - 定位元素 (//button[@class='el-button el-button--default'])[1] 
+2021-04-03 14:51:27,047 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="d59ef20488787574beef07c1bfa36562", element="ffac9134-6b0c-496e-94d1-7606e048686a")> 
+2021-04-03 14:51:27,652 - tools.report.log_tool - INFO - 定位元素 (//tr[@class='el-table__row'])[1] 
+2021-04-03 14:51:28,411 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="d59ef20488787574beef07c1bfa36562", element="0f860df2-51eb-4e7d-943a-d3ef824e0e08")>  的展示文本为:  2862
+天津科文电子商务有限公司
+电子商务
+TJ
+有限责任公司(法人独资)
+批发和零售业
+客户
+项目学习
+有效
+天津科文电子商务有限公司
+2021-03-30
+16:11:16 
+2021-04-03 14:52:27,551 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2021-04-03 14:52:27,551 - tools.report.log_tool - INFO - 定位元素 //i[@class='icon iconfont icon-kehu']/.. 
+2021-04-03 14:52:27,581 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="c3504c35e2e8eb55f34a39aa07c665df", element="0ab62cd9-7aa5-4dd2-a1d9-960abf2e7543")> 
+2021-04-03 14:52:29,152 - tools.report.log_tool - INFO - 定位元素 //div[@class='title'] 
+2021-04-03 14:52:29,242 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="c3504c35e2e8eb55f34a39aa07c665df", element="567a8143-e7cf-4a08-96e2-81d1e5c9bba5")>  的展示文本为:  客户管理 
+2021-04-03 14:52:29,252 - tools.report.log_tool - INFO - 获取当前页面的url https://customer-uat.transtalent.cn/#/customer 
+2021-04-03 14:52:29,252 - tools.report.log_tool - INFO - 本条测试用例结束时间：2021-04-03 14:52:29
+2021-04-03 14:52:29,252 - tools.report.log_tool - INFO - 定位元素 //button[@class='el-button el-button--primary'] 
+2021-04-03 14:52:29,271 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="c3504c35e2e8eb55f34a39aa07c665df", element="ffa2229e-1e62-409f-a86f-c84238db3ab8")> 
+2021-04-03 14:52:29,965 - tools.report.log_tool - INFO - 定位元素 //div[@class='title'] 
+2021-04-03 14:52:30,098 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="c3504c35e2e8eb55f34a39aa07c665df", element="e5650c05-3258-4a87-974b-6c10c1e7f932")>  的展示文本为:  新增客户 
+2021-04-03 14:52:30,105 - tools.report.log_tool - INFO - 获取当前页面的url https://customer-uat.transtalent.cn/#/NewCustomer 
+2021-04-03 14:52:30,109 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入公司名称'] 
+2021-04-03 14:52:30,129 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="c3504c35e2e8eb55f34a39aa07c665df", element="bd2e64aa-2085-4c05-83dc-0c6d2196fe95")> 中输入： 自动化测试公司 
+2021-04-03 14:52:30,535 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入公司别名'] 
+2021-04-03 14:52:30,556 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="c3504c35e2e8eb55f34a39aa07c665df", element="afa724f0-7867-4a1b-880e-1667d8a664c5")> 中输入： 自动化测试公司 
+2021-04-03 14:52:30,919 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入公司缩写'] 
+2021-04-03 14:52:30,939 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="c3504c35e2e8eb55f34a39aa07c665df", element="79d04c9c-c3dc-4f6a-bd3e-461483df2d3f")> 中输入： AUTO 
+2021-04-03 14:52:31,270 - tools.report.log_tool - INFO - 定位元素 //input[@placeholder='请选择'] 
+2021-04-03 14:52:31,291 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="c3504c35e2e8eb55f34a39aa07c665df", element="3452e10d-f059-4b5f-a35f-d178357d514a")> 
+2021-04-03 14:52:31,840 - tools.report.log_tool - INFO - 定位元素 (//li[@class='el-select-dropdown__item'])[1] 
+2021-04-03 14:52:32,377 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="c3504c35e2e8eb55f34a39aa07c665df", element="d0d96484-f31a-4f3c-8c75-5e2f586c69ac")> 
+2021-04-03 14:52:32,942 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入备注信息'] 
+2021-04-03 14:52:32,969 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="c3504c35e2e8eb55f34a39aa07c665df", element="7bfbe95a-b5c5-4a67-a9e0-16fe0f61dba3")> 中输入： AUTO_01自动化测试公司，请勿修改操作，谢谢。 
+2021-04-03 14:52:33,496 - tools.report.log_tool - INFO - 定位元素 (//button[@class='el-button el-button--default'])[1] 
+2021-04-03 14:52:33,521 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="c3504c35e2e8eb55f34a39aa07c665df", element="b1c25de0-2c47-40dd-a5af-2c5bd119d4be")> 
+2021-04-03 14:52:34,126 - tools.report.log_tool - INFO - 定位元素 (//tr[@class='el-table__row'])[1] 
+2021-04-03 14:52:34,853 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="c3504c35e2e8eb55f34a39aa07c665df", element="96a8e8d0-cd69-4e15-964c-7850630e1fcc")>  的展示文本为:  2863
+暗暗
+问问
+公开课虚拟公司
+项目学习
+有效
+暗暗
+2021-04-03
+14:51:55 
+2021-04-03 14:56:04,089 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2021-04-03 14:56:04,091 - tools.report.log_tool - INFO - 定位元素 //i[@class='icon iconfont icon-kehu']/.. 
+2021-04-03 14:56:04,118 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="a0abca2ee747dad396c738aa4a37fc39", element="0ab62cd9-7aa5-4dd2-a1d9-960abf2e7543")> 
+2021-04-03 14:56:05,686 - tools.report.log_tool - INFO - 定位元素 //div[@class='title'] 
+2021-04-03 14:56:05,732 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="a0abca2ee747dad396c738aa4a37fc39", element="99c5142d-0d2f-40ad-9c83-dc08eac3da10")>  的展示文本为:  客户管理 
+2021-04-03 14:56:05,738 - tools.report.log_tool - INFO - 获取当前页面的url https://customer-uat.transtalent.cn/#/customer 
+2021-04-03 14:56:05,742 - tools.report.log_tool - INFO - 本条测试用例结束时间：2021-04-03 14:56:05
+2021-04-03 14:56:05,743 - tools.report.log_tool - INFO - 定位元素 //button[@class='el-button el-button--primary'] 
+2021-04-03 14:56:05,774 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="a0abca2ee747dad396c738aa4a37fc39", element="e53be8d7-69d7-48d7-9455-37ad1580e1fd")> 
+2021-04-03 14:56:06,367 - tools.report.log_tool - INFO - 定位元素 //div[@class='title'] 
+2021-04-03 14:56:06,499 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="a0abca2ee747dad396c738aa4a37fc39", element="58469032-7fa3-4980-a188-15316b48728f")>  的展示文本为:  新增客户 
+2021-04-03 14:56:06,505 - tools.report.log_tool - INFO - 获取当前页面的url https://customer-uat.transtalent.cn/#/NewCustomer 
+2021-04-03 14:56:06,509 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入公司名称'] 
+2021-04-03 14:56:06,539 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="a0abca2ee747dad396c738aa4a37fc39", element="d164dc22-2d6b-43d5-b89d-6483af71d865")> 中输入： 自动化测试公司 
+2021-04-03 14:56:06,898 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入公司别名'] 
+2021-04-03 14:56:06,926 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="a0abca2ee747dad396c738aa4a37fc39", element="dd2190b2-962b-4e48-a7e5-7283ebca0c81")> 中输入： 自动化测试公司 
+2021-04-03 14:56:07,293 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入公司缩写'] 
+2021-04-03 14:56:07,320 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="a0abca2ee747dad396c738aa4a37fc39", element="2f4786b8-c9a2-4b80-a70e-7be4dba23316")> 中输入： AUTO 
+2021-04-03 14:56:07,775 - tools.report.log_tool - INFO - 定位元素 //input[@placeholder='请选择'] 
+2021-04-03 14:56:07,804 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="a0abca2ee747dad396c738aa4a37fc39", element="252c449a-56a7-47d8-bdce-d4589b1f740b")> 
+2021-04-03 14:56:08,361 - tools.report.log_tool - INFO - 定位元素 (//li[@class='el-select-dropdown__item'])[1] 
+2021-04-03 14:56:08,418 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="a0abca2ee747dad396c738aa4a37fc39", element="a6d19155-a7b5-409c-ba96-204403fa19b3")> 
+2021-04-03 14:56:08,967 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入备注信息'] 
+2021-04-03 14:56:09,010 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="a0abca2ee747dad396c738aa4a37fc39", element="2102157e-ac57-4f28-8467-dbcf7eb6572f")> 中输入： AUTO_01自动化测试公司，请勿修改操作，谢谢。 
+2021-04-03 14:56:09,539 - tools.report.log_tool - INFO - 定位元素 //span[text()='保存'] 
+2021-04-03 14:56:09,567 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="a0abca2ee747dad396c738aa4a37fc39", element="df5a2641-c320-402e-9757-197341db6375")> 
+2021-04-03 14:56:10,100 - tools.report.log_tool - INFO - 定位元素 (//tr[@class='el-table__row'])[1] 
+2021-04-03 14:56:20,642 - tools.report.log_tool - ERROR - (//tr[@class='el-table__row'])[1]定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式
+2021-04-03 14:58:09,553 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2021-04-03 14:58:09,553 - tools.report.log_tool - INFO - 定位元素 //i[@class='icon iconfont icon-kehu']/.. 
+2021-04-03 14:58:09,582 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="af6a6d48cce0bcc6e86ffc37f589b350", element="0ab62cd9-7aa5-4dd2-a1d9-960abf2e7543")> 
+2021-04-03 14:58:11,203 - tools.report.log_tool - INFO - 定位元素 //div[@class='title'] 
+2021-04-03 14:58:11,254 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="af6a6d48cce0bcc6e86ffc37f589b350", element="d7dc73f5-b96f-4f93-aeb3-87dedc393af6")>  的展示文本为:  客户管理 
+2021-04-03 14:58:11,259 - tools.report.log_tool - INFO - 获取当前页面的url https://customer-uat.transtalent.cn/#/customer 
+2021-04-03 14:58:11,263 - tools.report.log_tool - INFO - 本条测试用例结束时间：2021-04-03 14:58:11
+2021-04-03 14:58:11,263 - tools.report.log_tool - INFO - 定位元素 //button[@class='el-button el-button--primary'] 
+2021-04-03 14:58:11,299 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="af6a6d48cce0bcc6e86ffc37f589b350", element="cb788c00-2a09-47f9-9ef8-6ac6796a2b84")> 
+2021-04-03 14:58:11,954 - tools.report.log_tool - INFO - 定位元素 //div[@class='title'] 
+2021-04-03 14:58:12,138 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="af6a6d48cce0bcc6e86ffc37f589b350", element="cb2759e6-9674-4976-977a-c0e636f6094d")>  的展示文本为:  新增客户 
+2021-04-03 14:58:12,146 - tools.report.log_tool - INFO - 获取当前页面的url https://customer-uat.transtalent.cn/#/NewCustomer 
+2021-04-03 14:58:12,155 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入公司名称'] 
+2021-04-03 14:58:12,190 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="af6a6d48cce0bcc6e86ffc37f589b350", element="0b35e34d-b7fd-4c95-986a-9db5d98f0208")> 中输入： 自动化测试公司 
+2021-04-03 14:58:12,589 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入公司别名'] 
+2021-04-03 14:58:12,624 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="af6a6d48cce0bcc6e86ffc37f589b350", element="62d775d0-fe17-4385-8809-b6f562d214b2")> 中输入： 自动化测试公司 
+2021-04-03 14:58:12,988 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入公司缩写'] 
+2021-04-03 14:58:13,020 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="af6a6d48cce0bcc6e86ffc37f589b350", element="17190610-4bd3-423a-8d04-5eff208d15d7")> 中输入： AUTO 
+2021-04-03 14:58:13,349 - tools.report.log_tool - INFO - 定位元素 //input[@placeholder='请选择'] 
+2021-04-03 14:58:13,380 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="af6a6d48cce0bcc6e86ffc37f589b350", element="c93ef5d0-670a-420d-b687-7b49aef8e424")> 
+2021-04-03 14:58:13,928 - tools.report.log_tool - INFO - 定位元素 (//li[@class='el-select-dropdown__item'])[1] 
+2021-04-03 14:58:13,988 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="af6a6d48cce0bcc6e86ffc37f589b350", element="6177215c-70ad-43b2-961c-2b5a4735136b")> 
+2021-04-03 14:58:14,527 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入备注信息'] 
+2021-04-03 14:58:14,566 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="af6a6d48cce0bcc6e86ffc37f589b350", element="a6d0828c-bbb1-4638-aaf8-83e948f27475")> 中输入： AUTO_01自动化测试公司，请勿修改操作，谢谢。 
+2021-04-03 14:58:15,071 - tools.report.log_tool - INFO - 定位元素 //span[text()='保存'] 
+2021-04-03 14:58:15,121 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="af6a6d48cce0bcc6e86ffc37f589b350", element="f407d448-16a0-42dd-bd5c-3ec8fea3847a")> 
+2021-04-03 14:58:16,660 - tools.report.log_tool - INFO - 定位元素 //div[@class="el-message el-message--error"] 
+2021-04-03 14:58:16,729 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="af6a6d48cce0bcc6e86ffc37f589b350", element="58810062-5930-4a77-83ca-08067dd8dd7c")>  的展示文本为:  对不起，您输入的客户已经存在，请不要重复新增客户。 
+2021-04-03 21:35:17,448 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2021-04-03 21:35:17,449 - tools.report.log_tool - INFO - 定位元素 //span[text()='保存'] 
+2021-04-03 21:35:17,478 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="ce6b75a7bc0094588e37fd47cd6f3e8d", element="f407d448-16a0-42dd-bd5c-3ec8fea3847a")> 
+2021-04-03 21:36:11,255 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2021-04-03 21:36:11,256 - tools.report.log_tool - INFO - 定位元素 //span[text()='保存'] 
+2021-04-03 21:36:11,288 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="8d94928199201c73c44ef5062e41d808", element="f407d448-16a0-42dd-bd5c-3ec8fea3847a")> 
+2021-04-03 21:36:35,987 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2021-04-03 21:36:35,989 - tools.report.log_tool - INFO - 定位元素 //span[text()='保存'] 
+2021-04-03 21:36:36,019 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="3458ce02d6359fc4f646f8a6f6239f1c", element="f407d448-16a0-42dd-bd5c-3ec8fea3847a")> 
+2021-04-03 21:37:13,892 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2021-04-03 21:37:13,893 - tools.report.log_tool - INFO - 定位元素 //span[text()='保存'] 
+2021-04-03 21:37:13,920 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="ec0572e6ede32c7ee7238bbf163ea082", element="f407d448-16a0-42dd-bd5c-3ec8fea3847a")> 
+2021-04-03 21:50:15,074 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2021-04-03 21:50:15,074 - tools.report.log_tool - INFO - 定位元素 //i[@class='icon iconfont icon-kehu']/.. 
+2021-04-03 21:50:15,104 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="ce68c48924c5eea4dfcc662f39b72a34", element="0ab62cd9-7aa5-4dd2-a1d9-960abf2e7543")> 
+2021-04-03 21:50:16,687 - tools.report.log_tool - INFO - 定位元素 //div[@class='title'] 
+2021-04-03 21:50:16,874 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="ce68c48924c5eea4dfcc662f39b72a34", element="a78e5353-0163-4c6a-b712-63c1fae7eee5")>  的展示文本为:  客户管理 
+2021-04-03 21:50:16,883 - tools.report.log_tool - INFO - 获取当前页面的url https://customer-uat.transtalent.cn/#/customer 
+2021-04-03 21:50:16,892 - tools.report.log_tool - INFO - 本条测试用例结束时间：2021-04-03 21:50:16
+2021-04-03 21:50:16,894 - tools.report.log_tool - INFO - 定位元素 //button[@class='el-button el-button--primary'] 
+2021-04-03 21:50:16,991 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="ce68c48924c5eea4dfcc662f39b72a34", element="73e7cdbb-2bdf-43bb-a810-5408b2f260e3")> 
+2021-04-03 21:50:17,711 - tools.report.log_tool - INFO - 定位元素 //div[@class='title'] 
+2021-04-03 21:50:17,939 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="ce68c48924c5eea4dfcc662f39b72a34", element="032372ae-dc82-40b7-ab45-5ac1918d6804")>  的展示文本为:  新增客户 
+2021-04-03 21:50:17,949 - tools.report.log_tool - INFO - 获取当前页面的url https://customer-uat.transtalent.cn/#/NewCustomer 
+2021-04-03 21:50:17,955 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入公司名称'] 
+2021-04-03 21:50:17,986 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="ce68c48924c5eea4dfcc662f39b72a34", element="40a3d238-1fc0-44e6-9721-772e4ec295ab")> 中输入： 自动化测试公司_001 
+2021-04-03 21:50:18,598 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入公司别名'] 
+2021-04-03 21:50:18,630 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="ce68c48924c5eea4dfcc662f39b72a34", element="94b2d529-4d90-4abb-92bd-7d3c7df75301")> 中输入： 自动化测试公司_001 
+2021-04-03 21:50:19,088 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入公司缩写'] 
+2021-04-03 21:50:19,141 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="ce68c48924c5eea4dfcc662f39b72a34", element="e33e8b06-48f2-4d04-abbd-7e956003ef95")> 中输入： auto_001 
+2021-04-03 21:50:19,565 - tools.report.log_tool - INFO - 定位元素 //input[@placeholder='请选择'] 
+2021-04-03 21:50:19,602 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="ce68c48924c5eea4dfcc662f39b72a34", element="09e2ac72-8256-4d51-9f91-b0771407e7dc")> 
+2021-04-03 21:50:20,154 - tools.report.log_tool - INFO - 定位元素 (//li[@class='el-select-dropdown__item'])[1] 
+2021-04-03 21:50:20,204 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="ce68c48924c5eea4dfcc662f39b72a34", element="9bea7817-3d52-4567-b5dc-fe1c8f1abd39")> 
+2021-04-03 21:50:20,744 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入备注信息'] 
+2021-04-03 21:50:20,779 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="ce68c48924c5eea4dfcc662f39b72a34", element="a1d51fac-702b-44f7-9d46-74e30331ca22")> 中输入： auto_001自动化测试公司，请勿修改操作，谢谢。 
+2021-04-03 21:50:21,369 - tools.report.log_tool - INFO - 定位元素 //span[text()='保存'] 
+2021-04-03 21:50:21,409 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="ce68c48924c5eea4dfcc662f39b72a34", element="311bfb89-0d3f-4fae-a478-d098a6667f98")> 
+2021-04-03 21:50:22,987 - tools.report.log_tool - INFO - 定位元素 (//tr[@class='el-table__row'])[1] 
+2021-04-03 21:50:23,062 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="ce68c48924c5eea4dfcc662f39b72a34", element="1b3481dd-abb4-4f10-8cb8-9e22689f356f")>  的展示文本为:  2865
+自动化测试公司_001
+自动化测试公司_00
+auto_001
+公开课虚拟公司
+项目学习
+有效
+auto_001自动化测试公司，请勿修改操作，谢谢。
+2021-04-03
+21:50:22 
+2021-04-03 21:56:54,235 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2021-04-03 21:56:54,235 - tools.report.log_tool - INFO - 定位元素 //i[@class='icon iconfont icon-kehu']/.. 
+2021-04-03 21:56:54,265 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="9482d93cf68d3e1be15e4773d0d1c64d", element="0ab62cd9-7aa5-4dd2-a1d9-960abf2e7543")> 
+2021-04-03 21:56:55,897 - tools.report.log_tool - INFO - 定位元素 //div[@class='title'] 
+2021-04-03 21:56:56,018 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="9482d93cf68d3e1be15e4773d0d1c64d", element="254578a4-5a4b-4f71-ac78-911bb036fe5e")>  的展示文本为:  客户管理 
+2021-04-03 21:56:56,031 - tools.report.log_tool - INFO - 获取当前页面的url https://customer-uat.transtalent.cn/#/customer 
+2021-04-03 21:56:56,042 - tools.report.log_tool - INFO - 本条测试用例结束时间：2021-04-03 21:56:56
+2021-04-03 21:56:56,042 - tools.report.log_tool - INFO - 定位元素 //button[@class='el-button el-button--primary'] 
+2021-04-03 21:56:56,125 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="9482d93cf68d3e1be15e4773d0d1c64d", element="676836e7-cb67-4e8e-ba28-f7c1c760d270")> 
+2021-04-03 21:56:56,860 - tools.report.log_tool - INFO - 定位元素 //div[@class='title'] 
+2021-04-03 21:56:57,073 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="9482d93cf68d3e1be15e4773d0d1c64d", element="34a7a5b0-3635-4895-baf9-183fc0a249d3")>  的展示文本为:  新增客户 
+2021-04-03 21:56:57,078 - tools.report.log_tool - INFO - 获取当前页面的url https://customer-uat.transtalent.cn/#/NewCustomer 
+2021-04-03 21:56:57,087 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入公司名称'] 
+2021-04-03 21:56:57,117 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="9482d93cf68d3e1be15e4773d0d1c64d", element="47f5a4e3-8b7a-4ae2-81f4-e5c130e4fb27")> 中输入： 自动化测试公司_003 
+2021-04-03 21:56:57,554 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入公司别名'] 
+2021-04-03 21:56:57,601 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="9482d93cf68d3e1be15e4773d0d1c64d", element="1dcb0d26-3c4e-44d0-af50-7fd5722492da")> 中输入： 自动化测试公司_003 
+2021-04-03 21:56:58,002 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入公司缩写'] 
+2021-04-03 21:56:58,032 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="9482d93cf68d3e1be15e4773d0d1c64d", element="51f7fd33-df13-4cbe-bfa2-c6d47c40f45e")> 中输入： auto_003 
+2021-04-03 21:56:58,399 - tools.report.log_tool - INFO - 定位元素 //input[@placeholder='请选择'] 
+2021-04-03 21:56:58,427 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="9482d93cf68d3e1be15e4773d0d1c64d", element="e230d487-7046-443b-b1b6-db7521b02644")> 
+2021-04-03 21:56:58,972 - tools.report.log_tool - INFO - 定位元素 (//li[@class='el-select-dropdown__item'])[1] 
+2021-04-03 21:56:59,007 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="9482d93cf68d3e1be15e4773d0d1c64d", element="1e599430-830a-4853-82e5-f19d94d8aef9")> 
+2021-04-03 21:56:59,578 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入备注信息'] 
+2021-04-03 21:56:59,653 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="9482d93cf68d3e1be15e4773d0d1c64d", element="f2f7a09e-2066-4d65-83c8-a91bdd751c38")> 中输入： auto_003自动化测试公司，请勿修改操作，谢谢。 
+2021-04-03 21:57:00,196 - tools.report.log_tool - INFO - 定位元素 //span[text()='保存'] 
+2021-04-03 21:57:00,223 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="9482d93cf68d3e1be15e4773d0d1c64d", element="3eaa1d98-ba9c-41c5-b00c-5db096ca922e")> 
+2021-04-03 21:57:01,767 - tools.report.log_tool - INFO - 定位元素 //div[@class="el-message el-message--success"] 
+2021-04-03 21:57:12,315 - tools.report.log_tool - ERROR - //div[@class="el-message el-message--success"]定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式
+2021-04-03 21:57:53,365 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2021-04-03 21:57:53,365 - tools.report.log_tool - INFO - 定位元素 //i[@class='icon iconfont icon-kehu']/.. 
+2021-04-03 21:57:53,395 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="95a4d5232e8211cf7f437b3f3421c289", element="0ab62cd9-7aa5-4dd2-a1d9-960abf2e7543")> 
+2021-04-03 21:57:54,983 - tools.report.log_tool - INFO - 定位元素 //div[@class='title'] 
+2021-04-03 21:57:55,042 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="95a4d5232e8211cf7f437b3f3421c289", element="1b79cf66-bea7-48cd-ab16-c6eaaea1a2c7")>  的展示文本为:  客户管理 
+2021-04-03 21:57:55,048 - tools.report.log_tool - INFO - 获取当前页面的url https://customer-uat.transtalent.cn/#/customer 
+2021-04-03 21:57:55,057 - tools.report.log_tool - INFO - 本条测试用例结束时间：2021-04-03 21:57:55
+2021-04-03 21:57:55,057 - tools.report.log_tool - INFO - 定位元素 //button[@class='el-button el-button--primary'] 
+2021-04-03 21:57:55,094 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="95a4d5232e8211cf7f437b3f3421c289", element="71a7af38-a4f5-4ddd-b6df-2fef8337f873")> 
+2021-04-03 21:57:55,788 - tools.report.log_tool - INFO - 定位元素 //div[@class='title'] 
+2021-04-03 21:57:55,993 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="95a4d5232e8211cf7f437b3f3421c289", element="c76ea632-ac64-48e6-9fae-715171f7e037")>  的展示文本为:  新增客户 
+2021-04-03 21:57:55,998 - tools.report.log_tool - INFO - 获取当前页面的url https://customer-uat.transtalent.cn/#/NewCustomer 
+2021-04-03 21:57:56,003 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入公司名称'] 
+2021-04-03 21:57:56,031 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="95a4d5232e8211cf7f437b3f3421c289", element="cee281ca-fd8d-4406-a300-3cb726a4a987")> 中输入： 自动化测试公司_003 
+2021-04-03 21:57:56,462 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入公司别名'] 
+2021-04-03 21:57:56,494 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="95a4d5232e8211cf7f437b3f3421c289", element="61e609fe-62b2-44ea-8c7c-c54382c2c644")> 中输入： 自动化测试公司_003 
+2021-04-03 21:57:56,912 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入公司缩写'] 
+2021-04-03 21:57:56,943 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="95a4d5232e8211cf7f437b3f3421c289", element="824c4293-821c-40d9-82ff-2874794ca813")> 中输入： auto_003 
+2021-04-03 21:57:57,329 - tools.report.log_tool - INFO - 定位元素 //input[@placeholder='请选择'] 
+2021-04-03 21:57:57,361 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="95a4d5232e8211cf7f437b3f3421c289", element="0a05b95f-5873-413c-b4e0-a81aaf364205")> 
+2021-04-03 21:57:57,900 - tools.report.log_tool - INFO - 定位元素 (//li[@class='el-select-dropdown__item'])[1] 
+2021-04-03 21:57:58,469 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="95a4d5232e8211cf7f437b3f3421c289", element="1f7454b3-ba28-45a8-83e4-d546ca239325")> 
+2021-04-03 21:57:59,045 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入备注信息'] 
+2021-04-03 21:57:59,077 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="95a4d5232e8211cf7f437b3f3421c289", element="5fe8b4a4-b3e2-40d6-b7e9-fc7fa23251aa")> 中输入： auto_003自动化测试公司，请勿修改操作，谢谢。 
+2021-04-03 21:57:59,622 - tools.report.log_tool - INFO - 定位元素 //span[text()='保存'] 
+2021-04-03 21:57:59,654 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="95a4d5232e8211cf7f437b3f3421c289", element="f2e449d2-a25b-4bfc-9036-acfc645ad679")> 
+2021-04-03 21:58:01,235 - tools.report.log_tool - INFO - 定位元素 //div[@class="el-message el-message--success"] 
+2021-04-03 21:58:11,755 - tools.report.log_tool - ERROR - //div[@class="el-message el-message--success"]定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式
+2021-04-03 21:58:30,365 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2021-04-03 21:58:30,365 - tools.report.log_tool - INFO - 定位元素 //i[@class='icon iconfont icon-kehu']/.. 
+2021-04-03 21:58:30,395 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="7cff8dedc7825b1a672d3ff625344ad8", element="0ab62cd9-7aa5-4dd2-a1d9-960abf2e7543")> 
+2021-04-03 21:58:31,999 - tools.report.log_tool - INFO - 定位元素 //div[@class='title'] 
+2021-04-03 21:58:32,051 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="7cff8dedc7825b1a672d3ff625344ad8", element="e61a7199-8974-4b5b-b6f7-eefc46d7f4ae")>  的展示文本为:  客户管理 
+2021-04-03 21:58:32,056 - tools.report.log_tool - INFO - 获取当前页面的url https://customer-uat.transtalent.cn/#/customer 
+2021-04-03 21:58:32,065 - tools.report.log_tool - INFO - 本条测试用例结束时间：2021-04-03 21:58:32
+2021-04-03 21:58:32,065 - tools.report.log_tool - INFO - 定位元素 //button[@class='el-button el-button--primary'] 
+2021-04-03 21:58:32,100 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="7cff8dedc7825b1a672d3ff625344ad8", element="5d48791e-3c1b-451f-b4b9-90ee4b26d70f")> 
+2021-04-03 21:58:32,795 - tools.report.log_tool - INFO - 定位元素 //div[@class='title'] 
+2021-04-03 21:58:32,999 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="7cff8dedc7825b1a672d3ff625344ad8", element="7d84e9dc-28e0-4df5-969c-99dfbf9057bf")>  的展示文本为:  新增客户 
+2021-04-03 21:58:33,005 - tools.report.log_tool - INFO - 获取当前页面的url https://customer-uat.transtalent.cn/#/NewCustomer 
+2021-04-03 21:58:33,011 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入公司名称'] 
+2021-04-03 21:58:33,040 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="7cff8dedc7825b1a672d3ff625344ad8", element="26f8969e-70c4-4444-82fb-77db55fb11c8")> 中输入： 自动化测试_003 
+2021-04-03 21:58:33,477 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入公司别名'] 
+2021-04-03 21:58:33,507 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="7cff8dedc7825b1a672d3ff625344ad8", element="8ffa9614-c35c-49ec-919e-01b10bfaccdf")> 中输入： 自动化测试_003 
+2021-04-03 21:58:33,896 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入公司缩写'] 
+2021-04-03 21:58:33,927 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="7cff8dedc7825b1a672d3ff625344ad8", element="2c07ac15-4b89-407f-b744-6d497c90ea1e")> 中输入： auto_003 
+2021-04-03 21:58:34,301 - tools.report.log_tool - INFO - 定位元素 //input[@placeholder='请选择'] 
+2021-04-03 21:58:34,333 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="7cff8dedc7825b1a672d3ff625344ad8", element="c72961a8-e975-4a30-a825-d0a6ab5aa068")> 
+2021-04-03 21:58:34,907 - tools.report.log_tool - INFO - 定位元素 (//li[@class='el-select-dropdown__item'])[1] 
+2021-04-03 21:58:34,970 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="7cff8dedc7825b1a672d3ff625344ad8", element="6b3050a0-2645-4fbb-a773-476af5d4bfd6")> 
+2021-04-03 21:58:35,536 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入备注信息'] 
+2021-04-03 21:58:35,598 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="7cff8dedc7825b1a672d3ff625344ad8", element="b4488bda-4f0a-4c0b-a16c-f6b3324c537f")> 中输入： auto_003自动化测试，请勿修改操作，谢谢。 
+2021-04-03 21:58:36,169 - tools.report.log_tool - INFO - 定位元素 //span[text()='保存'] 
+2021-04-03 21:58:36,195 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="7cff8dedc7825b1a672d3ff625344ad8", element="6c9c2288-80b7-4ed5-a8ff-40fb668b839c")> 
+2021-04-03 21:58:37,762 - tools.report.log_tool - INFO - 定位元素 //div[@class="el-message el-message--success"] 
+2021-04-03 21:58:37,820 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="7cff8dedc7825b1a672d3ff625344ad8", element="3c6ea0c4-4e61-4023-b2fe-1b676fe2a5c3")>  的展示文本为:  保存成功 
+2021-04-03 21:58:37,821 - tools.report.log_tool - INFO - 定位元素 (//tr[@class='el-table__row'])[1] 
+2021-04-03 21:58:37,947 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="7cff8dedc7825b1a672d3ff625344ad8", element="8f14b91c-667e-44a2-8918-8d6eea5cf9e0")>  的展示文本为:  2868
+自动化测试_003
+自动化测试_003
+auto_003
+公开课虚拟公司
+项目学习
+有效
+auto_003自动化测试，请勿修改操作，谢谢。
+2021-04-03
+21:58:37 
+2021-04-03 22:01:09,290 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2021-04-03 22:01:09,291 - tools.report.log_tool - INFO - 定位元素 //i[@class='icon iconfont icon-kehu']/.. 
+2021-04-03 22:01:09,322 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="42e13319465226f70baae02c57f7ba41", element="0ab62cd9-7aa5-4dd2-a1d9-960abf2e7543")> 
+2021-04-03 22:01:10,870 - tools.report.log_tool - INFO - 定位元素 //div[@class='title'] 
+2021-04-03 22:01:10,971 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="42e13319465226f70baae02c57f7ba41", element="1dd16487-b61d-4fd4-86d8-9e61f44250e5")>  的展示文本为:  客户管理 
+2021-04-03 22:01:10,976 - tools.report.log_tool - INFO - 获取当前页面的url https://customer-uat.transtalent.cn/#/customer 
+2021-04-03 22:01:10,980 - tools.report.log_tool - INFO - 本条测试用例结束时间：2021-04-03 22:01:10
+2021-04-03 22:01:10,980 - tools.report.log_tool - INFO - 定位元素 //button[@class='el-button el-button--primary'] 
+2021-04-03 22:01:11,007 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="42e13319465226f70baae02c57f7ba41", element="19cb3df9-3a1c-40f1-8b3a-aec03e0970a7")> 
+2021-04-03 22:01:11,670 - tools.report.log_tool - INFO - 定位元素 //div[@class='title'] 
+2021-04-03 22:01:11,857 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="42e13319465226f70baae02c57f7ba41", element="24a66f57-8c12-4dd9-b963-6d46f9b610ac")>  的展示文本为:  新增客户 
+2021-04-03 22:01:11,862 - tools.report.log_tool - INFO - 获取当前页面的url https://customer-uat.transtalent.cn/#/NewCustomer 
+2021-04-03 22:01:11,867 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入公司名称'] 
+2021-04-03 22:01:11,897 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="42e13319465226f70baae02c57f7ba41", element="fdcb5da5-9d99-4f30-a907-7b1491550168")> 中输入： 自动化测试_004 
+2021-04-03 22:01:12,346 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入公司别名'] 
+2021-04-03 22:01:12,376 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="42e13319465226f70baae02c57f7ba41", element="c4485d72-9650-4938-a913-3338bd9c9406")> 中输入： 自动化测试_004 
+2021-04-03 22:01:12,768 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入公司缩写'] 
+2021-04-03 22:01:12,798 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="42e13319465226f70baae02c57f7ba41", element="281d63cd-cccd-4c67-9e07-e7c159515cf7")> 中输入： auto_004 
+2021-04-03 22:01:13,183 - tools.report.log_tool - INFO - 定位元素 //input[@placeholder='请选择'] 
+2021-04-03 22:01:13,242 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="42e13319465226f70baae02c57f7ba41", element="ac89f077-33cd-441f-9b78-66213e21846d")> 
+2021-04-03 22:01:13,775 - tools.report.log_tool - INFO - 定位元素 (//li[@class='el-select-dropdown__item'])[1] 
+2021-04-03 22:01:13,825 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="42e13319465226f70baae02c57f7ba41", element="0a436933-dd00-4fb3-96c1-e937a61dbf5d")> 
+2021-04-03 22:01:14,357 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入备注信息'] 
+2021-04-03 22:01:14,387 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="42e13319465226f70baae02c57f7ba41", element="7abbcecd-f22d-4aef-81e0-fb7f060a6483")> 中输入： auto_004自动化测试，请勿修改操作，谢谢。 
+2021-04-03 22:01:14,910 - tools.report.log_tool - INFO - 定位元素 //span[text()='保存'] 
+2021-04-03 22:01:14,937 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="42e13319465226f70baae02c57f7ba41", element="460bf19c-c6a9-41a0-8e0e-6f9f4bd49cd7")> 
+2021-04-03 22:01:16,550 - tools.report.log_tool - INFO - 定位元素 (//tr[@class='el-table__row'])[1] 
+2021-04-03 22:01:16,698 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="42e13319465226f70baae02c57f7ba41", element="51b0465f-cc95-4edc-ae9b-18e4817eb7c1")>  的展示文本为:  2869
+自动化测试_004
+自动化测试_004
+auto_004
+公开课虚拟公司
+项目学习
+有效
+auto_004自动化测试，请勿修改操作，谢谢。
+2021-04-03
+22:01:16 
+2021-04-03 22:02:33,885 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2021-04-03 22:02:33,885 - tools.report.log_tool - INFO - 定位元素 //i[@class='icon iconfont icon-kehu']/.. 
+2021-04-03 22:02:33,915 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="b1391d2b32370bfe4f0e064eea2e9f63", element="0ab62cd9-7aa5-4dd2-a1d9-960abf2e7543")> 
+2021-04-03 22:02:35,485 - tools.report.log_tool - INFO - 定位元素 //div[@class='title'] 
+2021-04-03 22:02:35,595 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="b1391d2b32370bfe4f0e064eea2e9f63", element="e6360ed7-d7be-42ba-8ae7-a877f4bb14fb")>  的展示文本为:  客户管理 
+2021-04-03 22:02:35,615 - tools.report.log_tool - INFO - 获取当前页面的url https://customer-uat.transtalent.cn/#/customer 
+2021-04-03 22:02:35,625 - tools.report.log_tool - INFO - 本条测试用例结束时间：2021-04-03 22:02:35
+2021-04-03 22:02:35,625 - tools.report.log_tool - INFO - 定位元素 //button[@class='el-button el-button--primary'] 
+2021-04-03 22:02:35,670 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="b1391d2b32370bfe4f0e064eea2e9f63", element="f77c7372-93ec-4256-bc5a-f0fbb184ec29")> 
+2021-04-03 22:02:36,325 - tools.report.log_tool - INFO - 定位元素 //div[@class='title'] 
+2021-04-03 22:02:36,365 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="b1391d2b32370bfe4f0e064eea2e9f63", element="e6360ed7-d7be-42ba-8ae7-a877f4bb14fb")>  的展示文本为:  客户管理 
+2021-04-03 22:02:57,385 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2021-04-03 22:02:57,385 - tools.report.log_tool - INFO - 定位元素 //i[@class='icon iconfont icon-kehu']/.. 
+2021-04-03 22:02:57,415 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="dab8d70edd8f59b4f945fa1eb5d8f6dd", element="0ab62cd9-7aa5-4dd2-a1d9-960abf2e7543")> 
+2021-04-03 22:02:59,016 - tools.report.log_tool - INFO - 定位元素 //div[@class='title'] 
+2021-04-03 22:02:59,068 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="dab8d70edd8f59b4f945fa1eb5d8f6dd", element="e448c8f6-29fc-4056-a246-aaaf18e9fcd4")>  的展示文本为:  客户管理 
+2021-04-03 22:02:59,073 - tools.report.log_tool - INFO - 获取当前页面的url https://customer-uat.transtalent.cn/#/customer 
+2021-04-03 22:02:59,082 - tools.report.log_tool - INFO - 本条测试用例结束时间：2021-04-03 22:02:59
+2021-04-03 22:02:59,082 - tools.report.log_tool - INFO - 定位元素 //button[@class='el-button el-button--primary'] 
+2021-04-03 22:02:59,121 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="dab8d70edd8f59b4f945fa1eb5d8f6dd", element="523ecdcc-1e6f-451d-9c41-78ea3103f22c")> 
+2021-04-03 22:02:59,809 - tools.report.log_tool - INFO - 定位元素 //div[@class='title'] 
+2021-04-03 22:02:59,995 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="dab8d70edd8f59b4f945fa1eb5d8f6dd", element="1a7902ea-148b-4315-81ab-9a729d8865b5")>  的展示文本为:  新增客户 
+2021-04-03 22:03:00,001 - tools.report.log_tool - INFO - 获取当前页面的url https://customer-uat.transtalent.cn/#/NewCustomer 
+2021-04-03 22:03:00,009 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入公司名称'] 
+2021-04-03 22:03:00,039 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="dab8d70edd8f59b4f945fa1eb5d8f6dd", element="8abdf860-1e7c-42ea-8fb4-10f30d8c1a96")> 中输入： 自动化测试_005 
+2021-04-03 22:03:00,506 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入公司别名'] 
+2021-04-03 22:03:00,534 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="dab8d70edd8f59b4f945fa1eb5d8f6dd", element="ff35abc9-4f6d-447e-b223-deed4f2c7fc6")> 中输入： 自动化测试_005 
+2021-04-03 22:03:00,938 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入公司缩写'] 
+2021-04-03 22:03:00,968 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="dab8d70edd8f59b4f945fa1eb5d8f6dd", element="66baf317-572d-4592-ad7c-20c9f1281f1f")> 中输入： auto_005 
+2021-04-03 22:03:01,352 - tools.report.log_tool - INFO - 定位元素 //input[@placeholder='请选择'] 
+2021-04-03 22:03:01,383 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="dab8d70edd8f59b4f945fa1eb5d8f6dd", element="f475119b-9667-44c7-b37d-97aa5466a0c3")> 
+2021-04-03 22:03:01,913 - tools.report.log_tool - INFO - 定位元素 (//li[@class='el-select-dropdown__item'])[1] 
+2021-04-03 22:03:02,559 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="dab8d70edd8f59b4f945fa1eb5d8f6dd", element="72be9364-7e1f-4079-9432-72226b84d7e1")> 
+2021-04-03 22:03:03,171 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入备注信息'] 
+2021-04-03 22:03:03,236 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="dab8d70edd8f59b4f945fa1eb5d8f6dd", element="6ea60f26-7091-4d5f-8759-8ce438f9f146")> 中输入： auto_005自动化测试，请勿修改操作，谢谢。 
+2021-04-03 22:03:03,795 - tools.report.log_tool - INFO - 定位元素 //span[text()='保存'] 
+2021-04-03 22:03:03,820 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="dab8d70edd8f59b4f945fa1eb5d8f6dd", element="e6f1b406-a190-48b4-937c-a32df43b434d")> 
+2021-04-03 22:03:05,371 - tools.report.log_tool - INFO - 定位元素 (//tr[@class='el-table__row'])[1] 
+2021-04-03 22:03:05,444 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="dab8d70edd8f59b4f945fa1eb5d8f6dd", element="6c3937fc-3c1b-4fc5-85f6-c89276d30786")>  的展示文本为:  2870
+自动化测试_005
+自动化测试_005
+auto_005
+公开课虚拟公司
+项目学习
+有效
+auto_005自动化测试，请勿修改操作，谢谢。
+2021-04-03
+22:03:05 
+2021-04-03 22:04:31,295 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2021-04-03 22:04:31,295 - tools.report.log_tool - INFO - 定位元素 //i[@class='icon iconfont icon-kehu']/.. 
+2021-04-03 22:04:31,325 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="73283c5cc0eb4436b4386338ce4c8270", element="0ab62cd9-7aa5-4dd2-a1d9-960abf2e7543")> 
+2021-04-03 22:04:32,878 - tools.report.log_tool - INFO - 定位元素 //div[@class='title'] 
+2021-04-03 22:04:32,944 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="73283c5cc0eb4436b4386338ce4c8270", element="768ad632-33c1-4f8c-a64c-49d6db599537")>  的展示文本为:  ['客户管理'] 
+2021-04-03 22:04:32,949 - tools.report.log_tool - INFO - 获取当前页面的url https://customer-uat.transtalent.cn/#/customer 
+2021-04-03 22:04:32,953 - tools.report.log_tool - INFO - 本条测试用例结束时间：2021-04-03 22:04:32
+2021-04-03 22:04:32,953 - tools.report.log_tool - INFO - 定位元素 //button[@class='el-button el-button--primary'] 
+2021-04-03 22:04:32,979 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="73283c5cc0eb4436b4386338ce4c8270", element="ae3a185c-5174-4b9e-a695-e3bd1611d662")> 
+2021-04-03 22:04:33,663 - tools.report.log_tool - INFO - 定位元素 //div[@class='title'] 
+2021-04-03 22:04:33,858 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="73283c5cc0eb4436b4386338ce4c8270", element="3a590f0b-1e99-4dd3-9b96-55f2c011d5ed")>  的展示文本为:  ['新增客户'] 
+2021-04-03 22:04:33,863 - tools.report.log_tool - INFO - 获取当前页面的url https://customer-uat.transtalent.cn/#/NewCustomer 
+2021-04-03 22:04:33,867 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入公司名称'] 
+2021-04-03 22:04:33,897 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="73283c5cc0eb4436b4386338ce4c8270", element="37c411b8-8899-43b4-a778-609cd9097b68")> 中输入： 自动化测试_006 
+2021-04-03 22:04:34,357 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入公司别名'] 
+2021-04-03 22:04:34,383 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="73283c5cc0eb4436b4386338ce4c8270", element="3cf35de1-ab2c-40e2-9f6b-ab61a94f299a")> 中输入： 自动化测试_006 
+2021-04-03 22:04:34,779 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入公司缩写'] 
+2021-04-03 22:04:34,808 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="73283c5cc0eb4436b4386338ce4c8270", element="454cb720-4e0c-425e-aed5-82f50a55a456")> 中输入： auto_006 
+2021-04-03 22:04:35,230 - tools.report.log_tool - INFO - 定位元素 //input[@placeholder='请选择'] 
+2021-04-03 22:04:35,275 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="73283c5cc0eb4436b4386338ce4c8270", element="afe0af7e-93a3-40f2-a726-4410ed4e9ae3")> 
+2021-04-03 22:04:35,833 - tools.report.log_tool - INFO - 定位元素 (//li[@class='el-select-dropdown__item'])[1] 
+2021-04-03 22:04:36,452 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="73283c5cc0eb4436b4386338ce4c8270", element="22cf15bf-7e66-4146-b047-df0c85e712a4")> 
+2021-04-03 22:04:37,043 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入备注信息'] 
+2021-04-03 22:04:37,088 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="73283c5cc0eb4436b4386338ce4c8270", element="b279c201-5b8a-4d14-b875-105c2c7b6537")> 中输入： auto_006自动化测试，请勿修改操作，谢谢。 
+2021-04-03 22:04:37,661 - tools.report.log_tool - INFO - 定位元素 //span[text()='保存'] 
+2021-04-03 22:04:37,686 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="73283c5cc0eb4436b4386338ce4c8270", element="69630798-ec9c-4504-9ede-e8a62db631f9")> 
+2021-04-03 22:04:39,281 - tools.report.log_tool - INFO - 定位元素 (//tr[@class='el-table__row'])[1] 
+2021-04-03 22:04:39,359 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="73283c5cc0eb4436b4386338ce4c8270", element="5ccc708c-8f57-4542-9853-d9197876e69a")>  的展示文本为:  ['2871\n自动化测试_006\n自动化测试_006\nauto_006\n公开课虚拟公司\n项目学习\n有效\nauto_006自动化测试，请勿修改操作，谢谢。\n2021-04-03\n22:04:38'] 
+2021-04-03 22:06:07,510 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2021-04-03 22:06:07,512 - tools.report.log_tool - INFO - 定位元素 //i[@class='icon iconfont icon-kehu']/.. 
+2021-04-03 22:06:07,540 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="3e9f77420e3e014c4e995475282808b1", element="0ab62cd9-7aa5-4dd2-a1d9-960abf2e7543")> 
+2021-04-03 22:06:09,093 - tools.report.log_tool - INFO - 定位元素 //div[@class='title'] 
+2021-04-03 22:06:09,174 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="3e9f77420e3e014c4e995475282808b1", element="ad7f7d66-c3bf-4ee3-a53a-92eb56aee65d")>  的展示文本为:  ['客户管理'] 
+2021-04-03 22:06:09,181 - tools.report.log_tool - INFO - 获取当前页面的url https://customer-uat.transtalent.cn/#/customer 
+2021-04-03 22:06:09,188 - tools.report.log_tool - INFO - 本条测试用例结束时间：2021-04-03 22:06:09
+2021-04-03 22:06:09,188 - tools.report.log_tool - INFO - 定位元素 //button[@class='el-button el-button--primary'] 
+2021-04-03 22:06:09,223 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="3e9f77420e3e014c4e995475282808b1", element="cd1e700f-e524-484a-8a6f-b521bf77dd2e")> 
+2021-04-03 22:06:09,866 - tools.report.log_tool - INFO - 定位元素 //div[@class='title'] 
+2021-04-03 22:06:10,053 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="3e9f77420e3e014c4e995475282808b1", element="4ac8ecb9-2aec-4e91-8469-5ca8ce2bb59d")>  的展示文本为:  ['新增客户'] 
+2021-04-03 22:06:10,057 - tools.report.log_tool - INFO - 获取当前页面的url https://customer-uat.transtalent.cn/#/NewCustomer 
+2021-04-03 22:06:10,061 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入公司名称'] 
+2021-04-03 22:06:10,090 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="3e9f77420e3e014c4e995475282808b1", element="4b03d891-6531-4085-9632-0152172c149c")> 中输入： 自动化测试_007 
+2021-04-03 22:06:10,548 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入公司别名'] 
+2021-04-03 22:06:10,580 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="3e9f77420e3e014c4e995475282808b1", element="d148d60c-6362-4b4e-ba1b-3c8a58f7831c")> 中输入： 自动化测试_007 
+2021-04-03 22:06:10,975 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入公司缩写'] 
+2021-04-03 22:06:11,006 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="3e9f77420e3e014c4e995475282808b1", element="72264c93-aa0a-4b4b-986a-c11b2683f31d")> 中输入： auto_007 
+2021-04-03 22:06:11,401 - tools.report.log_tool - INFO - 定位元素 //input[@placeholder='请选择'] 
+2021-04-03 22:06:11,432 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="3e9f77420e3e014c4e995475282808b1", element="5e5b78c0-fc10-49a2-bf3f-6ac3878dce29")> 
+2021-04-03 22:06:11,996 - tools.report.log_tool - INFO - 定位元素 (//li[@class='el-select-dropdown__item'])[1] 
+2021-04-03 22:06:12,039 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="3e9f77420e3e014c4e995475282808b1", element="77b6eddc-d7f8-4258-a694-2e3c4ead56ef")> 
+2021-04-03 22:06:12,569 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入备注信息'] 
+2021-04-03 22:06:12,597 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="3e9f77420e3e014c4e995475282808b1", element="969ea37e-69c9-49c3-93cb-991360b51d25")> 中输入： auto_007自动化测试，请勿修改操作，谢谢。 
+2021-04-03 22:06:13,200 - tools.report.log_tool - INFO - 定位元素 //span[text()='保存'] 
+2021-04-03 22:06:13,230 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="3e9f77420e3e014c4e995475282808b1", element="c258ebce-0b8d-4f3c-8e2b-04c92fcc3d49")> 
+2021-04-03 22:06:14,784 - tools.report.log_tool - INFO - 定位元素 (//tr[@class='el-table__row'])[1] 
+2021-04-03 22:06:14,857 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="3e9f77420e3e014c4e995475282808b1", element="cf535832-1c5b-4828-bb96-17e5717450af")>  的展示文本为:  ['2872', '自动化测试_007', '自动化测试_007', 'auto_007', '公开课虚拟公司', '项目学习', '有效', 'auto_007自动化测试，请勿修改操作，谢谢。', '2021-04-03', '22:06:14'] 
+2021-04-03 22:08:18,170 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2021-04-03 22:08:18,172 - tools.report.log_tool - INFO - 定位元素 //i[@class='icon iconfont icon-kehu']/.. 
+2021-04-03 22:08:18,223 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="d11f4f282e0decd5544717e8fd24f535", element="0ab62cd9-7aa5-4dd2-a1d9-960abf2e7543")> 
+2021-04-03 22:08:19,819 - tools.report.log_tool - INFO - 定位元素 //div[@class='title'] 
+2021-04-03 22:08:19,877 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="d11f4f282e0decd5544717e8fd24f535", element="0078054e-5359-4d14-a827-8b03382ce04d")>  的展示文本为:  客户管理 
+2021-04-03 22:08:19,883 - tools.report.log_tool - INFO - 获取当前页面的url https://customer-uat.transtalent.cn/#/customer 
+2021-04-03 22:08:19,886 - tools.report.log_tool - INFO - 本条测试用例结束时间：2021-04-03 22:08:19
+2021-04-03 22:08:19,887 - tools.report.log_tool - INFO - 定位元素 //button[@class='el-button el-button--primary'] 
+2021-04-03 22:08:19,915 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="d11f4f282e0decd5544717e8fd24f535", element="e20b1025-f8af-4c8a-bd65-185b55d3b659")> 
+2021-04-03 22:08:20,605 - tools.report.log_tool - INFO - 定位元素 //div[@class='title'] 
+2021-04-03 22:08:20,797 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="d11f4f282e0decd5544717e8fd24f535", element="198002d6-03d4-491b-814c-4b4283921fb6")>  的展示文本为:  新增客户 
+2021-04-03 22:08:20,805 - tools.report.log_tool - INFO - 获取当前页面的url https://customer-uat.transtalent.cn/#/NewCustomer 
+2021-04-03 22:08:20,809 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入公司名称'] 
+2021-04-03 22:08:20,839 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="d11f4f282e0decd5544717e8fd24f535", element="7368555b-43a5-48a9-9012-13edd2472817")> 中输入： 自动化测试_008 
+2021-04-03 22:08:21,290 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入公司别名'] 
+2021-04-03 22:08:21,322 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="d11f4f282e0decd5544717e8fd24f535", element="6c840171-a4a8-4f58-adac-b152d246ec69")> 中输入： 自动化测试_008 
+2021-04-03 22:08:21,732 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入公司缩写'] 
+2021-04-03 22:08:21,762 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="d11f4f282e0decd5544717e8fd24f535", element="caa899e1-025f-4e32-8615-549546fef98d")> 中输入： auto_008 
+2021-04-03 22:08:22,166 - tools.report.log_tool - INFO - 定位元素 //input[@placeholder='请选择'] 
+2021-04-03 22:08:22,225 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="d11f4f282e0decd5544717e8fd24f535", element="817c6fd4-c1a7-4e0e-82d9-b50b2a9cf97f")> 
+2021-04-03 22:08:22,762 - tools.report.log_tool - INFO - 定位元素 (//li[@class='el-select-dropdown__item'])[1] 
+2021-04-03 22:08:23,365 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="d11f4f282e0decd5544717e8fd24f535", element="499785a9-49e7-4aed-8d63-913efb53b893")> 
+2021-04-03 22:08:23,925 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入备注信息'] 
+2021-04-03 22:08:23,981 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="d11f4f282e0decd5544717e8fd24f535", element="693f41bf-33bc-4a1d-a249-105fa049c8d1")> 中输入： auto_008自动化测试，请勿修改操作，谢谢。 
+2021-04-03 22:08:24,535 - tools.report.log_tool - INFO - 定位元素 //span[text()='保存'] 
+2021-04-03 22:08:24,568 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="d11f4f282e0decd5544717e8fd24f535", element="2cde285a-1cb8-4d35-8248-bdba1ca5a3bf")> 
+2021-04-03 22:08:26,123 - tools.report.log_tool - INFO - 定位元素 (//tr[@class='el-table__row'])[1] 
+2021-04-03 22:08:26,199 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="d11f4f282e0decd5544717e8fd24f535", element="6c4088e1-4eb7-4ed2-a711-12440cdc04a2")>  的展示文本为:  ['2873', '自动化测试_008', '自动化测试_008', 'auto_008', '公开课虚拟公司', '项目学习', '有效', 'auto_008自动化测试，请勿修改操作，谢谢。', '2021-04-03', '22:08:25'] 
+2021-04-03 22:09:19,526 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2021-04-03 22:09:19,536 - tools.report.log_tool - INFO - 定位元素 //i[@class='icon iconfont icon-kehu']/.. 
+2021-04-03 22:09:19,561 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="d15402d15cd3d74cb8bff1b2ac885644", element="0ab62cd9-7aa5-4dd2-a1d9-960abf2e7543")> 
+2021-04-03 22:09:21,154 - tools.report.log_tool - INFO - 定位元素 //div[@class='title'] 
+2021-04-03 22:09:21,246 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="d15402d15cd3d74cb8bff1b2ac885644", element="b22fe095-6bb0-4537-888d-c72e0e0e62b4")>  的展示文本为:  客户管理 
+2021-04-03 22:09:21,251 - tools.report.log_tool - INFO - 获取当前页面的url https://customer-uat.transtalent.cn/#/customer 
+2021-04-03 22:09:21,255 - tools.report.log_tool - INFO - 本条测试用例结束时间：2021-04-03 22:09:21
+2021-04-03 22:09:21,255 - tools.report.log_tool - INFO - 定位元素 //button[@class='el-button el-button--primary'] 
+2021-04-03 22:09:21,281 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="d15402d15cd3d74cb8bff1b2ac885644", element="c1815a1b-047c-4a6f-8754-84f44f5a4bc6")> 
+2021-04-03 22:09:21,919 - tools.report.log_tool - INFO - 定位元素 //div[@class='title'] 
+2021-04-03 22:09:22,111 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="d15402d15cd3d74cb8bff1b2ac885644", element="01cfc328-f15e-4f9c-b40f-b40ea4daa451")>  的展示文本为:  新增客户 
+2021-04-03 22:09:22,117 - tools.report.log_tool - INFO - 获取当前页面的url https://customer-uat.transtalent.cn/#/NewCustomer 
+2021-04-03 22:09:22,123 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入公司名称'] 
+2021-04-03 22:09:22,151 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="d15402d15cd3d74cb8bff1b2ac885644", element="5a61243e-1216-4179-8149-2f8d12962da0")> 中输入： 自动化测试_009 
+2021-04-03 22:09:22,602 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入公司别名'] 
+2021-04-03 22:09:22,632 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="d15402d15cd3d74cb8bff1b2ac885644", element="560bca3f-f6a3-4e45-bcb5-beb140a444c7")> 中输入： 自动化测试_009 
+2021-04-03 22:09:23,029 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入公司缩写'] 
+2021-04-03 22:09:23,060 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="d15402d15cd3d74cb8bff1b2ac885644", element="bfaae37c-4785-45ab-8693-0d539afe6420")> 中输入： auto_009 
+2021-04-03 22:09:23,547 - tools.report.log_tool - INFO - 定位元素 //input[@placeholder='请选择'] 
+2021-04-03 22:09:23,593 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="d15402d15cd3d74cb8bff1b2ac885644", element="4e59f57a-b00a-471d-97f1-aeecbccda7f1")> 
+2021-04-03 22:09:24,126 - tools.report.log_tool - INFO - 定位元素 (//li[@class='el-select-dropdown__item'])[1] 
+2021-04-03 22:09:24,711 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="d15402d15cd3d74cb8bff1b2ac885644", element="45526d7b-e98c-483b-81d8-91450dfc3763")> 
+2021-04-03 22:09:25,255 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入备注信息'] 
+2021-04-03 22:09:25,285 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="d15402d15cd3d74cb8bff1b2ac885644", element="7b472d26-c8ec-48a7-aecc-d5d03db6a067")> 中输入： auto_009自动化测试，请勿修改操作，谢谢。 
+2021-04-03 22:09:25,832 - tools.report.log_tool - INFO - 定位元素 //span[text()='保存'] 
+2021-04-03 22:09:25,862 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="d15402d15cd3d74cb8bff1b2ac885644", element="bc5f25f9-be56-4995-bf8f-0e95e8a7f2bb")> 
+2021-04-03 22:09:27,454 - tools.report.log_tool - INFO - 定位元素 (//tr[@class='el-table__row'])[1] 
+2021-04-03 22:09:27,525 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="d15402d15cd3d74cb8bff1b2ac885644", element="77d9aa2a-b68b-466e-9b06-e314ddeca0eb")>  的展示文本为:  ['2874', '自动化测试_009', '自动化测试_009', 'auto_009', '公开课虚拟公司', '项目学习', '有效', 'auto_009自动化测试，请勿修改操作，谢谢。', '2021-04-03', '22:09:27'] 
+2021-04-03 22:11:27,276 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2021-04-03 22:11:27,276 - tools.report.log_tool - INFO - 定位元素 //i[@class='icon iconfont icon-kehu']/.. 
+2021-04-03 22:11:27,306 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="2ac96a118851eef4e06f72e6f2e04d25", element="0ab62cd9-7aa5-4dd2-a1d9-960abf2e7543")> 
+2021-04-03 22:11:28,882 - tools.report.log_tool - INFO - 定位元素 //div[@class='title'] 
+2021-04-03 22:11:28,969 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="2ac96a118851eef4e06f72e6f2e04d25", element="9292bc2c-928d-4ecc-8d8d-8b6f8729d9b7")>  的展示文本为:  客户管理 
+2021-04-03 22:11:28,975 - tools.report.log_tool - INFO - 获取当前页面的url https://customer-uat.transtalent.cn/#/customer 
+2021-04-03 22:11:28,978 - tools.report.log_tool - INFO - 本条测试用例结束时间：2021-04-03 22:11:28
+2021-04-03 22:11:28,978 - tools.report.log_tool - INFO - 定位元素 //button[@class='el-button el-button--primary'] 
+2021-04-03 22:11:29,005 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="2ac96a118851eef4e06f72e6f2e04d25", element="0332b9b2-1a3d-42c2-a050-dd11f77aec02")> 
+2021-04-03 22:11:29,656 - tools.report.log_tool - INFO - 定位元素 //div[@class='title'] 
+2021-04-03 22:11:29,883 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="2ac96a118851eef4e06f72e6f2e04d25", element="87442e88-c98d-472d-a54e-b3364d8274e2")>  的展示文本为:  新增客户 
+2021-04-03 22:11:29,890 - tools.report.log_tool - INFO - 获取当前页面的url https://customer-uat.transtalent.cn/#/NewCustomer 
+2021-04-03 22:11:29,896 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入公司名称'] 
+2021-04-03 22:11:29,927 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="2ac96a118851eef4e06f72e6f2e04d25", element="2513e03d-5398-426f-9e96-93a9a30209d7")> 中输入： 自动化测试_010 
+2021-04-03 22:11:30,377 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入公司别名'] 
+2021-04-03 22:11:30,406 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="2ac96a118851eef4e06f72e6f2e04d25", element="6d691bf5-89e9-4171-9b26-4cb4ea562421")> 中输入： 自动化测试_010 
+2021-04-03 22:11:30,804 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入公司缩写'] 
+2021-04-03 22:11:30,859 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="2ac96a118851eef4e06f72e6f2e04d25", element="0574be38-df3c-447b-8f60-84a129e514bd")> 中输入： auto_010 
+2021-04-03 22:11:31,251 - tools.report.log_tool - INFO - 定位元素 //input[@placeholder='请选择'] 
+2021-04-03 22:11:31,279 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="2ac96a118851eef4e06f72e6f2e04d25", element="41a55297-5f49-46c6-801f-8da94002a8d4")> 
+2021-04-03 22:11:31,829 - tools.report.log_tool - INFO - 定位元素 (//li[@class='el-select-dropdown__item'])[1] 
+2021-04-03 22:11:31,869 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="2ac96a118851eef4e06f72e6f2e04d25", element="fc29855e-5b4d-411a-9db0-c0c2f2169409")> 
+2021-04-03 22:11:32,413 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入备注信息'] 
+2021-04-03 22:11:32,497 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="2ac96a118851eef4e06f72e6f2e04d25", element="99e4484b-ee35-4e93-b3c0-0d756b93e308")> 中输入： auto_010自动化测试，请勿修改操作，谢谢。 
+2021-04-03 22:11:33,066 - tools.report.log_tool - INFO - 定位元素 //span[text()='保存'] 
+2021-04-03 22:11:33,093 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="2ac96a118851eef4e06f72e6f2e04d25", element="ba95b110-32e5-4e01-b150-b4fced8c71c6")> 
+2021-04-03 22:11:34,661 - tools.report.log_tool - INFO - 定位元素 title 
+2021-04-03 22:11:45,217 - tools.report.log_tool - ERROR - title定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式
+2021-04-03 22:12:25,796 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2021-04-03 22:12:25,796 - tools.report.log_tool - INFO - 定位元素 title 
+2021-04-03 22:12:36,337 - tools.report.log_tool - ERROR - title定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式
+2021-04-03 22:13:29,226 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2021-04-03 22:13:29,228 - tools.report.log_tool - INFO - 定位元素 el-input__inner 
+2021-04-03 22:13:39,777 - tools.report.log_tool - ERROR - el-input__inner定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式
+2021-04-03 22:14:40,577 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2021-04-03 22:14:40,577 - tools.report.log_tool - INFO - 定位元素 el-breadcrumb__inner is-link 
+2021-04-03 22:14:50,687 - tools.report.log_tool - ERROR - el-breadcrumb__inner is-link定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式
+2021-04-03 22:15:09,761 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2021-04-03 22:15:09,762 - tools.report.log_tool - INFO - 定位元素 //i[@class='icon iconfont icon-kehu']/.. 
+2021-04-03 22:15:09,792 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="b2945d85a2ad1533eeb2e1b679a57531", element="0ab62cd9-7aa5-4dd2-a1d9-960abf2e7543")> 
+2021-04-03 22:15:11,353 - tools.report.log_tool - INFO - 定位元素 //div[@class='title'] 
+2021-04-03 22:15:11,520 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="b2945d85a2ad1533eeb2e1b679a57531", element="0abdf9e3-ef57-44fa-8f5f-6845bd6cc4cd")>  的展示文本为:  客户管理 
+2021-04-03 22:15:11,525 - tools.report.log_tool - INFO - 获取当前页面的url https://customer-uat.transtalent.cn/#/customer 
+2021-04-03 22:15:11,531 - tools.report.log_tool - INFO - 本条测试用例结束时间：2021-04-03 22:15:11
+2021-04-03 22:15:11,531 - tools.report.log_tool - INFO - 定位元素 el-breadcrumb__inner is-link 
+2021-04-03 22:15:21,557 - tools.report.log_tool - ERROR - el-breadcrumb__inner is-link定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式
+2021-04-03 22:16:13,784 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2021-04-03 22:16:13,785 - tools.report.log_tool - INFO - 定位元素 //i[@class='icon iconfont icon-kehu']/.. 
+2021-04-03 22:16:13,813 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="248e7a30f4bf3ad2360337f63b3de0e2", element="0ab62cd9-7aa5-4dd2-a1d9-960abf2e7543")> 
+2021-04-03 22:16:15,514 - tools.report.log_tool - INFO - 定位元素 //div[@class='title'] 
+2021-04-03 22:16:15,592 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="248e7a30f4bf3ad2360337f63b3de0e2", element="9b3e0161-0d8f-4339-a0e3-de43e732d9d7")>  的展示文本为:  客户管理 
+2021-04-03 22:16:15,597 - tools.report.log_tool - INFO - 获取当前页面的url https://customer-uat.transtalent.cn/#/customer 
+2021-04-03 22:16:15,602 - tools.report.log_tool - INFO - 本条测试用例结束时间：2021-04-03 22:16:15
+2021-04-03 22:16:16,603 - tools.report.log_tool - INFO - 定位元素 el-breadcrumb__inner is-link 
+2021-04-03 22:16:26,997 - tools.report.log_tool - ERROR - el-breadcrumb__inner is-link定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式
+2021-04-03 22:18:02,627 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2021-04-03 22:18:02,637 - tools.report.log_tool - INFO - 定位元素 //div[@class='title'] 
+2021-04-03 22:18:02,684 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="45399cc13b48c6314878083947a44d4b", element="9b3e0161-0d8f-4339-a0e3-de43e732d9d7")>  的展示文本为:  客户管理 
+2021-04-03 22:19:07,117 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2021-04-03 22:19:07,118 - tools.report.log_tool - INFO - 定位元素 //div[@class='title'] 
+2021-04-03 22:19:07,162 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="8384535993df0e42ce3b8405b7bb9ee3", element="9b3e0161-0d8f-4339-a0e3-de43e732d9d7")>  的展示文本为:  客户管理 
+2021-04-03 22:19:07,162 - tools.report.log_tool - INFO - 定位元素 (//tr[@class='el-table__row'])[1] 
+2021-04-03 22:19:07,219 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="8384535993df0e42ce3b8405b7bb9ee3", element="731434ee-71d4-4bdb-b669-a98606776aaa")>  的展示文本为:  ['2875', '自动化测试_010', '自动化测试_010', 'auto_010', '公开课虚拟公司', '项目学习', '有效', 'auto_010自动化测试，请勿修改操作，谢谢。', '2021-04-03', '22:11:34'] 
+2021-04-03 22:19:42,137 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2021-04-03 22:19:42,137 - tools.report.log_tool - INFO - 定位元素 //i[@class='icon iconfont icon-kehu']/.. 
+2021-04-03 22:19:42,167 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="b2989a3300022e0f315782340000f971", element="0ab62cd9-7aa5-4dd2-a1d9-960abf2e7543")> 
+2021-04-03 22:19:43,797 - tools.report.log_tool - INFO - 定位元素 //div[@class='title'] 
+2021-04-03 22:19:43,977 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="b2989a3300022e0f315782340000f971", element="9b3e0161-0d8f-4339-a0e3-de43e732d9d7")>  的展示文本为:  客户管理 
+2021-04-03 22:19:43,997 - tools.report.log_tool - INFO - 获取当前页面的url https://customer-uat.transtalent.cn/#/customer 
+2021-04-03 22:19:44,017 - tools.report.log_tool - INFO - 本条测试用例结束时间：2021-04-03 22:19:44
+2021-04-03 22:19:44,017 - tools.report.log_tool - INFO - 定位元素 //button[@class='el-button el-button--primary'] 
+2021-04-03 22:19:44,087 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="b2989a3300022e0f315782340000f971", element="3091a27d-1fe8-4255-a11b-aef85847a9e5")> 
+2021-04-03 22:19:44,776 - tools.report.log_tool - INFO - 定位元素 //div[@class='title'] 
+2021-04-03 22:19:44,989 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="b2989a3300022e0f315782340000f971", element="26dbcb0f-214d-4c2f-aa6e-ded176fb6903")>  的展示文本为:  新增客户 
+2021-04-03 22:19:44,991 - tools.report.log_tool - INFO - 获取当前页面的url https://customer-uat.transtalent.cn/#/NewCustomer 
+2021-04-03 22:19:45,001 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入公司名称'] 
+2021-04-03 22:19:45,031 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="b2989a3300022e0f315782340000f971", element="5e4d5b39-5a1a-4404-bb53-6b867ed09564")> 中输入： 自动化测试_011 
+2021-04-03 22:19:45,476 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入公司别名'] 
+2021-04-03 22:19:45,506 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="b2989a3300022e0f315782340000f971", element="9d42a195-8e58-4319-a2db-7bdfababe82b")> 中输入： 自动化测试_011 
+2021-04-03 22:19:45,929 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入公司缩写'] 
+2021-04-03 22:19:45,958 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="b2989a3300022e0f315782340000f971", element="2ba0814b-b5e4-46ba-a1a5-dc9b88d3dab6")> 中输入： auto_011 
+2021-04-03 22:19:46,367 - tools.report.log_tool - INFO - 定位元素 //input[@placeholder='请选择'] 
+2021-04-03 22:19:46,394 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="b2989a3300022e0f315782340000f971", element="83520444-2c18-46a0-8f85-30b2a20d4c73")> 
+2021-04-03 22:19:46,956 - tools.report.log_tool - INFO - 定位元素 (//li[@class='el-select-dropdown__item'])[1] 
+2021-04-03 22:19:47,556 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="b2989a3300022e0f315782340000f971", element="d31bc75f-f6a3-481b-b396-a79ace08e134")> 
+2021-04-03 22:19:48,086 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入备注信息'] 
+2021-04-03 22:19:48,134 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="b2989a3300022e0f315782340000f971", element="f6b82366-434a-4c24-a35c-22c9b155ceaf")> 中输入： auto_011自动化测试，请勿修改操作，谢谢。 
+2021-04-03 22:19:48,743 - tools.report.log_tool - INFO - 定位元素 //span[text()='保存'] 
+2021-04-03 22:19:48,770 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="b2989a3300022e0f315782340000f971", element="62e71a51-6dc0-4ea7-b511-bcd4f4159fee")> 
+2021-04-03 22:19:50,355 - tools.report.log_tool - INFO - 定位元素 (//tr[@class='el-table__row'])[1] 
+2021-04-03 22:19:50,434 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="b2989a3300022e0f315782340000f971", element="fb54f778-15e5-4ec9-a145-7b8cc49b9a09")>  的展示文本为:  ['2876', '自动化测试_011', '自动化测试_011', 'auto_011', '公开课虚拟公司', '项目学习', '有效', 'auto_011自动化测试，请勿修改操作，谢谢。', '2021-04-03', '22:19:50'] 
+2021-04-03 22:48:58,651 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2021-04-03 22:48:58,653 - tools.report.log_tool - INFO - 打开网址： https://customer-uat.transtalent.cn/#/login 
+2021-04-03 22:48:58,742 - tools.report.log_tool - INFO - 定位元素 //input[@placeholder='用户名'] 
+2021-04-03 22:48:58,781 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="4e1c4fb272cbaad171f0e8b324f891e9", element="e597af8b-8684-499a-b91c-d3f2001583de")> 中输入： longhai 
+2021-04-03 22:48:59,110 - tools.report.log_tool - INFO - 定位元素 //input[@placeholder='密码'] 
+2021-04-03 22:48:59,140 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="4e1c4fb272cbaad171f0e8b324f891e9", element="7c20574b-5ed2-42d4-9926-c871b3efeb46")> 中输入： q123456 
+2021-04-03 22:48:59,477 - tools.report.log_tool - INFO - 定位元素 //button 
+2021-04-03 22:48:59,510 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="4e1c4fb272cbaad171f0e8b324f891e9", element="2de707be-8bb3-4cec-a9a8-a77c34291fab")> 
+2021-04-03 22:49:01,063 - tools.report.log_tool - INFO - 获取当前页面的url https://customer-uat.transtalent.cn/#/channel 
+2021-04-03 22:49:01,084 - tools.report.log_tool - INFO - 定位元素 (//li[@class='el-menu-item']//i)[1] 
+2021-04-03 22:49:01,154 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="4e1c4fb272cbaad171f0e8b324f891e9", element="55d9fbbe-3fd0-42be-b65e-c32d0ece24f2")>  属性:  class  的值为:  icon iconfont icon-qudao 
+2021-04-03 22:49:01,155 - tools.report.log_tool - INFO - 定位元素 (//li[@class='el-menu-item']//i)[2] 
+2021-04-03 22:49:01,231 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="4e1c4fb272cbaad171f0e8b324f891e9", element="d7516f9b-d634-4fa6-b6f1-0b18ca61d927")>  属性:  class  的值为:  icon iconfont icon-kehu 
+2021-04-03 22:49:01,231 - tools.report.log_tool - INFO - 定位元素 (//li[@class='el-menu-item']//i)[3] 
+2021-04-03 22:49:01,289 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="4e1c4fb272cbaad171f0e8b324f891e9", element="1a5f11d2-a9e2-4451-a998-0d229a0ec47b")>  属性:  class  的值为:  icon iconfont icon-dingdan 
+2021-04-03 22:49:01,289 - tools.report.log_tool - INFO - 定位元素 (//li[@class='el-menu-item']//i)[4] 
+2021-04-03 22:49:01,340 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="4e1c4fb272cbaad171f0e8b324f891e9", element="5e41b4ef-fd12-4bdd-bb09-cd2160163d2e")>  属性:  class  的值为:  icon iconfont icon-xueyuan 
+2021-04-03 22:49:01,340 - tools.report.log_tool - INFO - 定位元素 (//li[@class='el-menu-item']//i)[5] 
+2021-04-03 22:49:01,370 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="4e1c4fb272cbaad171f0e8b324f891e9", element="630ae8f7-1f7c-4154-853d-e3cff23d9d50")>  属性:  class  的值为:  icon iconfont icon-jindu 
+2021-04-03 22:49:01,371 - tools.report.log_tool - INFO - 定位元素 (//li[@class='el-menu-item']//i)[6] 
+2021-04-03 22:49:01,407 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="4e1c4fb272cbaad171f0e8b324f891e9", element="7891a3aa-25a1-44c1-b584-b4eaffcefde9")>  属性:  class  的值为:  icon iconfont icon-baogao 
+2021-04-03 22:49:01,407 - tools.report.log_tool - INFO - 定位元素 (//li[@class='el-menu-item']//i)[7] 
+2021-04-03 22:49:01,442 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="4e1c4fb272cbaad171f0e8b324f891e9", element="f0d86696-8f1b-447b-a29c-dde97909de10")>  属性:  class  的值为:  icon iconfont icon-yonghu 
+2021-04-03 22:49:01,442 - tools.report.log_tool - INFO - 定位元素 (//li[@class='el-menu-item']//i)[8] 
+2021-04-03 22:49:01,487 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="4e1c4fb272cbaad171f0e8b324f891e9", element="a67f0764-cd3c-4e6a-a861-708e5b828cd8")>  属性:  class  的值为:  icon iconfont icon-cleanstudy 
+2021-04-03 22:49:01,487 - tools.report.log_tool - INFO - 定位元素 (//li[@class='el-menu-item']//i)[9] 
+2021-04-03 22:49:01,523 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="4e1c4fb272cbaad171f0e8b324f891e9", element="0b16735a-4410-49c0-b196-caa2d4c80ff7")>  属性:  class  的值为:  icon iconfont icon-mima 
+2021-04-03 22:49:01,523 - tools.report.log_tool - INFO - 定位元素 //span[@class='el-dropdown-link el-dropdown-selfdefine'] 
+2021-04-03 22:49:01,562 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="4e1c4fb272cbaad171f0e8b324f891e9", element="9ccd9b72-0942-4487-bda4-91c4abaa9ba7")>  的展示文本为:  管理员 longhai 
+2021-04-03 22:49:01,567 - tools.report.log_tool - INFO - 获取当前页面的url https://customer-uat.transtalent.cn/#/channel 
+2021-04-03 22:49:48,842 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2021-04-03 22:49:48,842 - tools.report.log_tool - INFO - 打开网址： https://customer-uat.transtalent.cn/#/login 
+2021-04-03 22:49:48,894 - tools.report.log_tool - INFO - 定位元素 //input[@placeholder='用户名'] 
+2021-04-03 22:49:48,945 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="f20439c30d80909137b41805b7e748bd", element="288217a6-a484-4fc7-b213-c0160b7b7974")> 中输入： longhai 
+2021-04-03 22:49:49,279 - tools.report.log_tool - INFO - 定位元素 //input[@placeholder='密码'] 
+2021-04-03 22:49:49,308 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="f20439c30d80909137b41805b7e748bd", element="7f87424b-4dd8-43ce-ace9-a75bacb82499")> 中输入： q123456 
+2021-04-03 22:49:49,644 - tools.report.log_tool - INFO - 定位元素 //button 
+2021-04-03 22:49:49,673 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="f20439c30d80909137b41805b7e748bd", element="e408be0d-9f7b-4984-af04-7ba71c77af4c")> 
+2021-04-03 22:49:51,284 - tools.report.log_tool - INFO - 获取当前页面的url https://customer-uat.transtalent.cn/#/channel 
+2021-04-03 22:50:10,950 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2021-04-03 22:50:10,951 - tools.report.log_tool - INFO - 定位元素 //i[@class='icon iconfont icon-qudao']/.. 
+2021-04-03 22:50:10,978 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="c2ab18158cf627b2cde1547bfe031b42", element="631a96b1-1cda-4d3a-a47f-71e2bb520214")> 
+2021-04-03 22:50:12,520 - tools.report.log_tool - INFO - 获取当前页面的url https://customer-uat.transtalent.cn/#/channel 
+2021-04-03 22:50:13,532 - tools.report.log_tool - INFO - 定位元素 //button[@class='el-button el-button--primary'] 
+2021-04-03 22:50:13,612 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="c2ab18158cf627b2cde1547bfe031b42", element="7260d379-7e3a-4e6a-82bd-fd13228285c2")> 
+2021-04-03 22:50:14,175 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入渠道名称'] 
+2021-04-03 22:50:14,372 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="c2ab18158cf627b2cde1547bfe031b42", element="ce6a4971-d49c-4b37-923c-418aa1581170")> 中输入： 自动化测试渠道 
+2021-04-03 22:50:14,760 - tools.report.log_tool - INFO - 定位元素 //li[text()='自动化'] 
+2021-04-03 22:50:14,790 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="c2ab18158cf627b2cde1547bfe031b42", element="70ce4d6f-9c79-47c9-aa0d-2b9af3d8d94f")> 
+2021-04-03 22:50:15,325 - tools.report.log_tool - INFO - 定位元素 //button[@class='el-button el-button--primary'] 
+2021-04-03 22:50:15,356 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="c2ab18158cf627b2cde1547bfe031b42", element="f8d4f646-426f-4799-a1b6-2c9303dbc9ec")> 
+2021-04-03 22:50:15,904 - tools.report.log_tool - INFO - 定位元素 (//tr[@class='el-table__row'])[1] 
+2021-04-03 22:50:16,311 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="c2ab18158cf627b2cde1547bfe031b42", element="3937ea80-b84a-4185-91df-79bf8ac38c63")>  的展示文本为:  ['237', '自动化测试渠道', '自动化', '2021-04-03', '22:50:16'] 
+2021-04-03 22:52:14,530 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2021-04-03 22:52:14,531 - tools.report.log_tool - INFO - 定位元素 //i[@class='icon iconfont icon-qudao']/.. 
+2021-04-03 22:52:14,560 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="c76669382acc1454da51ea42ca5f9e46", element="631a96b1-1cda-4d3a-a47f-71e2bb520214")> 
+2021-04-03 22:52:16,167 - tools.report.log_tool - INFO - 获取当前页面的url https://customer-uat.transtalent.cn/#/channel 
+2021-04-03 22:52:17,192 - tools.report.log_tool - INFO - 定位元素 //button[@class='el-button el-button--primary'] 
+2021-04-03 22:52:17,212 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="c76669382acc1454da51ea42ca5f9e46", element="9f5479ec-fb22-4595-adf3-aaae817df246")> 
+2021-04-03 22:52:17,804 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入渠道名称'] 
+2021-04-03 22:52:17,933 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="c76669382acc1454da51ea42ca5f9e46", element="047e7f58-a4fc-4c24-8979-8e452644c2fc")> 中输入： 自动化测试渠道 
+2021-04-03 22:52:18,333 - tools.report.log_tool - INFO - 定位元素 //li[text()='自动化'] 
+2021-04-03 22:52:18,364 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="c76669382acc1454da51ea42ca5f9e46", element="611bad14-5fbc-4834-bc14-974e3d465170")> 
+2021-04-03 22:52:18,960 - tools.report.log_tool - INFO - 定位元素 //button[@class='el-button el-button--primary'] 
+2021-04-03 22:52:18,999 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="c76669382acc1454da51ea42ca5f9e46", element="191057bc-e540-4dcd-acc3-b186ad3e13d4")> 
+2021-04-03 22:52:19,542 - tools.report.log_tool - INFO - 定位元素 (//tr[@class='el-table__row'])[1] 
+2021-04-03 22:52:19,929 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="c76669382acc1454da51ea42ca5f9e46", element="921a84b8-1751-4479-b221-5dcddb660f91")>  的展示文本为:  ['238', '自动化测试渠道', '自动化', '2021-04-03', '22:52:19'] 
+2021-04-03 22:52:19,929 - tools.report.log_tool - INFO - 定位元素 //*[@id='out-table']/div[4]/div[2]/table/tbody/tr[1]/td[5]/div/button[1] 
+2021-04-03 22:52:19,964 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="c76669382acc1454da51ea42ca5f9e46", element="24688998-b0c2-4f81-904f-b380b60531a2")> 
+2021-04-03 22:52:20,552 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入渠道名称'] 
+2021-04-03 22:52:20,766 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="c76669382acc1454da51ea42ca5f9e46", element="3040d363-6d22-4eec-a00e-a9396fd3787f")> 中输入： AUTO自动化测试渠道_UPDATE 
+2021-04-03 22:52:21,320 - tools.report.log_tool - INFO - 定位元素 (//div[@class='close el-icon-close'])[1] 
+2021-04-03 22:52:21,347 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="c76669382acc1454da51ea42ca5f9e46", element="58037438-95f5-473a-aa61-83c62774e81c")> 
+2021-04-03 22:52:21,904 - tools.report.log_tool - INFO - 定位元素 //button[@class='el-button el-button--primary'] 
+2021-04-03 22:52:21,940 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="c76669382acc1454da51ea42ca5f9e46", element="1c340b90-efb2-40f9-8292-0b7cce1d900f")> 
+2021-04-03 22:52:22,503 - tools.report.log_tool - INFO - 定位元素 (//tr[@class='el-table__row'])[1] 
+2021-04-03 22:52:22,866 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="c76669382acc1454da51ea42ca5f9e46", element="ac83b13e-de11-403d-a5e5-95e62bdb4a47")>  的展示文本为:  ['238', 'AUTO自动化测试渠道_UPDATE', '2021-04-03', '22:52:19'] 
+2021-04-03 22:53:25,789 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2021-04-03 22:53:25,790 - tools.report.log_tool - INFO - 定位元素 //i[@class='icon iconfont icon-qudao']/.. 
+2021-04-03 22:53:25,817 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="c582e58ff6b2276895962e682067384b", element="631a96b1-1cda-4d3a-a47f-71e2bb520214")> 
+2021-04-03 22:53:27,420 - tools.report.log_tool - INFO - 获取当前页面的url https://customer-uat.transtalent.cn/#/channel 
+2021-04-03 22:53:28,442 - tools.report.log_tool - INFO - 定位元素 //button[@class='el-button el-button--primary'] 
+2021-04-03 22:53:28,522 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="c582e58ff6b2276895962e682067384b", element="a5e63f7c-53c7-446e-be3a-7ac57332b88a")> 
+2021-04-03 22:53:29,126 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入渠道名称'] 
+2021-04-03 22:53:29,254 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="c582e58ff6b2276895962e682067384b", element="45d62402-3a4f-4ac7-ac93-da003aeb66af")> 中输入： 自动化测试渠道 
+2021-04-03 22:53:29,683 - tools.report.log_tool - INFO - 定位元素 //li[text()='自动化'] 
+2021-04-03 22:53:29,717 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="c582e58ff6b2276895962e682067384b", element="d9bd3a2f-e589-4031-989c-aafb92dce56a")> 
+2021-04-03 22:53:30,283 - tools.report.log_tool - INFO - 定位元素 //button[@class='el-button el-button--primary'] 
+2021-04-03 22:53:30,324 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="c582e58ff6b2276895962e682067384b", element="2595dd6a-5548-4db1-b24c-4a7787200eec")> 
+2021-04-03 22:53:30,893 - tools.report.log_tool - INFO - 定位元素 (//tr[@class='el-table__row'])[1] 
+2021-04-03 22:53:31,267 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="c582e58ff6b2276895962e682067384b", element="42acaf68-86b6-4846-a0c7-43eeb9f44616")>  的展示文本为:  ['239', '自动化测试渠道', '自动化', '2021-04-03', '22:53:31'] 
+2021-04-03 22:53:31,267 - tools.report.log_tool - INFO - 定位元素 //*[@id='out-table']/div[4]/div[2]/table/tbody/tr[1]/td[5]/div/button[1] 
+2021-04-03 22:53:31,310 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="c582e58ff6b2276895962e682067384b", element="dd4af703-579e-4967-bf93-8baa0afa9a81")> 
+2021-04-03 22:53:31,898 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入渠道名称'] 
+2021-04-03 22:53:32,028 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="c582e58ff6b2276895962e682067384b", element="5d9df9c9-1d54-402d-9e7c-6a0ae58f5ae1")> 中输入： AUTO自动化测试渠道_UPDATE 
+2021-04-03 22:53:32,632 - tools.report.log_tool - INFO - 定位元素 (//div[@class='close el-icon-close'])[1] 
+2021-04-03 22:53:32,682 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="c582e58ff6b2276895962e682067384b", element="27fc0d0c-5f8c-4872-a0e6-b79da7f719d8")> 
+2021-04-03 22:53:33,222 - tools.report.log_tool - INFO - 定位元素 //button[@class='el-button el-button--primary'] 
+2021-04-03 22:53:33,256 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="c582e58ff6b2276895962e682067384b", element="fcc2f242-714a-48bb-a329-3f4f9d92ac0b")> 
+2021-04-03 22:53:33,786 - tools.report.log_tool - INFO - 定位元素 (//tr[@class='el-table__row'])[1] 
+2021-04-03 22:53:34,159 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="c582e58ff6b2276895962e682067384b", element="6b3b9412-5c10-467d-b75c-4f48a3bbc9bc")>  的展示文本为:  ['239', 'AUTO自动化测试渠道_UPDATE', '2021-04-03', '22:53:31'] 
+2021-04-03 22:53:34,160 - tools.report.log_tool - INFO - 定位元素 //*[@id='out-table']/div[4]/div[2]/table/tbody/tr[1]/td[5]/div/button[2] 
+2021-04-03 22:53:34,201 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="c582e58ff6b2276895962e682067384b", element="9c8ced1f-c4ca-4ac9-a335-1e373a357cc1")> 
+2021-04-03 22:53:34,787 - tools.report.log_tool - INFO - 定位元素 //button[@class='el-button el-button--default el-button--small el-button--primary '] 
+2021-04-03 22:53:34,843 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="c582e58ff6b2276895962e682067384b", element="7b013bcd-9ef4-478d-a60f-896b9a3d6997")> 
+2021-04-03 22:53:36,430 - tools.report.log_tool - INFO - 获取当前页面的url https://customer-uat.transtalent.cn/#/channel 
+2021-04-03 22:53:37,453 - tools.report.log_tool - INFO - 本条测试用例结束时间：2021-04-03 22:53:37
+2021-04-03 22:54:20,732 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2021-04-03 22:54:20,732 - tools.report.log_tool - INFO - 定位元素 //i[@class='icon iconfont icon-kehu']/.. 
+2021-04-03 22:54:20,762 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="bcb00a522411b2e66468e0cf2246ff46", element="caaf81e5-d6b7-42a2-844d-76f3bd5fed74")> 
+2021-04-03 22:54:22,391 - tools.report.log_tool - INFO - 定位元素 //div[@class='title'] 
+2021-04-03 22:54:22,464 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="bcb00a522411b2e66468e0cf2246ff46", element="f8d926c8-97f6-4867-8913-99c9ec99a538")>  的展示文本为:  客户管理 
+2021-04-03 22:54:22,470 - tools.report.log_tool - INFO - 获取当前页面的url https://customer-uat.transtalent.cn/#/customer 
+2021-04-03 22:54:22,476 - tools.report.log_tool - INFO - 本条测试用例结束时间：2021-04-03 22:54:22
+2021-04-03 22:54:22,477 - tools.report.log_tool - INFO - 定位元素 //button[@class='el-button el-button--primary'] 
+2021-04-03 22:54:22,506 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="bcb00a522411b2e66468e0cf2246ff46", element="e2b2ccce-da3c-4071-bbae-bd5a5cce31ee")> 
+2021-04-03 22:54:23,208 - tools.report.log_tool - INFO - 定位元素 //div[@class='title'] 
+2021-04-03 22:54:23,436 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="bcb00a522411b2e66468e0cf2246ff46", element="e9f08ece-70b2-4c44-9583-209608b5bcbf")>  的展示文本为:  新增客户 
+2021-04-03 22:54:23,442 - tools.report.log_tool - INFO - 获取当前页面的url https://customer-uat.transtalent.cn/#/NewCustomer 
+2021-04-03 22:54:23,446 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入公司名称'] 
+2021-04-03 22:54:23,474 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="bcb00a522411b2e66468e0cf2246ff46", element="b28ebf12-014c-45c1-9ca2-7fe576b71034")> 中输入： 自动化测试_013 
+2021-04-03 22:54:23,949 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入公司别名'] 
+2021-04-03 22:54:23,979 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="bcb00a522411b2e66468e0cf2246ff46", element="fd09eea4-11db-46e0-8d85-5a2477fb6367")> 中输入： 自动化测试_013 
+2021-04-03 22:54:24,404 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入公司缩写'] 
+2021-04-03 22:54:24,444 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="bcb00a522411b2e66468e0cf2246ff46", element="0906fa0e-c59a-4f2c-9728-ab5766f38054")> 中输入： auto_013 
+2021-04-03 22:54:24,869 - tools.report.log_tool - INFO - 定位元素 //input[@placeholder='请选择'] 
+2021-04-03 22:54:24,902 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="bcb00a522411b2e66468e0cf2246ff46", element="24983423-7885-437c-bb6a-0b35f02d9ff4")> 
+2021-04-03 22:54:25,459 - tools.report.log_tool - INFO - 定位元素 (//li[@class='el-select-dropdown__item'])[1] 
+2021-04-03 22:54:26,029 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="bcb00a522411b2e66468e0cf2246ff46", element="cdf4cb99-594a-4d2b-ba6a-f779b35b99be")> 
+2021-04-03 22:54:26,609 - tools.report.log_tool - INFO - 定位元素 //textarea[@placeholder='请输入备注信息'] 
+2021-04-03 22:54:26,672 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="bcb00a522411b2e66468e0cf2246ff46", element="3f4578b8-c5e2-48a8-bd01-5471b3ff4022")> 中输入： auto_013自动化测试，请勿修改操作，谢谢。 
+2021-04-03 22:54:27,336 - tools.report.log_tool - INFO - 定位元素 //span[text()='保存'] 
+2021-04-03 22:54:27,360 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="bcb00a522411b2e66468e0cf2246ff46", element="a48dd60b-3108-42e8-9006-3b631bf38931")> 
+2021-04-03 22:54:28,931 - tools.report.log_tool - INFO - 定位元素 (//tr[@class='el-table__row'])[1] 
+2021-04-03 22:54:29,045 - tools.report.log_tool - INFO - 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="bcb00a522411b2e66468e0cf2246ff46", element="22b88ebd-e135-4c96-a1ad-a0166a225694")>  的展示文本为:  ['2877', '自动化测试_013', '自动化测试_013', 'auto_013', '公开课虚拟公司', '项目学习', '有效', 'auto_013自动化测试，请勿修改操作，谢谢。', '2021-04-03', '22:54:28'] 
+2021-04-04 12:42:22,706 - tools.report.log_tool - INFO - -------测试开始，启动chrome_debugger浏览器成功------- 
+2021-04-04 12:42:22,708 - tools.report.log_tool - INFO - 打开网址： https://customer-uat.transtalent.cn/#/login 
+2021-04-04 12:42:23,764 - tools.report.log_tool - INFO - 定位元素 //input[@placeholder='用户名'] 
+2021-04-04 12:42:23,999 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="56fb4ec68a3d53a35a8557be36716c42", element="029ea700-c97d-47d3-8804-8d7abf488b16")> 中输入： longhai 
+2021-04-04 12:42:24,407 - tools.report.log_tool - INFO - 定位元素 //input[@placeholder='密码'] 
+2021-04-04 12:42:24,436 - tools.report.log_tool - INFO - <selenium.webdriver.remote.webelement.WebElement (session="56fb4ec68a3d53a35a8557be36716c42", element="5b8089cc-111c-4438-9c08-65ca7c5a38e1")> 中输入： q123456 
+2021-04-04 12:42:24,797 - tools.report.log_tool - INFO - 定位元素 //button 
+2021-04-04 12:42:24,825 - tools.report.log_tool - INFO - 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="56fb4ec68a3d53a35a8557be36716c42", element="a8ed7e3b-283c-4b1a-9e8f-33c0b58ff70f")> 
+2021-04-04 12:42:26,377 - tools.report.log_tool - INFO - 获取当前页面的url https://customer-uat.transtalent.cn/#/channel 

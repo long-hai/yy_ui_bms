@@ -1,0 +1,10 @@
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 //*[@id='out-table']/div[3]/table/tbody/tr/td[4]/div 
+INFO     tools.report.log_tool:log_tool.py:36 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="cc9cbf2b-802f-4ad9-b6ce-3e1718a925cc")>  的展示文本为:  AN141 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 (//input[@placeholder='根据姓名/手机号/账号搜索学员'])[1] 
+INFO     tools.report.log_tool:log_tool.py:36 <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="c6e25c14-1fcb-4d80-aebc-557780e0b03e")> 中输入： AN141 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 (//span[@class='el-checkbox__inner'])[2] 
+INFO     tools.report.log_tool:log_tool.py:36 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="51a7dd1e-0964-4d5a-981a-71bbfc3bc38e")> 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 //button[@aria-haspopup='list'] 
+INFO     tools.report.log_tool:log_tool.py:36 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="c5a47ba3-7616-4288-ba9b-2cb6d14e0362")> 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 (//div[text()='导出学员'])[1] 
+INFO     tools.report.log_tool:log_tool.py:36 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="64f78cc4-f1c5-4d67-be13-52c70523c6ff")>

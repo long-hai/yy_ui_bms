@@ -1,0 +1,192 @@
+{
+  "uid" : "4eb740e1a8140c5e",
+  "name" : "1-新增学员",
+  "fullName" : "Test_Customer.Test_M05_Student.Test_M05_Student.TestStudent#test_ty_add",
+  "historyId" : "4fcd7ffe38a88f3a277e22994d0b5613",
+  "time" : {
+    "start" : 1617810130496,
+    "stop" : 1617810145674,
+    "duration" : 15178
+  },
+  "status" : "failed",
+  "statusMessage" : "AssertionError",
+  "statusTrace" : "self = <Test_Customer.Test_M05_Student.Test_M05_Student.TestStudent object at 0x000001A0C89CE828>\ndriver = <tools.ui.base_ui.BaseUI object at 0x000001A0C870F390>\n\n    @allure.story(\"学员管理-体验课\")\n    @allure.title(\"1-新增学员\")\n    def test_ty_add(self, driver):\n        driver.refresh()\n>       B_stu.student_add(driver, \"体验课\", \"Auto_测试渠道\")\n\nTest_Customer\\Test_M05_Student\\Test_M05_Student.py:117: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\nself = <business.business_student.BusinessStudent object at 0x000001A0C761A320>\ndriver = <tools.ui.base_ui.BaseUI object at 0x000001A0C870F390>, course = '体验课'\nchannel = 'Auto_测试渠道'\n\n    def student_add(self, driver, course=None, channel=None):\n        step = 2\n        with allure.step(\"步骤1：点击{}\".format(course)):\n            driver.click(self.L_stu.stu_choice_course.format(course))  # 点击***课\n            time.sleep(1)\n        if course == \"内训课\":\n            num = 1\n            with allure.step(\"步骤2：选择公司\"):\n                driver.send_keys(self.L_stu.stu_choice_company, '{}'.format(channel))  # 选择***\n                driver.choose_channel()\n            with allure.step(\"步骤3：点击新增学员\"):\n                driver.click(self.L_stu.stu_nx_add)  # 点击新增学员\n                time.sleep(1)\n        elif course == \"体验课\":\n            num = 2\n            with allure.step(\"步骤2：选择渠道\"):\n                driver.send_keys(self.L_stu.stu_choice_channel, '{}'.format(channel))  # 选择***\n                driver.choose_channel()\n            with allure.step(\"步骤3：点击新增学员\"):\n                driver.click(self.L_stu.stu_other_add)  # 点击新增学员\n                time.sleep(0.5)\n        else:\n            num = 1\n            with allure.step(\"步骤2：点击新增学员\"):\n                driver.click(self.L_stu.stu_other_add)  # 点击新增学员\n                time.sleep(0.5)\n        step = step + num\n        with allure.step(\"步骤{}：输入学员信息\".format(step)):\n            s_company = driver.get_text(self.L_stu.stu_company_name)  # 获取当前公司名称\n            company_abbr = driver.get_text(self.L_stu.stu_company_abbr)\n            employee_number = int(db_select.get_employe_number(s_company))  # 获取当前渠道学员员工号\n            account_number = company_abbr + str(employee_number)  # 获取账号==》断言用\n            sex = random_tool.random_sex()\n            s_name = \"{}_{}\".format(company_abbr, employee_number)\n            driver.send_keys(self.L_stu.stu_name, \"{}\".format(s_name))  # 输入学员姓名\n            driver.send_keys(self.L_stu.stu_num, \"{}\".format(employee_number))  # 输入学员员工号\n            driver.click(self.L_stu.stu_random_sex.format(sex))  # 选择性别\n            driver.send_keys(self.L_stu.stu_phone, '')  # 输入手机号18017694162\n            driver.send_keys(self.L_stu.stu_department, '营销部')  # 输入部门\n            driver.send_keys(self.L_stu.stu_position, '销售')  # 输入职位\n            driver.send_keys(self.L_stu.stu_experience, '2')  # 输入经验年数\n            driver.send_keys(self.L_stu.stu_close, '2025-01-01 00:00:00')  # 输入关闭日期\n            driver.send_keys(self.L_stu.stu_description, '自动化测试添加学员，请勿操作，谢谢。')  # 输入备注\n            driver.click(self.L_stu.stu_choice_tag)  # 选择标签\n            driver.click(self.L_stu.stu_choice_all)  # 选择课程\n        step = step + 1\n        with allure.step(\"步骤{}：点击保存学员\".format(step)):\n            driver.click(self.L_stu.stu_save)  # 点击保存学员\n            time.sleep(1)\n    \n            first_line = self.L_stu.stu_first_line\n            if course == \"内训课\":\n                s_course = self.L_stu.stu_nx_course\n            elif course == \"公开课\":\n                s_course = self.L_stu.stu_gk_course\n            else:\n                s_course = self.L_stu.stu_ty_course\n                first_line = self.L_stu.stu_ty_first_line\n            stu_info = driver.get_text(first_line)\n            account_number_now = stu_info[1]\n            stu_name = stu_info[0]\n            stu_company = stu_info[2]\n            stu_course = stu_info[5]\n>           assert account_number_now == account_number and stu_name == s_name\nE           AssertionError\n\nbusiness\\business_student.py:97: AssertionError",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "driver",
+    "time" : {
+      "start" : 1617809897238,
+      "stop" : 1617809899566,
+      "duration" : 2328
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "AssertionError",
+    "statusTrace" : "self = <Test_Customer.Test_M05_Student.Test_M05_Student.TestStudent object at 0x000001A0C89CE828>\ndriver = <tools.ui.base_ui.BaseUI object at 0x000001A0C870F390>\n\n    @allure.story(\"学员管理-体验课\")\n    @allure.title(\"1-新增学员\")\n    def test_ty_add(self, driver):\n        driver.refresh()\n>       B_stu.student_add(driver, \"体验课\", \"Auto_测试渠道\")\n\nTest_Customer\\Test_M05_Student\\Test_M05_Student.py:117: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\nself = <business.business_student.BusinessStudent object at 0x000001A0C761A320>\ndriver = <tools.ui.base_ui.BaseUI object at 0x000001A0C870F390>, course = '体验课'\nchannel = 'Auto_测试渠道'\n\n    def student_add(self, driver, course=None, channel=None):\n        step = 2\n        with allure.step(\"步骤1：点击{}\".format(course)):\n            driver.click(self.L_stu.stu_choice_course.format(course))  # 点击***课\n            time.sleep(1)\n        if course == \"内训课\":\n            num = 1\n            with allure.step(\"步骤2：选择公司\"):\n                driver.send_keys(self.L_stu.stu_choice_company, '{}'.format(channel))  # 选择***\n                driver.choose_channel()\n            with allure.step(\"步骤3：点击新增学员\"):\n                driver.click(self.L_stu.stu_nx_add)  # 点击新增学员\n                time.sleep(1)\n        elif course == \"体验课\":\n            num = 2\n            with allure.step(\"步骤2：选择渠道\"):\n                driver.send_keys(self.L_stu.stu_choice_channel, '{}'.format(channel))  # 选择***\n                driver.choose_channel()\n            with allure.step(\"步骤3：点击新增学员\"):\n                driver.click(self.L_stu.stu_other_add)  # 点击新增学员\n                time.sleep(0.5)\n        else:\n            num = 1\n            with allure.step(\"步骤2：点击新增学员\"):\n                driver.click(self.L_stu.stu_other_add)  # 点击新增学员\n                time.sleep(0.5)\n        step = step + num\n        with allure.step(\"步骤{}：输入学员信息\".format(step)):\n            s_company = driver.get_text(self.L_stu.stu_company_name)  # 获取当前公司名称\n            company_abbr = driver.get_text(self.L_stu.stu_company_abbr)\n            employee_number = int(db_select.get_employe_number(s_company))  # 获取当前渠道学员员工号\n            account_number = company_abbr + str(employee_number)  # 获取账号==》断言用\n            sex = random_tool.random_sex()\n            s_name = \"{}_{}\".format(company_abbr, employee_number)\n            driver.send_keys(self.L_stu.stu_name, \"{}\".format(s_name))  # 输入学员姓名\n            driver.send_keys(self.L_stu.stu_num, \"{}\".format(employee_number))  # 输入学员员工号\n            driver.click(self.L_stu.stu_random_sex.format(sex))  # 选择性别\n            driver.send_keys(self.L_stu.stu_phone, '')  # 输入手机号18017694162\n            driver.send_keys(self.L_stu.stu_department, '营销部')  # 输入部门\n            driver.send_keys(self.L_stu.stu_position, '销售')  # 输入职位\n            driver.send_keys(self.L_stu.stu_experience, '2')  # 输入经验年数\n            driver.send_keys(self.L_stu.stu_close, '2025-01-01 00:00:00')  # 输入关闭日期\n            driver.send_keys(self.L_stu.stu_description, '自动化测试添加学员，请勿操作，谢谢。')  # 输入备注\n            driver.click(self.L_stu.stu_choice_tag)  # 选择标签\n            driver.click(self.L_stu.stu_choice_all)  # 选择课程\n        step = step + 1\n        with allure.step(\"步骤{}：点击保存学员\".format(step)):\n            driver.click(self.L_stu.stu_save)  # 点击保存学员\n            time.sleep(1)\n    \n            first_line = self.L_stu.stu_first_line\n            if course == \"内训课\":\n                s_course = self.L_stu.stu_nx_course\n            elif course == \"公开课\":\n                s_course = self.L_stu.stu_gk_course\n            else:\n                s_course = self.L_stu.stu_ty_course\n                first_line = self.L_stu.stu_ty_first_line\n            stu_info = driver.get_text(first_line)\n            account_number_now = stu_info[1]\n            stu_name = stu_info[0]\n            stu_company = stu_info[2]\n            stu_course = stu_info[5]\n>           assert account_number_now == account_number and stu_name == s_name\nE           AssertionError\n\nbusiness\\business_student.py:97: AssertionError",
+    "steps" : [ {
+      "name" : "步骤1：点击体验课",
+      "time" : {
+        "start" : 1617810131310,
+        "stop" : 1617810134108,
+        "duration" : 2798
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "步骤2：选择渠道",
+      "time" : {
+        "start" : 1617810134109,
+        "stop" : 1617810134723,
+        "duration" : 614
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "步骤3：点击新增学员",
+      "time" : {
+        "start" : 1617810134723,
+        "stop" : 1617810136454,
+        "duration" : 1731
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "步骤4：输入学员信息",
+      "time" : {
+        "start" : 1617810136454,
+        "stop" : 1617810143489,
+        "duration" : 7035
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "步骤5：点击保存学员",
+      "time" : {
+        "start" : 1617810143489,
+        "stop" : 1617810145674,
+        "duration" : 2185
+      },
+      "status" : "failed",
+      "statusMessage" : "AssertionError\n",
+      "statusTrace" : "  File \"D:\\myproject\\yy_ui_bms\\business\\business_student.py\", line 97, in student_add\n    assert account_number_now == account_number and stu_name == s_name\n",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : true,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ {
+      "uid" : "76b892e786bf150f",
+      "name" : "log",
+      "source" : "76b892e786bf150f.txt",
+      "type" : "text/plain",
+      "size" : 6108
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : true,
+    "attachmentsCount" : 1,
+    "stepsCount" : 5,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "driver::0",
+    "time" : {
+      "start" : 1617810215699,
+      "stop" : 1617810215699,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "学员管理-体验课"
+  }, {
+    "name" : "feature",
+    "value" : "M5学员管理"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Test_Customer.Test_M05_Student"
+  }, {
+    "name" : "suite",
+    "value" : "Test_M05_Student"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestStudent"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-823MG95"
+  }, {
+    "name" : "thread",
+    "value" : "9528-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Test_Customer.Test_M05_Student.Test_M05_Student"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "4eb740e1a8140c5e.json",
+  "parameterValues" : [ ]
+}

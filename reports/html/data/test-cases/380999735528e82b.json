@@ -1,0 +1,152 @@
+{
+  "uid" : "380999735528e82b",
+  "name" : "test_channel_edit",
+  "fullName" : "Test_Customer.Test_M02_Channel.Test_M02_Channel.TestChannel#test_channel_edit",
+  "historyId" : "1e34bc094a8a5fd444cd97f16f040513",
+  "time" : {
+    "start" : 1617809929517,
+    "stop" : 1617809933327,
+    "duration" : 3810
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "driver",
+    "time" : {
+      "start" : 1617809897238,
+      "stop" : 1617809899566,
+      "duration" : 2328
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "步骤1：点击编辑渠道",
+      "time" : {
+        "start" : 1617809929517,
+        "stop" : 1617809930126,
+        "duration" : 609
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "步骤2：修改渠道名称",
+      "time" : {
+        "start" : 1617809930126,
+        "stop" : 1617809932077,
+        "duration" : 1951
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "步骤3：点击保存",
+      "time" : {
+        "start" : 1617809932077,
+        "stop" : 1617809933327,
+        "duration" : 1250
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "da8de0b0c5f3d11f",
+      "name" : "log",
+      "source" : "da8de0b0c5f3d11f.txt",
+      "type" : "text/plain",
+      "size" : 1695
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 3,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "driver::0",
+    "time" : {
+      "start" : 1617810215699,
+      "stop" : 1617810215699,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "编辑渠道"
+  }, {
+    "name" : "feature",
+    "value" : "M2-渠道管理"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Test_Customer.Test_M02_Channel"
+  }, {
+    "name" : "suite",
+    "value" : "Test_M02_Channel"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestChannel"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-823MG95"
+  }, {
+    "name" : "thread",
+    "value" : "9528-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Test_Customer.Test_M02_Channel.Test_M02_Channel"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "380999735528e82b.json",
+  "parameterValues" : [ ]
+}

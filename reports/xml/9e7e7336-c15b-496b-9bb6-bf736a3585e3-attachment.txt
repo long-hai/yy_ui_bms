@@ -1,0 +1,3 @@
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 //i[@class='icon iconfont icon-xueyuan']/.. 
+INFO     tools.report.log_tool:log_tool.py:36 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="b11c1da7-813b-4e29-aae8-de90a59fbf9f")> 
+INFO     tools.report.log_tool:log_tool.py:36 获取当前页面的url https://customer-uat.transtalent.cn/#/studentListNew

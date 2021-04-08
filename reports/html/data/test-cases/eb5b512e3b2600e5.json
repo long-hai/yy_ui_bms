@@ -1,0 +1,132 @@
+{
+  "uid" : "eb5b512e3b2600e5",
+  "name" : "test_password_home",
+  "fullName" : "Test_Customer.Test_M10_Password.Test_M10_Password.TestPassword#test_password_home",
+  "historyId" : "0cf74dde853beb47365e825ddf688f59",
+  "time" : {
+    "start" : 1617810214023,
+    "stop" : 1617810215667,
+    "duration" : 1644
+  },
+  "status" : "failed",
+  "statusMessage" : "AssertionError",
+  "statusTrace" : "self = <Test_Customer.Test_M10_Password.Test_M10_Password.TestPassword object at 0x000001A0C8860780>\ndriver = <tools.ui.base_ui.BaseUI object at 0x000001A0C870F390>\n\n    @allure.story(\"学习数据管理主页\")\n    def test_password_home(self, driver):\n>       B_pwd.password_home(driver)\n\nTest_Customer\\Test_M10_Password\\Test_M10_Password.py:16: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\nself = <business.business_password.BusinessPassword object at 0x000001A0C86E4E10>\ndriver = <tools.ui.base_ui.BaseUI object at 0x000001A0C870F390>\n\n    def password_home(self, driver):\n        with allure.step(\"步骤1：点击修改密码\"):\n            driver.click(self.L_menu.menu_password)  # 点击修改密码\n            time.sleep(1)\n            # 断言是否进入修改密码页\n>           assert self.L_URL.URL_password == driver.get_url()\nE           AssertionError\n\nbusiness\\business_password.py:20: AssertionError",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "driver",
+    "time" : {
+      "start" : 1617809897238,
+      "stop" : 1617809899566,
+      "duration" : 2328
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "AssertionError",
+    "statusTrace" : "self = <Test_Customer.Test_M10_Password.Test_M10_Password.TestPassword object at 0x000001A0C8860780>\ndriver = <tools.ui.base_ui.BaseUI object at 0x000001A0C870F390>\n\n    @allure.story(\"学习数据管理主页\")\n    def test_password_home(self, driver):\n>       B_pwd.password_home(driver)\n\nTest_Customer\\Test_M10_Password\\Test_M10_Password.py:16: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\nself = <business.business_password.BusinessPassword object at 0x000001A0C86E4E10>\ndriver = <tools.ui.base_ui.BaseUI object at 0x000001A0C870F390>\n\n    def password_home(self, driver):\n        with allure.step(\"步骤1：点击修改密码\"):\n            driver.click(self.L_menu.menu_password)  # 点击修改密码\n            time.sleep(1)\n            # 断言是否进入修改密码页\n>           assert self.L_URL.URL_password == driver.get_url()\nE           AssertionError\n\nbusiness\\business_password.py:20: AssertionError",
+    "steps" : [ {
+      "name" : "步骤1：点击修改密码",
+      "time" : {
+        "start" : 1617810214023,
+        "stop" : 1617810215667,
+        "duration" : 1644
+      },
+      "status" : "failed",
+      "statusMessage" : "AssertionError\n",
+      "statusTrace" : "  File \"D:\\myproject\\yy_ui_bms\\business\\business_password.py\", line 20, in password_home\n    assert self.L_URL.URL_password == driver.get_url()\n",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : true,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ {
+      "uid" : "9723620c30073838",
+      "name" : "log",
+      "source" : "9723620c30073838.txt",
+      "type" : "text/plain",
+      "size" : 430
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : true,
+    "attachmentsCount" : 1,
+    "stepsCount" : 1,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "driver::0",
+    "time" : {
+      "start" : 1617810215699,
+      "stop" : 1617810215699,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "M10-学习数据管理"
+  }, {
+    "name" : "story",
+    "value" : "学习数据管理主页"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Test_Customer.Test_M10_Password"
+  }, {
+    "name" : "suite",
+    "value" : "Test_M10_Password"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestPassword"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-823MG95"
+  }, {
+    "name" : "thread",
+    "value" : "9528-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Test_Customer.Test_M10_Password.Test_M10_Password"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "eb5b512e3b2600e5.json",
+  "parameterValues" : [ ]
+}

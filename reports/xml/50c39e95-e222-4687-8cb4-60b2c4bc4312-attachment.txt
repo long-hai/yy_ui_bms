@@ -1,0 +1,6 @@
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 //*[@id='out-table']/div[4]/div[2]/table/tbody/tr[1]/td[5]/div/button[2] 
+INFO     tools.report.log_tool:log_tool.py:36 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="db038007-cc97-4e1a-8115-ede364881fb0")> 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 //button[@class='el-button el-button--default el-button--small el-button--primary '] 
+INFO     tools.report.log_tool:log_tool.py:36 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="7e032245-78c9-4941-90ec-911c96a113c5")> 
+INFO     tools.report.log_tool:log_tool.py:36 获取当前页面的url https://customer-uat.transtalent.cn/#/channel 
+INFO     tools.report.log_tool:log_tool.py:36 本条测试用例结束时间：2021-04-07 23:38:57

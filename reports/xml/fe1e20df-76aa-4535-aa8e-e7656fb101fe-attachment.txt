@@ -1,0 +1,8 @@
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 (//span[@class='el-checkbox__inner'])[2] 
+INFO     tools.report.log_tool:log_tool.py:36 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="7b6da20d-2f09-4961-9568-464436ca622b")> 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 //button[@aria-haspopup='list'] 
+INFO     tools.report.log_tool:log_tool.py:36 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="fce19e18-8518-4038-a4a7-65f73040badb")> 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 //div[text()='批量激活'] 
+INFO     tools.report.log_tool:log_tool.py:36 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="79f32c04-01da-4aea-859a-7f318caffe46")> 
+INFO     tools.report.log_tool:log_tool.py:36 定位元素 //*[@id='out-table']/div[3]/table/tbody/tr[1]/td[9]/div/span 
+INFO     tools.report.log_tool:log_tool.py:36 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="18143e15-7272-4b32-b338-0a2cde8c80ef")>  的展示文本为:  有效
