@@ -1,8 +1,8 @@
 {
   "total" : 10,
   "items" : [ {
-    "uid" : "4e00883813aa737e35b538ca3ee5cac7",
-    "name" : "M4-订单管理",
+    "uid" : "0d0b7bd9dcc06805f08c7784798d797d",
+    "name" : "M04-订单管理",
     "statistic" : {
       "failed" : 1,
       "broken" : 2,
@@ -12,74 +12,30 @@
       "total" : 4
     }
   }, {
-    "uid" : "23fe5e1d7801f5f644f2ca348e715da7",
-    "name" : "M5学员管理",
+    "uid" : "d17d2aa13ffc9a8b9e434fc5edc1b4ff",
+    "name" : "M05学员管理",
     "statistic" : {
-      "failed" : 1,
-      "broken" : 2,
+      "failed" : 0,
+      "broken" : 1,
       "skipped" : 0,
-      "passed" : 1,
+      "passed" : 3,
       "unknown" : 0,
       "total" : 4
     }
   }, {
-    "uid" : "82199f9837035f3e1dae88824146e59c",
-    "name" : "M06-学习数据看板",
+    "uid" : "666f7e296b1672b3ec79efa503af522f",
+    "name" : "M03-客户管理",
     "statistic" : {
-      "failed" : 1,
-      "broken" : 0,
+      "failed" : 0,
+      "broken" : 1,
       "skipped" : 0,
-      "passed" : 0,
+      "passed" : 1,
       "unknown" : 0,
-      "total" : 1
+      "total" : 2
     }
   }, {
-    "uid" : "88779be682ac519b65153c6fe6da23ea",
-    "name" : "M07-学习数据看板",
-    "statistic" : {
-      "failed" : 1,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 0,
-      "unknown" : 0,
-      "total" : 1
-    }
-  }, {
-    "uid" : "be8e75e9eb6742df79145e5ea0cc63b7",
-    "name" : "M08-用户管理",
-    "statistic" : {
-      "failed" : 1,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 0,
-      "unknown" : 0,
-      "total" : 1
-    }
-  }, {
-    "uid" : "be0782efd602c21317cf2e69b51de525",
-    "name" : "M09-学习数据管理",
-    "statistic" : {
-      "failed" : 1,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 0,
-      "unknown" : 0,
-      "total" : 1
-    }
-  }, {
-    "uid" : "8b2fe5afbabe3348a3f1de5257f04579",
-    "name" : "M10-学习数据管理",
-    "statistic" : {
-      "failed" : 1,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 0,
-      "unknown" : 0,
-      "total" : 1
-    }
-  }, {
-    "uid" : "43172e1a6413667ecebedff64d9b3088",
-    "name" : "M2-渠道管理",
+    "uid" : "c51794705559d9e86a318e000b3a22ec",
+    "name" : "M02-渠道管理",
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
@@ -89,19 +45,63 @@
       "total" : 4
     }
   }, {
-    "uid" : "2238eef98242dd29cd8017ee4aeb574f",
-    "name" : "M3-客户管理",
+    "uid" : "d4391c59044b380d9d75a73064e14351",
+    "name" : "M01-登录",
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 2,
+      "passed" : 1,
       "unknown" : 0,
-      "total" : 2
+      "total" : 1
     }
   }, {
-    "uid" : "6b776b4b68cc6f5bc6fba7264a2f1f98",
-    "name" : "M1-登录",
+    "uid" : "82199f9837035f3e1dae88824146e59c",
+    "name" : "M06-学习数据看板",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "88779be682ac519b65153c6fe6da23ea",
+    "name" : "M07-学习数据看板",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "be8e75e9eb6742df79145e5ea0cc63b7",
+    "name" : "M08-用户管理",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "be0782efd602c21317cf2e69b51de525",
+    "name" : "M09-学习数据管理",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "8b2fe5afbabe3348a3f1de5257f04579",
+    "name" : "M10-学习数据管理",
     "statistic" : {
       "failed" : 0,
       "broken" : 0,

@@ -10,7 +10,7 @@ from business.business_order import BusinessOrder
 B_order = BusinessOrder()
 
 
-@allure.feature("M4-订单管理")
+@allure.feature("M04-订单管理")
 class TestCompany(object):
 
     @allure.story("订单管理主页")

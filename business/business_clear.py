@@ -15,7 +15,7 @@ class BusinessClear(object):
     def clear_home(self, driver):
         with allure.step("步骤1：点击学习数据管理"):
             driver.click(self.L_menu.menu_clear)  # 点击学习数据管理
-            time.sleep(1)
+            time.sleep(2)
             # 断言是否进入学习数据管理页
             assert self.L_URL.URL_clear == driver.get_url()
             time.sleep(1)

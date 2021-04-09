@@ -44,7 +44,7 @@ class BusinessCompany(object):
             assert title == "新增客户" and self.L_URL.URL_company_new == driver.get_url()
         with allure.step("步骤3：输入公司信息"):
             # 输入公司信息
-            num = "017"
+            num = "018"
             driver.send_keys(self.L_company.company_name, '自动化测试_{}'.format(num))
             driver.send_keys(self.L_company.company_alias, '自动化测试_{}'.format(num))
             driver.send_keys(self.L_company.company_abbreviation, 'auto_{}'.format(num))

@@ -1,6 +1,0 @@
-INFO     tools.report.log_tool:log_tool.py:36 定位元素 //*[@id='out-table']/div[3]/table/tbody/tr/td[4]/div 
-INFO     tools.report.log_tool:log_tool.py:36 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="fe46737d-a64b-41d2-9c7f-1995b2d92a4b")>  的展示文本为:  test93 
-INFO     tools.report.log_tool:log_tool.py:36 定位元素 (//input[@placeholder='根据姓名/手机号/账号搜索学员'])[1] 
-INFO     tools.report.log_tool:log_tool.py:36 <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="afb81751-2657-4989-bc58-0b20deea6bf5")> 中输入： test93 
-INFO     tools.report.log_tool:log_tool.py:36 定位元素 (//i[@class='el-icon-edit'])[2]/.. 
-ERROR    tools.report.log_tool:log_tool.py:48 (//i[@class='el-icon-edit'])[2]/..定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式

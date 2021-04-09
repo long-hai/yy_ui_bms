@@ -13,4 +13,5 @@ class TestClear(object):
 
     @allure.story("学习数据管理主页")
     def test_clear_home(self, driver):
+        driver.refresh()
         B_clear.clear_home(driver)

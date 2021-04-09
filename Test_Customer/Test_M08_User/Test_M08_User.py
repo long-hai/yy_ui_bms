@@ -13,4 +13,5 @@ class TestUser(object):
 
     @allure.story("用户管理主页")
     def test_user_home(self, driver):
+        driver.refresh()
         B_user.user_home(driver)

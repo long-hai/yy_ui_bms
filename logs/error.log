@@ -1,10 +1,1 @@
-2021-04-06 13:31:55,108 - tools.report.log_tool - ERROR - (//i[@class='el-icon-edit'])[2]/..定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式
-2021-04-06 13:39:51,269 - tools.report.log_tool - ERROR - //div[@class="el-upload-dragger"]定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式
-2021-04-06 13:52:55,486 - tools.report.log_tool - ERROR - (//tr[@class="el-table__row"])[1]//td[2]定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式
-2021-04-06 13:58:29,191 - tools.report.log_tool - ERROR - ((//tr[@class="el-table__row"])[1])//td[2]定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式
-2021-04-06 14:08:57,598 - tools.report.log_tool - ERROR - ((//tr[@class="el-table__row"])[1])//td[2]定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式
-2021-04-06 14:16:01,067 - tools.report.log_tool - ERROR - (//tr[@class="el-table__row"][1])定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式
-2021-04-06 14:17:35,772 - tools.report.log_tool - ERROR - (//tr[@class="el-table__row"][1])[1]定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式
-2021-04-06 14:18:56,402 - tools.report.log_tool - ERROR - (//tr[@class="el-table__row"])[1]//td[5]定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式
-2021-04-06 14:20:06,880 - tools.report.log_tool - ERROR - (//tr[@class="el-table__row"][1])[5]定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式
-2021-04-06 14:44:14,983 - tools.report.log_tool - ERROR - (//tr[@class='el-table__row'])[1]定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式
+2021-04-09 10:15:38,970 - tools.report.log_tool - ERROR - //i[@class='icon iconfont icon-yonghu']/..定位元素超时，请检查定为语句是否正确，或者尝试其他定位方式

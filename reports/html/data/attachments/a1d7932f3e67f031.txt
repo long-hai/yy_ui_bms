@@ -1,6 +1,0 @@
-INFO     tools.report.log_tool:log_tool.py:36 定位元素 //i[@class='icon iconfont icon-dingdan']/.. 
-INFO     tools.report.log_tool:log_tool.py:36 点击元素： <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="fa90a9a6-ccfc-4436-bc8a-d201708402a9")> 
-INFO     tools.report.log_tool:log_tool.py:36 定位元素 //div[@class='title'] 
-INFO     tools.report.log_tool:log_tool.py:36 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="63bfddff-294f-441d-bb7d-a293da291f26")>  的展示文本为:  订单管理 
-INFO     tools.report.log_tool:log_tool.py:36 获取当前页面的url https://customer-uat.transtalent.cn/#/orderV2List 
-INFO     tools.report.log_tool:log_tool.py:36 本条测试用例结束时间：2021-04-07 23:39:08

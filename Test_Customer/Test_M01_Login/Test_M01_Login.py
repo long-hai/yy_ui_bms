@@ -10,7 +10,7 @@ from business.business_permission import BusinessPermission
 B_permission = BusinessPermission()
 
 
-@allure.feature("M1-登录")
+@allure.feature("M01-登录")
 class TestPermission(object):
 
     @allure.story("登录-校验权限")

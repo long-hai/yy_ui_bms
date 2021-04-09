@@ -13,4 +13,5 @@ class TestReport(object):
 
     @allure.story("学习数据看板主页")
     def test_report_home(self, driver):
+        driver.refresh()
         B_report.report_home(driver)

@@ -9,4 +9,5 @@ def driver():
     base = BaseUI()
     # 打开浏览器
     base.start_browser("headless")
+    # base.start_browser("chrome_debugger")
     yield base

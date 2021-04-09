@@ -10,7 +10,7 @@ from business.business_student import BusinessStudent
 B_stu = BusinessStudent()
 
 
-@allure.feature("M5学员管理")
+@allure.feature("M05学员管理")
 class TestStudent(object):
 
     @allure.story("学员管理主页")
@@ -58,10 +58,10 @@ class TestStudent(object):
     def test_nx_export(self, driver):
         B_stu.student_export(driver)
 
-    @allure.story("学员管理-内训课")
-    @allure.title("8-导入学员")
-    def test_nx_import(self, driver):
-        B_stu.student_import(driver)
+    # @allure.story("学员管理-内训课")
+    # @allure.title("8-导入学员")
+    # def test_nx_import(self, driver):
+    #     B_stu.student_import(driver)
 
     # 公开课测试用例
     # --------------------------------------------------------------------------------------
@@ -103,10 +103,10 @@ class TestStudent(object):
     def test_gk_export(self, driver):
         B_stu.student_export(driver)
 
-    @allure.story("学员管理-公开课")
-    @allure.title("8-导出学员")
-    def test_gk_import(self, driver):
-        B_stu.student_import(driver)
+    # @allure.story("学员管理-公开课")
+    # @allure.title("8-导入学员")
+    # def test_gk_import(self, driver):
+    #     B_stu.student_import(driver)
 
     # 体验课测试用例
     # --------------------------------------------------------------------------------------
@@ -148,7 +148,7 @@ class TestStudent(object):
     def test_ty_export(self, driver):
         B_stu.student_export(driver)
 
-    @allure.story("学员管理-体验课")
-    @allure.title("8-导出学员")
-    def test_ty_import(self, driver):
-        B_stu.student_import(driver)
+    # @allure.story("学员管理-体验课")
+    # @allure.title("8-导入学员")
+    # def test_ty_import(self, driver):
+    #     B_stu.student_import(driver)

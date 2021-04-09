@@ -13,4 +13,5 @@ class TestStudy(object):
 
     @allure.story("学习数据看板主页")
     def test_study_home(self, driver):
+        driver.refresh()
         B_study.study_home(driver)

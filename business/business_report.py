@@ -15,7 +15,7 @@ class BusinessReport(object):
     def report_home(self, driver):
         with allure.step("步骤1：点击报告管理"):
             driver.click(self.L_menu.menu_report)  # 点击报告管理
-            time.sleep(1)
+            time.sleep(2)
             assert self.L_URL.URL_report == driver.get_url()  # 断言是否进入报告管理页
             time.sleep(1)
             time_tool.over_time()

@@ -15,7 +15,7 @@ class BusinessPassword(object):
     def password_home(self, driver):
         with allure.step("步骤1：点击修改密码"):
             driver.click(self.L_menu.menu_password)  # 点击修改密码
-            time.sleep(1)
+            time.sleep(2)
             # 断言是否进入修改密码页
             assert self.L_URL.URL_password == driver.get_url()
             time.sleep(1)

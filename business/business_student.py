@@ -197,6 +197,7 @@ class BusinessStudent(object):
             driver.click(self.L_stu.stu_check_box)
             driver.click(self.L_stu.stu_menu)
             driver.click(self.L_stu.stu_export)
+            time.sleep(1)
 
     # 修改excel数据
     def student_ready(self, driver):
@@ -215,7 +216,7 @@ class BusinessStudent(object):
         ws.write(1, 7, company_abb)  # 写入公司缩写
         ws.write(1, 8, employee_number)  # 写入员工号
         ws.write(1, 12, "2021-12-31")  # 写入关闭时间
-        wb.save(os_tool.abs_path("./data/data_stu_template/学员导出模板.xls"))
+        wb.save(os_tool.abs_path("./data_stu_template/学员导出模板.xls"))
 
     # 导入学员
     @allure.story("学员管理")
@@ -227,3 +228,4 @@ class BusinessStudent(object):
             driver.click(self.L_stu.stu_import)
             driver.file_upload(self.L_stu.stu_upload, os_tool.abs_path("./data/data_stu_template/学员导出模板.xls"))  # 上传文件
             driver.click(self.L_stu.stu_import_ok)
+            time.sleep(1)

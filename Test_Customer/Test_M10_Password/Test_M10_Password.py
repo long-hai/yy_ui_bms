@@ -13,4 +13,5 @@ class TestPassword(object):
 
     @allure.story("学习数据管理主页")
     def test_password_home(self, driver):
+        driver.refresh()
         B_pwd.password_home(driver)

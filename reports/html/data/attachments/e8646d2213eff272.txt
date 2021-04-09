@@ -1,4 +1,0 @@
-INFO     tools.report.log_tool:log_tool.py:36 定位元素 //*[@id='out-table']/div[3]/table/tbody/tr/td[4]/div 
-INFO     tools.report.log_tool:log_tool.py:36 获取元素： <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="9dc41338-bce8-41c1-b652-c5827f2de66d")>  的展示文本为:  AN141 
-INFO     tools.report.log_tool:log_tool.py:36 定位元素 (//input[@placeholder='根据姓名/手机号/账号搜索学员'])[1] 
-INFO     tools.report.log_tool:log_tool.py:36 <selenium.webdriver.remote.webelement.WebElement (session="847b117c8b9f5c3e8a3d0ad275e973e4", element="e81bc4f8-1e1a-4876-a6ed-2be3831c0aba")> 中输入： AN141

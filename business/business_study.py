@@ -16,7 +16,7 @@ class BusinessStudy(object):
     def study_home(self, driver):
         with allure.step("步骤1：点击学习数据看板"):
             driver.click(self.L_menu.menu_study)  # 点击学习数据看板
-            time.sleep(1)
+            time.sleep(2)
             assert self.L_URL.URL_study == driver.get_url()  # 断言是否进入学习数据看板页
             time.sleep(1)
             time_tool.over_time()

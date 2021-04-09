@@ -10,7 +10,7 @@ from business.business_company import BusinessCompany
 B_company = BusinessCompany()
 
 
-@allure.feature("M3-客户管理")
+@allure.feature("M03-客户管理")
 class TestCompany(object):
 
     @allure.story("客户管理主页")

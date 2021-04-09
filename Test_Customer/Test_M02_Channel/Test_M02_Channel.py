@@ -10,7 +10,7 @@ from business.business_channel import BusinessChannel
 B_channel = BusinessChannel()
 
 
-@allure.feature("M2-渠道管理")
+@allure.feature("M02-渠道管理")
 class TestChannel(object):
 
     @allure.story("渠道管理主页")
